@@ -1,0 +1,3241 @@
+Code,Area,Year,Sex,Ethnicity,Pupils,Attainment8,Progress8
+E09000002,Barking and Dagenham,2018/19,All,White ,903,41.7,-0.21
+E09000002,Barking and Dagenham,2018/19,All,Mixed,227,44.7,0.05
+E09000002,Barking and Dagenham,2018/19,All,Asian,530,53.3,0.6
+E09000002,Barking and Dagenham,2018/19,All,Black ,642,48,0.37
+E09000002,Barking and Dagenham,2018/19,All,Chinese,3,69,0.93
+E09000002,Barking and Dagenham,2018/19,All,All Pupils,2353,46.4,0.16
+E09000002,Barking and Dagenham,2018/19,Boys,White,477,39.8,-0.39
+E09000002,Barking and Dagenham,2018/19,Boys,Mixed,106,40,-0.25
+E09000002,Barking and Dagenham,2018/19,Boys,Asian,280,50.4,0.41
+E09000002,Barking and Dagenham,2018/19,Boys,Black ,352,44.7,0.09
+E09000002,Barking and Dagenham,2018/19,Boys,Chinese,2,62,0.09
+E09000002,Barking and Dagenham,2018/19,Boys,All Pupils,1245,43.7,-0.06
+E09000002,Barking and Dagenham,2018/19,Girls ,White,426,43.8,-0.01
+E09000002,Barking and Dagenham,2018/19,Girls ,Mixed,121,48.7,0.3
+E09000002,Barking and Dagenham,2018/19,Girls ,Asian,250,56.5,0.81
+E09000002,Barking and Dagenham,2018/19,Girls ,Black,290,52.1,0.69
+E09000002,Barking and Dagenham,2018/19,Girls ,Chinese,1,83,1.77
+E09000002,Barking and Dagenham,2018/19,Girls ,All Pupils,1108,49.4,0.4
+E09000003,Barnet,2018/19,All,White ,1821,56.7,0.52
+E09000003,Barnet,2018/19,All,Mixed,398,55.7,0.37
+E09000003,Barnet,2018/19,All,Asian,536,68.6,0.91
+E09000003,Barnet,2018/19,All,Black ,532,49.8,0.38
+E09000003,Barnet,2018/19,All,Chinese,44,72.9,0.95
+E09000003,Barnet,2018/19,All,All Pupils,3804,57.1,0.57
+E09000003,Barnet,2018/19,Boys,White,949,54.3,0.26
+E09000003,Barnet,2018/19,Boys,Mixed,198,54.6,0.21
+E09000003,Barnet,2018/19,Boys,Asian,289,67.7,0.88
+E09000003,Barnet,2018/19,Boys,Black ,270,45.3,0
+E09000003,Barnet,2018/19,Boys,Chinese,20,74.7,0
+E09000003,Barnet,2018/19,Boys,All Pupils,1986,54.9,0.35
+E09000003,Barnet,2018/19,Girls ,White,872,59.3,0.82
+E09000003,Barnet,2018/19,Girls ,Mixed,200,56.8,0.54
+E09000003,Barnet,2018/19,Girls ,Asian,247,69.5,0.93
+E09000003,Barnet,2018/19,Girls ,Black,262,54.4,0.76
+E09000003,Barnet,2018/19,Girls ,Chinese,24,71.4,1.03
+E09000003,Barnet,2018/19,Girls ,All Pupils,1818,59.4,0.82
+E09000004,Bexley,2018/19,All,White ,1966,46,-0.36
+E09000004,Bexley,2018/19,All,Mixed,216,51.8,0.06
+E09000004,Bexley,2018/19,All,Asian,221,59.5,0.54
+E09000004,Bexley,2018/19,All,Black ,612,55.3,0.44
+E09000004,Bexley,2018/19,All,Chinese,31,73.8,0.91
+E09000004,Bexley,2018/19,All,All Pupils,3115,49.6,-0.09
+E09000004,Bexley,2018/19,Boys,White,1020,43.5,-0.59
+E09000004,Bexley,2018/19,Boys,Mixed,109,51.1,-0.15
+E09000004,Bexley,2018/19,Boys,Asian,117,59.4,0.44
+E09000004,Bexley,2018/19,Boys,Black ,282,50.7,0.1
+E09000004,Bexley,2018/19,Boys,Chinese,13,74.7,0.1
+E09000004,Bexley,2018/19,Boys,All Pupils,1577,46.8,-0.35
+E09000004,Bexley,2018/19,Girls ,White,946,48.8,-0.11
+E09000004,Bexley,2018/19,Girls ,Mixed,107,52.6,0.28
+E09000004,Bexley,2018/19,Girls ,Asian,104,59.6,0.65
+E09000004,Bexley,2018/19,Girls ,Black,330,59.4,0.71
+E09000004,Bexley,2018/19,Girls ,Chinese,18,73.1,0.84
+E09000004,Bexley,2018/19,Girls ,All Pupils,1538,52.5,0.16
+E09000005,Brent,2018/19,All,White ,572,48,0.33
+E09000005,Brent,2018/19,All,Mixed,216,50.6,0.29
+E09000005,Brent,2018/19,All,Asian,876,53.1,0.85
+E09000005,Brent,2018/19,All,Black ,703,45.2,0.06
+E09000005,Brent,2018/19,All,Chinese,4,65.9,1.21
+E09000005,Brent,2018/19,All,All Pupils,3038,50.2,0.47
+E09000005,Brent,2018/19,Boys,White,313,45,0.13
+E09000005,Brent,2018/19,Boys,Mixed,103,46.8,-0.06
+E09000005,Brent,2018/19,Boys,Asian,451,50.6,0.54
+E09000005,Brent,2018/19,Boys,Black ,318,41.1,-0.35
+E09000005,Brent,2018/19,Boys,Chinese,1,63,-0.35
+E09000005,Brent,2018/19,Boys,All Pupils,1525,47.2,0.18
+E09000005,Brent,2018/19,Girls ,White,259,51.5,0.57
+E09000005,Brent,2018/19,Girls ,Mixed,113,54,0.58
+E09000005,Brent,2018/19,Girls ,Asian,425,55.8,1.18
+E09000005,Brent,2018/19,Girls ,Black,385,48.5,0.39
+E09000005,Brent,2018/19,Girls ,Chinese,3,66.8,1.74
+E09000005,Brent,2018/19,Girls ,All Pupils,1513,53.2,0.76
+E09000006,Bromley,2018/19,All,White ,2314,49.1,-0.07
+E09000006,Bromley,2018/19,All,Mixed,323,53.5,0.09
+E09000006,Bromley,2018/19,All,Asian,206,67.2,0.76
+E09000006,Bromley,2018/19,All,Black ,338,48.6,0.16
+E09000006,Bromley,2018/19,All,Chinese,36,72.9,1.1
+E09000006,Bromley,2018/19,All,All Pupils,3312,50.8,0.03
+E09000006,Bromley,2018/19,Boys,White,1127,46.2,-0.38
+E09000006,Bromley,2018/19,Boys,Mixed,152,48.8,-0.28
+E09000006,Bromley,2018/19,Boys,Asian,107,63.3,0.5
+E09000006,Bromley,2018/19,Boys,Black ,145,42.8,-0.23
+E09000006,Bromley,2018/19,Boys,Chinese,22,70.4,-0.23
+E09000006,Bromley,2018/19,Boys,All Pupils,1599,47.5,-0.29
+E09000006,Bromley,2018/19,Girls ,White,1187,52,0.23
+E09000006,Bromley,2018/19,Girls ,Mixed,171,57.7,0.43
+E09000006,Bromley,2018/19,Girls ,Asian,99,71.5,1.03
+E09000006,Bromley,2018/19,Girls ,Black,193,52.9,0.45
+E09000006,Bromley,2018/19,Girls ,Chinese,14,76.9,1.43
+E09000006,Bromley,2018/19,Girls ,All Pupils,1713,54,0.33
+E09000007,Camden,2018/19,All,White ,541,51.3,0.06
+E09000007,Camden,2018/19,All,Mixed,195,49.7,0.08
+E09000007,Camden,2018/19,All,Asian,278,47.8,0.27
+E09000007,Camden,2018/19,All,Black ,402,44.9,-0.02
+E09000007,Camden,2018/19,All,Chinese,9,67.1,0.51
+E09000007,Camden,2018/19,All,All Pupils,1571,48.6,0.09
+E09000007,Camden,2018/19,Boys,White,223,43,-0.6
+E09000007,Camden,2018/19,Boys,Mixed,70,45.9,-0.29
+E09000007,Camden,2018/19,Boys,Asian,124,44.5,-0.18
+E09000007,Camden,2018/19,Boys,Black ,166,39,-0.52
+E09000007,Camden,2018/19,Boys,Chinese,2,67,-0.52
+E09000007,Camden,2018/19,Boys,All Pupils,646,42.7,-0.42
+E09000007,Camden,2018/19,Girls ,White,318,57.2,0.53
+E09000007,Camden,2018/19,Girls ,Mixed,125,51.7,0.29
+E09000007,Camden,2018/19,Girls ,Asian,154,50.5,0.64
+E09000007,Camden,2018/19,Girls ,Black,236,49.2,0.31
+E09000007,Camden,2018/19,Girls ,Chinese,7,67.1,0.62
+E09000007,Camden,2018/19,Girls ,All Pupils,925,52.7,0.45
+E09000001,City of London,2018/19,All,White ,0,.,.
+E09000001,City of London,2018/19,All,Mixed,0,.,.
+E09000001,City of London,2018/19,All,Asian,0,.,.
+E09000001,City of London,2018/19,All,Black ,0,.,.
+E09000001,City of London,2018/19,All,Chinese,0,.,.
+E09000001,City of London,2018/19,All,All Pupils,0,.,.
+E09000001,City of London,2018/19,Boys,White,0,.,.
+E09000001,City of London,2018/19,Boys,Mixed,0,.,.
+E09000001,City of London,2018/19,Boys,Asian,0,.,.
+E09000001,City of London,2018/19,Boys,Black ,0,.,.
+E09000001,City of London,2018/19,Boys,Chinese,0,.,.
+E09000001,City of London,2018/19,Boys,All Pupils,0,.,.
+E09000001,City of London,2018/19,Girls ,White,0,.,.
+E09000001,City of London,2018/19,Girls ,Mixed,0,.,.
+E09000001,City of London,2018/19,Girls ,Asian,0,.,.
+E09000001,City of London,2018/19,Girls ,Black,0,.,.
+E09000001,City of London,2018/19,Girls ,Chinese,0,.,.
+E09000001,City of London,2018/19,Girls ,All Pupils,0,.,.
+E09000008,Croydon,2018/19,All,White ,1283,47.1,0.03
+E09000008,Croydon,2018/19,All,Mixed,570,45.3,0
+E09000008,Croydon,2018/19,All,Asian,477,51.1,0.59
+E09000008,Croydon,2018/19,All,Black ,1130,41.5,-0.06
+E09000008,Croydon,2018/19,All,Chinese,17,63.2,0.36
+E09000008,Croydon,2018/19,All,All Pupils,3640,45.5,0.07
+E09000008,Croydon,2018/19,Boys,White,596,43.7,-0.18
+E09000008,Croydon,2018/19,Boys,Mixed,290,42.3,-0.23
+E09000008,Croydon,2018/19,Boys,Asian,250,48.7,0.34
+E09000008,Croydon,2018/19,Boys,Black ,585,38.5,-0.34
+E09000008,Croydon,2018/19,Boys,Chinese,10,61.5,-0.34
+E09000008,Croydon,2018/19,Boys,All Pupils,1802,42.4,-0.17
+E09000008,Croydon,2018/19,Girls ,White,687,50.1,0.22
+E09000008,Croydon,2018/19,Girls ,Mixed,280,48.4,0.25
+E09000008,Croydon,2018/19,Girls ,Asian,227,53.7,0.86
+E09000008,Croydon,2018/19,Girls ,Black,545,44.7,0.22
+E09000008,Croydon,2018/19,Girls ,Chinese,7,65.6,0.37
+E09000008,Croydon,2018/19,Girls ,All Pupils,1838,48.5,0.31
+E09000009,Ealing,2018/19,All,White ,815,52.6,0.48
+E09000009,Ealing,2018/19,All,Mixed,204,51.2,0.25
+E09000009,Ealing,2018/19,All,Asian,906,52.8,0.91
+E09000009,Ealing,2018/19,All,Black ,560,47.1,0.33
+E09000009,Ealing,2018/19,All,Chinese,7,73.3,1.74
+E09000009,Ealing,2018/19,All,All Pupils,2956,50.9,0.58
+E09000009,Ealing,2018/19,Boys,White,395,49.1,0.15
+E09000009,Ealing,2018/19,Boys,Mixed,98,46.3,-0.14
+E09000009,Ealing,2018/19,Boys,Asian,502,50.6,0.72
+E09000009,Ealing,2018/19,Boys,Black ,260,43.3,0.06
+E09000009,Ealing,2018/19,Boys,Chinese,2,73,0.06
+E09000009,Ealing,2018/19,Boys,All Pupils,1507,47.9,0.32
+E09000009,Ealing,2018/19,Girls ,White,420,55.8,0.79
+E09000009,Ealing,2018/19,Girls ,Mixed,106,55.7,0.6
+E09000009,Ealing,2018/19,Girls ,Asian,404,55.5,1.13
+E09000009,Ealing,2018/19,Girls ,Black,300,50.3,0.57
+E09000009,Ealing,2018/19,Girls ,Chinese,5,73.4,1.8
+E09000009,Ealing,2018/19,Girls ,All Pupils,1449,54.1,0.84
+E12000006,East,2018/19,All,White ,50485,46.4,-0.06
+E12000006,East,2018/19,All,Mixed,2895,48.3,0.01
+E12000006,East,2018/19,All,Asian,3873,53,0.54
+E12000006,East,2018/19,All,Black ,2134,47.2,-0.06
+E12000006,East,2018/19,All,Chinese,245,64.5,0.86
+E12000006,East,2018/19,All,All Pupils,60993,47,0
+E12000006,East,2018/19,Boys,White,25788,43.9,-0.29
+E12000006,East,2018/19,Boys,Mixed,1477,45.5,-0.26
+E12000006,East,2018/19,Boys,Asian,1997,50.8,0.33
+E12000006,East,2018/19,Boys,Black ,1062,43.8,-0.07
+E12000006,East,2018/19,Boys,Chinese,135,63.1,-0.07
+E12000006,East,2018/19,Boys,All Pupils,31157,44.5,-0.24
+E12000006,East,2018/19,Girls ,White,24697,49,0.19
+E12000006,East,2018/19,Girls ,Mixed,1418,51.1,0.28
+E12000006,East,2018/19,Girls ,Asian,1876,55.4,0.75
+E12000006,East,2018/19,Girls ,Black,1072,50.7,0.57
+E12000006,East,2018/19,Girls ,Chinese,110,66.2,1.04
+E12000006,East,2018/19,Girls ,All Pupils,29836,49.7,0.25
+E12000004,East Midlands,2018/19,All,White ,38424,45.4,-0.13
+E12000004,East Midlands,2018/19,All,Mixed,2028,44.8,-0.12
+E12000004,East Midlands,2018/19,All,Asian,4087,50.7,0.59
+E12000004,East Midlands,2018/19,All,Black ,1440,44.1,-0.13
+E12000004,East Midlands,2018/19,All,Chinese,123,62.5,1.22
+E12000004,East Midlands,2018/19,All,All Pupils,47019,45.8,-0.06
+E12000004,East Midlands,2018/19,Boys,White,19635,42.6,-0.37
+E12000004,East Midlands,2018/19,Boys,Mixed,1008,41.7,-0.43
+E12000004,East Midlands,2018/19,Boys,Asian,2173,48.2,0.34
+E12000004,East Midlands,2018/19,Boys,Black ,730,39.4,-0.18
+E12000004,East Midlands,2018/19,Boys,Chinese,52,59.2,-0.18
+E12000004,East Midlands,2018/19,Boys,All Pupils,24079,43,-0.31
+E12000004,East Midlands,2018/19,Girls ,White,18789,48.4,0.13
+E12000004,East Midlands,2018/19,Girls ,Mixed,1020,47.8,0.19
+E12000004,East Midlands,2018/19,Girls ,Asian,1914,53.4,0.88
+E12000004,East Midlands,2018/19,Girls ,Black,710,49.1,0.53
+E12000004,East Midlands,2018/19,Girls ,Chinese,71,64.9,1.4
+E12000004,East Midlands,2018/19,Girls ,All Pupils,22940,48.8,0.21
+E09000010,Enfield,2018/19,All,White ,1769,45.1,0.04
+E09000010,Enfield,2018/19,All,Mixed,318,49.9,0.19
+E09000010,Enfield,2018/19,All,Asian,308,57.3,0.52
+E09000010,Enfield,2018/19,All,Black ,890,43.2,0.07
+E09000010,Enfield,2018/19,All,Chinese,19,70.3,0.75
+E09000010,Enfield,2018/19,All,All Pupils,3606,46.5,0.12
+E09000010,Enfield,2018/19,Boys,White,923,42.9,-0.24
+E09000010,Enfield,2018/19,Boys,Mixed,157,46.7,-0.12
+E09000010,Enfield,2018/19,Boys,Asian,155,54.4,0.26
+E09000010,Enfield,2018/19,Boys,Black ,438,38.8,-0.21
+E09000010,Enfield,2018/19,Boys,Chinese,7,69.1,-0.21
+E09000010,Enfield,2018/19,Boys,All Pupils,1840,43.7,-0.16
+E09000010,Enfield,2018/19,Girls ,White,846,47.5,0.35
+E09000010,Enfield,2018/19,Girls ,Mixed,161,53,0.49
+E09000010,Enfield,2018/19,Girls ,Asian,153,60.3,0.79
+E09000010,Enfield,2018/19,Girls ,Black,452,47.4,0.35
+E09000010,Enfield,2018/19,Girls ,Chinese,12,71,1.05
+E09000010,Enfield,2018/19,Girls ,All Pupils,1766,49.4,0.42
+E92000001,England,2018/19,All,White ,405623,46.2,-0.11
+E92000001,England,2018/19,All,Mixed,26905,47.7,0
+E92000001,England,2018/19,All,Asian,57606,51.5,0.47
+E92000001,England,2018/19,All,Black ,30819,45.2,-0.11
+E92000001,England,2018/19,All,Chinese,1996,64.5,0.86
+E92000001,England,2018/19,All,All Pupils,540006,46.8,-0.03
+E92000001,England,2018/19,Boys,White,206797,43.6,-0.35
+E92000001,England,2018/19,Boys,Mixed,13504,45,-0.25
+E92000001,England,2018/19,Boys,Asian,29713,48.9,0.22
+E92000001,England,2018/19,Boys,Black ,15294,41.5,-0.17
+E92000001,England,2018/19,Boys,Chinese,998,62.8,-0.17
+E92000001,England,2018/19,Boys,All Pupils,275185,44.2,-0.27
+E92000001,England,2018/19,Girls ,White,198826,48.9,0.14
+E92000001,England,2018/19,Girls ,Mixed,13401,50.4,0.24
+E92000001,England,2018/19,Girls ,Asian,27893,54.2,0.72
+E92000001,England,2018/19,Girls ,Black,15525,48.9,0.43
+E92000001,England,2018/19,Girls ,Chinese,998,66.2,0.99
+E92000001,England,2018/19,Girls ,All Pupils,264821,49.6,0.22
+E09000011,Greenwich,2018/19,All,White ,1098,43,-0.47
+E09000011,Greenwich,2018/19,All,Mixed,247,44.9,-0.23
+E09000011,Greenwich,2018/19,All,Asian,178,52.6,0.27
+E09000011,Greenwich,2018/19,All,Black ,708,46.1,0.13
+E09000011,Greenwich,2018/19,All,Chinese,28,57.6,0.55
+E09000011,Greenwich,2018/19,All,All Pupils,2364,45.3,-0.18
+E09000011,Greenwich,2018/19,Boys,White,547,40.6,-0.68
+E09000011,Greenwich,2018/19,Boys,Mixed,122,41.7,-0.56
+E09000011,Greenwich,2018/19,Boys,Asian,82,50.8,0.3
+E09000011,Greenwich,2018/19,Boys,Black ,344,43.1,-0.14
+E09000011,Greenwich,2018/19,Boys,Chinese,12,56.8,-0.14
+E09000011,Greenwich,2018/19,Boys,All Pupils,1171,42.7,-0.39
+E09000011,Greenwich,2018/19,Girls ,White,551,45.5,-0.27
+E09000011,Greenwich,2018/19,Girls ,Mixed,125,48.1,0.08
+E09000011,Greenwich,2018/19,Girls ,Asian,96,54.2,0.25
+E09000011,Greenwich,2018/19,Girls ,Black,364,49,0.4
+E09000011,Greenwich,2018/19,Girls ,Chinese,16,58.1,0.08
+E09000011,Greenwich,2018/19,Girls ,All Pupils,1193,47.8,0.03
+E09000012,Hackney,2018/19,All,White ,749,53.4,0.51
+E09000012,Hackney,2018/19,All,Mixed,200,49.2,0.21
+E09000012,Hackney,2018/19,All,Asian,280,52.3,0.46
+E09000012,Hackney,2018/19,All,Black ,849,44.8,0.05
+E09000012,Hackney,2018/19,All,Chinese,10,67,1.45
+E09000012,Hackney,2018/19,All,All Pupils,2230,49.2,0.29
+E09000012,Hackney,2018/19,Boys,White,327,50.2,0.14
+E09000012,Hackney,2018/19,Boys,Mixed,84,44.8,-0.12
+E09000012,Hackney,2018/19,Boys,Asian,135,48.9,0.17
+E09000012,Hackney,2018/19,Boys,Black ,409,41.2,-0.28
+E09000012,Hackney,2018/19,Boys,Chinese,9,66.8,-0.28
+E09000012,Hackney,2018/19,Boys,All Pupils,1049,45.8,-0.04
+E09000012,Hackney,2018/19,Girls ,White,422,56,0.8
+E09000012,Hackney,2018/19,Girls ,Mixed,116,52.3,0.44
+E09000012,Hackney,2018/19,Girls ,Asian,145,55.4,0.73
+E09000012,Hackney,2018/19,Girls ,Black,440,48.1,0.35
+E09000012,Hackney,2018/19,Girls ,Chinese,1,69,0
+E09000012,Hackney,2018/19,Girls ,All Pupils,1181,52.3,0.58
+E09000013,Hammersmith and Fulham,2018/19,All,White ,594,58.3,0.42
+E09000013,Hammersmith and Fulham,2018/19,All,Mixed,140,52.5,-0.07
+E09000013,Hammersmith and Fulham,2018/19,All,Asian,120,54.9,0.44
+E09000013,Hammersmith and Fulham,2018/19,All,Black ,305,47,0
+E09000013,Hammersmith and Fulham,2018/19,All,Chinese,5,66.8,1.84
+E09000013,Hammersmith and Fulham,2018/19,All,All Pupils,1326,53.9,0.27
+E09000013,Hammersmith and Fulham,2018/19,Boys,White,303,56.3,0.2
+E09000013,Hammersmith and Fulham,2018/19,Boys,Mixed,66,50.1,-0.4
+E09000013,Hammersmith and Fulham,2018/19,Boys,Asian,53,46,-0.24
+E09000013,Hammersmith and Fulham,2018/19,Boys,Black ,135,41.2,-0.5
+E09000013,Hammersmith and Fulham,2018/19,Boys,Chinese,1,83,-0.5
+E09000013,Hammersmith and Fulham,2018/19,Boys,All Pupils,632,50.4,-0.1
+E09000013,Hammersmith and Fulham,2018/19,Girls ,White,291,60.3,0.65
+E09000013,Hammersmith and Fulham,2018/19,Girls ,Mixed,74,54.7,0.2
+E09000013,Hammersmith and Fulham,2018/19,Girls ,Asian,67,61.9,0.95
+E09000013,Hammersmith and Fulham,2018/19,Girls ,Black,170,51.5,0.38
+E09000013,Hammersmith and Fulham,2018/19,Girls ,Chinese,4,62.8,1.45
+E09000013,Hammersmith and Fulham,2018/19,Girls ,All Pupils,694,57.1,0.59
+E09000014,Haringey,2018/19,All,White ,1090,48.6,0.41
+E09000014,Haringey,2018/19,All,Mixed,235,50.1,0.2
+E09000014,Haringey,2018/19,All,Asian,127,53.3,0.49
+E09000014,Haringey,2018/19,All,Black ,634,41.2,-0.08
+E09000014,Haringey,2018/19,All,Chinese,13,61.5,0.85
+E09000014,Haringey,2018/19,All,All Pupils,2336,46.9,0.24
+E09000014,Haringey,2018/19,Boys,White,577,46,0.19
+E09000014,Haringey,2018/19,Boys,Mixed,119,45.9,-0.04
+E09000014,Haringey,2018/19,Boys,Asian,58,48,0.19
+E09000014,Haringey,2018/19,Boys,Black ,328,38.9,-0.27
+E09000014,Haringey,2018/19,Boys,Chinese,10,55.4,-0.27
+E09000014,Haringey,2018/19,Boys,All Pupils,1212,44.1,0.02
+E09000014,Haringey,2018/19,Girls ,White,513,51.5,0.65
+E09000014,Haringey,2018/19,Girls ,Mixed,116,54.5,0.45
+E09000014,Haringey,2018/19,Girls ,Asian,69,57.7,0.74
+E09000014,Haringey,2018/19,Girls ,Black,306,43.5,0.13
+E09000014,Haringey,2018/19,Girls ,Chinese,3,81.6,1.02
+E09000014,Haringey,2018/19,Girls ,All Pupils,1124,49.9,0.47
+E09000015,Harrow,2018/19,All,White ,575,48.8,0.24
+E09000015,Harrow,2018/19,All,Mixed,191,49.4,0.19
+E09000015,Harrow,2018/19,All,Asian,939,56.3,0.68
+E09000015,Harrow,2018/19,All,Black ,326,42.4,-0.04
+E09000015,Harrow,2018/19,All,Chinese,11,52.3,0.19
+E09000015,Harrow,2018/19,All,All Pupils,2210,50.9,0.39
+E09000015,Harrow,2018/19,Boys,White,292,45.3,-0.14
+E09000015,Harrow,2018/19,Boys,Mixed,107,47.5,0.06
+E09000015,Harrow,2018/19,Boys,Asian,448,53.1,0.37
+E09000015,Harrow,2018/19,Boys,Black ,154,37,-0.45
+E09000015,Harrow,2018/19,Boys,Chinese,6,56.2,-0.45
+E09000015,Harrow,2018/19,Boys,All Pupils,1095,47.2,0.04
+E09000015,Harrow,2018/19,Girls ,White,283,52.4,0.61
+E09000015,Harrow,2018/19,Girls ,Mixed,84,51.8,0.35
+E09000015,Harrow,2018/19,Girls ,Asian,491,59.2,0.95
+E09000015,Harrow,2018/19,Girls ,Black,172,47.3,0.32
+E09000015,Harrow,2018/19,Girls ,Chinese,5,47.7,0.12
+E09000015,Harrow,2018/19,Girls ,All Pupils,1115,54.7,0.71
+E09000016,Havering,2018/19,All,White ,2090,47.8,-0.13
+E09000016,Havering,2018/19,All,Mixed,157,50.4,0.07
+E09000016,Havering,2018/19,All,Asian,162,53.3,0.44
+E09000016,Havering,2018/19,All,Black ,340,50,0.26
+E09000016,Havering,2018/19,All,Chinese,16,63.2,0.71
+E09000016,Havering,2018/19,All,All Pupils,2829,48.5,-0.05
+E09000016,Havering,2018/19,Boys,White,1039,45.4,-0.36
+E09000016,Havering,2018/19,Boys,Mixed,78,46.5,-0.16
+E09000016,Havering,2018/19,Boys,Asian,83,51.8,0.19
+E09000016,Havering,2018/19,Boys,Black ,158,45.5,-0.24
+E09000016,Havering,2018/19,Boys,Chinese,8,69.3,-0.24
+E09000016,Havering,2018/19,Boys,All Pupils,1408,46,-0.29
+E09000016,Havering,2018/19,Girls ,White,1051,50.1,0.09
+E09000016,Havering,2018/19,Girls ,Mixed,79,54.3,0.3
+E09000016,Havering,2018/19,Girls ,Asian,79,55,0.7
+E09000016,Havering,2018/19,Girls ,Black,182,53.8,0.71
+E09000016,Havering,2018/19,Girls ,Chinese,8,57,0.32
+E09000016,Havering,2018/19,Girls ,All Pupils,1421,51,0.2
+E09000017,Hillingdon,2018/19,All,White ,1436,44.4,-0.26
+E09000017,Hillingdon,2018/19,All,Mixed,325,50.4,0.11
+E09000017,Hillingdon,2018/19,All,Asian,760,53.4,0.64
+E09000017,Hillingdon,2018/19,All,Black ,379,45.4,0.23
+E09000017,Hillingdon,2018/19,All,Chinese,9,54.7,0.83
+E09000017,Hillingdon,2018/19,All,All Pupils,3203,47.7,0.11
+E09000017,Hillingdon,2018/19,Boys,White,726,41.3,-0.55
+E09000017,Hillingdon,2018/19,Boys,Mixed,184,48.9,0.01
+E09000017,Hillingdon,2018/19,Boys,Asian,403,49.4,0.33
+E09000017,Hillingdon,2018/19,Boys,Black ,197,40.8,-0.16
+E09000017,Hillingdon,2018/19,Boys,Chinese,6,59.2,-0.16
+E09000017,Hillingdon,2018/19,Boys,All Pupils,1679,44.2,-0.18
+E09000017,Hillingdon,2018/19,Girls ,White,710,47.6,0.04
+E09000017,Hillingdon,2018/19,Girls ,Mixed,141,52.4,0.23
+E09000017,Hillingdon,2018/19,Girls ,Asian,357,57.9,0.97
+E09000017,Hillingdon,2018/19,Girls ,Black,182,50.3,0.63
+E09000017,Hillingdon,2018/19,Girls ,Chinese,3,45.7,0.25
+E09000017,Hillingdon,2018/19,Girls ,All Pupils,1524,51.5,0.42
+E09000018,Hounslow,2018/19,All,White ,877,50.3,0.15
+E09000018,Hounslow,2018/19,All,Mixed,227,50.1,0.25
+E09000018,Hounslow,2018/19,All,Asian,833,53.9,0.74
+E09000018,Hounslow,2018/19,All,Black ,352,48.5,0.28
+E09000018,Hounslow,2018/19,All,Chinese,4,35.3,-0.15
+E09000018,Hounslow,2018/19,All,All Pupils,2731,49.3,0.37
+E09000018,Hounslow,2018/19,Boys,White,438,47.4,-0.09
+E09000018,Hounslow,2018/19,Boys,Mixed,118,49.4,0.13
+E09000018,Hounslow,2018/19,Boys,Asian,429,51.6,0.47
+E09000018,Hounslow,2018/19,Boys,Black ,181,44.8,-0.04
+E09000018,Hounslow,2018/19,Boys,Chinese,1,15,-0.04
+E09000018,Hounslow,2018/19,Boys,All Pupils,1396,46.5,0.12
+E09000018,Hounslow,2018/19,Girls ,White,439,53.1,0.38
+E09000018,Hounslow,2018/19,Girls ,Mixed,109,50.7,0.39
+E09000018,Hounslow,2018/19,Girls ,Asian,404,56.3,1.03
+E09000018,Hounslow,2018/19,Girls ,Black,171,52.4,0.6
+E09000018,Hounslow,2018/19,Girls ,Chinese,3,42,0.05
+E09000018,Hounslow,2018/19,Girls ,All Pupils,1335,52.2,0.62
+E13000001,Inner London,2018/19,All,White ,7648,50.1,0.17
+E13000001,Inner London,2018/19,All,Mixed,2619,47.8,0
+E13000001,Inner London,2018/19,All,Asian,5764,51.9,0.46
+E13000001,Inner London,2018/19,All,Black ,8148,44.3,-0.01
+E13000001,Inner London,2018/19,All,Chinese,183,63.9,0.89
+E13000001,Inner London,2018/19,All,All Pupils,26861,48.4,0.18
+E13000001,Inner London,2018/19,Boys,White,3814,47.4,-0.09
+E13000001,Inner London,2018/19,Boys,Mixed,1248,44.6,-0.25
+E13000001,Inner London,2018/19,Boys,Asian,2853,49.7,0.23
+E13000001,Inner London,2018/19,Boys,Black ,4023,40.8,-0.29
+E13000001,Inner London,2018/19,Boys,Chinese,100,60.6,-0.29
+E13000001,Inner London,2018/19,Boys,All Pupils,13307,45.6,-0.08
+E13000001,Inner London,2018/19,Girls ,White,3834,52.8,0.41
+E13000001,Inner London,2018/19,Girls ,Mixed,1371,50.6,0.22
+E13000001,Inner London,2018/19,Girls ,Asian,2911,54,0.7
+E13000001,Inner London,2018/19,Girls ,Black,4125,47.7,0.25
+E13000001,Inner London,2018/19,Girls ,Chinese,83,68,1
+E13000001,Inner London,2018/19,Girls ,All Pupils,13554,51.2,0.43
+E09000019,Islington,2018/19,All,White ,551,44.9,-0.18
+E09000019,Islington,2018/19,All,Mixed,188,47.8,-0.07
+E09000019,Islington,2018/19,All,Asian,171,52.5,0.46
+E09000019,Islington,2018/19,All,Black ,414,42.3,-0.01
+E09000019,Islington,2018/19,All,Chinese,7,68.1,1.17
+E09000019,Islington,2018/19,All,All Pupils,1465,45.8,0.03
+E09000019,Islington,2018/19,Boys,White,308,44.6,-0.3
+E09000019,Islington,2018/19,Boys,Mixed,91,45.6,-0.21
+E09000019,Islington,2018/19,Boys,Asian,80,51.4,0.3
+E09000019,Islington,2018/19,Boys,Black ,224,39.1,-0.23
+E09000019,Islington,2018/19,Boys,Chinese,4,62.3,-0.23
+E09000019,Islington,2018/19,Boys,All Pupils,786,44.2,-0.14
+E09000019,Islington,2018/19,Girls ,White,243,45.4,-0.03
+E09000019,Islington,2018/19,Girls ,Mixed,97,49.9,0.06
+E09000019,Islington,2018/19,Girls ,Asian,91,53.5,0.59
+E09000019,Islington,2018/19,Girls ,Black,190,45.9,0.27
+E09000019,Islington,2018/19,Girls ,Chinese,3,76,1.61
+E09000019,Islington,2018/19,Girls ,All Pupils,679,47.8,0.22
+E09000020,Kensington and Chelsea,2018/19,All,White ,343,54.7,0.3
+E09000020,Kensington and Chelsea,2018/19,All,Mixed,109,53.9,0.36
+E09000020,Kensington and Chelsea,2018/19,All,Asian,37,57.8,0.67
+E09000020,Kensington and Chelsea,2018/19,All,Black ,169,49,0.1
+E09000020,Kensington and Chelsea,2018/19,All,Chinese,4,81.8,1.17
+E09000020,Kensington and Chelsea,2018/19,All,All Pupils,867,53.6,0.32
+E09000020,Kensington and Chelsea,2018/19,Boys,White,194,55.4,0.18
+E09000020,Kensington and Chelsea,2018/19,Boys,Mixed,56,51.7,0.15
+E09000020,Kensington and Chelsea,2018/19,Boys,Asian,24,54,0.49
+E09000020,Kensington and Chelsea,2018/19,Boys,Black ,103,48.4,-0.11
+E09000020,Kensington and Chelsea,2018/19,Boys,Chinese,3,81.3,-0.11
+E09000020,Kensington and Chelsea,2018/19,Boys,All Pupils,483,53.1,0.13
+E09000020,Kensington and Chelsea,2018/19,Girls ,White,149,53.7,0.46
+E09000020,Kensington and Chelsea,2018/19,Girls ,Mixed,53,56.2,0.58
+E09000020,Kensington and Chelsea,2018/19,Girls ,Asian,13,64.8,1.04
+E09000020,Kensington and Chelsea,2018/19,Girls ,Black,66,49.9,0.43
+E09000020,Kensington and Chelsea,2018/19,Girls ,Chinese,1,83,0.38
+E09000020,Kensington and Chelsea,2018/19,Girls ,All Pupils,384,54.2,0.56
+E09000021,Kingston upon Thames,2018/19,All,White ,802,52.7,0.27
+E09000021,Kingston upon Thames,2018/19,All,Mixed,140,55.4,0.26
+E09000021,Kingston upon Thames,2018/19,All,Asian,404,66.1,0.84
+E09000021,Kingston upon Thames,2018/19,All,Black ,76,47.1,0.46
+E09000021,Kingston upon Thames,2018/19,All,Chinese,19,75.3,1.07
+E09000021,Kingston upon Thames,2018/19,All,All Pupils,1550,56.9,0.46
+E09000021,Kingston upon Thames,2018/19,Boys,White,378,50.4,0.01
+E09000021,Kingston upon Thames,2018/19,Boys,Mixed,65,49.5,0
+E09000021,Kingston upon Thames,2018/19,Boys,Asian,216,61.3,0.58
+E09000021,Kingston upon Thames,2018/19,Boys,Black ,38,46.7,0.26
+E09000021,Kingston upon Thames,2018/19,Boys,Chinese,6,83.6,0.26
+E09000021,Kingston upon Thames,2018/19,Boys,All Pupils,742,53.8,0.21
+E09000021,Kingston upon Thames,2018/19,Girls ,White,424,54.7,0.5
+E09000021,Kingston upon Thames,2018/19,Girls ,Mixed,75,60.5,0.49
+E09000021,Kingston upon Thames,2018/19,Girls ,Asian,188,71.6,1.16
+E09000021,Kingston upon Thames,2018/19,Girls ,Black,38,47.5,0.67
+E09000021,Kingston upon Thames,2018/19,Girls ,Chinese,13,71.4,1.16
+E09000021,Kingston upon Thames,2018/19,Girls ,All Pupils,808,59.7,0.69
+E09000022,Lambeth,2018/19,All,White ,567,47.9,0.15
+E09000022,Lambeth,2018/19,All,Mixed,267,44.3,-0.14
+E09000022,Lambeth,2018/19,All,Asian,91,50.9,0.51
+E09000022,Lambeth,2018/19,All,Black ,1058,41.4,-0.2
+E09000022,Lambeth,2018/19,All,Chinese,18,64.2,0.76
+E09000022,Lambeth,2018/19,All,All Pupils,2189,44.1,-0.04
+E09000022,Lambeth,2018/19,Boys,White,315,45.6,-0.14
+E09000022,Lambeth,2018/19,Boys,Mixed,131,40.8,-0.45
+E09000022,Lambeth,2018/19,Boys,Asian,51,49.1,0.23
+E09000022,Lambeth,2018/19,Boys,Black ,496,37.7,-0.51
+E09000022,Lambeth,2018/19,Boys,Chinese,9,60,-0.51
+E09000022,Lambeth,2018/19,Boys,All Pupils,1099,41.3,-0.34
+E09000022,Lambeth,2018/19,Girls ,White,252,50.7,0.52
+E09000022,Lambeth,2018/19,Girls ,Mixed,136,47.6,0.17
+E09000022,Lambeth,2018/19,Girls ,Asian,40,53.2,0.86
+E09000022,Lambeth,2018/19,Girls ,Black,562,44.7,0.08
+E09000022,Lambeth,2018/19,Girls ,Chinese,9,68.4,0.72
+E09000022,Lambeth,2018/19,Girls ,All Pupils,1090,47,0.26
+E09000023,Lewisham,2018/19,All,White ,623,46,-0.27
+E09000023,Lewisham,2018/19,All,Mixed,267,44.3,-0.3
+E09000023,Lewisham,2018/19,All,Asian,131,50.9,0.2
+E09000023,Lewisham,2018/19,All,Black ,999,40.8,-0.36
+E09000023,Lewisham,2018/19,All,Chinese,21,58.8,0.69
+E09000023,Lewisham,2018/19,All,All Pupils,2187,43.7,-0.27
+E09000023,Lewisham,2018/19,Boys,White,317,42.7,-0.48
+E09000023,Lewisham,2018/19,Boys,Mixed,155,42,-0.5
+E09000023,Lewisham,2018/19,Boys,Asian,73,50.1,0.17
+E09000023,Lewisham,2018/19,Boys,Black ,493,36.6,-0.62
+E09000023,Lewisham,2018/19,Boys,Chinese,11,55.7,-0.62
+E09000023,Lewisham,2018/19,Boys,All Pupils,1123,40.4,-0.49
+E09000023,Lewisham,2018/19,Girls ,White,306,49.4,-0.05
+E09000023,Lewisham,2018/19,Girls ,Mixed,112,47.5,-0.02
+E09000023,Lewisham,2018/19,Girls ,Asian,58,51.9,0.23
+E09000023,Lewisham,2018/19,Girls ,Black,506,44.8,-0.1
+E09000023,Lewisham,2018/19,Girls ,Chinese,10,62.2,0.5
+E09000023,Lewisham,2018/19,Girls ,All Pupils,1064,47.2,-0.03
+E12000007,London,2018/19,All,White ,31156,49.2,0.07
+E12000007,London,2018/19,All,Mixed,7489,49.6,0.1
+E12000007,London,2018/19,All,Asian,16824,55,0.62
+E12000007,London,2018/19,All,Black ,17353,45.4,0.07
+E12000007,London,2018/19,All,Chinese,527,66.9,0.86
+E12000007,London,2018/19,All,All Pupils,79701,49.7,0.22
+E12000007,London,2018/19,Boys,White,15692,46.5,-0.19
+E12000007,London,2018/19,Boys,Mixed,3651,46.8,-0.14
+E12000007,London,2018/19,Boys,Asian,8588,52.5,0.39
+E12000007,London,2018/19,Boys,Black ,8582,41.7,-0.21
+E12000007,London,2018/19,Boys,Chinese,271,64.9,-0.21
+E12000007,London,2018/19,Boys,All Pupils,40067,46.9,-0.04
+E12000007,London,2018/19,Girls ,White,15464,51.8,0.32
+E12000007,London,2018/19,Girls ,Mixed,3838,52.3,0.33
+E12000007,London,2018/19,Girls ,Asian,8236,57.6,0.85
+E12000007,London,2018/19,Girls ,Black,8771,49.1,0.38
+E12000007,London,2018/19,Girls ,Chinese,256,69,0.91
+E12000007,London,2018/19,Girls ,All Pupils,39634,52.6,0.48
+E09000024,Merton,2018/19,All,White ,686,52.1,0.53
+E09000024,Merton,2018/19,All,Mixed,196,52,0.45
+E09000024,Merton,2018/19,All,Asian,249,54.3,0.96
+E09000024,Merton,2018/19,All,Black ,263,44.7,0.26
+E09000024,Merton,2018/19,All,Chinese,5,72.3,1.14
+E09000024,Merton,2018/19,All,All Pupils,1455,51.1,0.55
+E09000024,Merton,2018/19,Boys,White,337,49.4,0.32
+E09000024,Merton,2018/19,Boys,Mixed,80,49.2,0.39
+E09000024,Merton,2018/19,Boys,Asian,156,52.3,0.81
+E09000024,Merton,2018/19,Boys,Black ,136,41.2,0.01
+E09000024,Merton,2018/19,Boys,Chinese,1,89,0.01
+E09000024,Merton,2018/19,Boys,All Pupils,742,48.6,0.38
+E09000024,Merton,2018/19,Girls ,White,349,54.7,0.73
+E09000024,Merton,2018/19,Girls ,Mixed,116,54,0.49
+E09000024,Merton,2018/19,Girls ,Asian,93,57.7,1.21
+E09000024,Merton,2018/19,Girls ,Black,127,48.3,0.5
+E09000024,Merton,2018/19,Girls ,Chinese,4,68.1,0.65
+E09000024,Merton,2018/19,Girls ,All Pupils,713,53.7,0.72
+E09000025,Newham,2018/19,All,White ,622,43.1,-0.08
+E09000025,Newham,2018/19,All,Mixed,226,46.4,-0.2
+E09000025,Newham,2018/19,All,Asian,1852,52.4,0.49
+E09000025,Newham,2018/19,All,Black ,978,45.7,0.01
+E09000025,Newham,2018/19,All,Chinese,14,63.7,1.1
+E09000025,Newham,2018/19,All,All Pupils,3933,48.8,0.23
+E09000025,Newham,2018/19,Boys,White,303,40.7,-0.26
+E09000025,Newham,2018/19,Boys,Mixed,110,43.9,-0.43
+E09000025,Newham,2018/19,Boys,Asian,933,50.5,0.28
+E09000025,Newham,2018/19,Boys,Black ,491,42.6,-0.29
+E09000025,Newham,2018/19,Boys,Chinese,10,60.4,-0.29
+E09000025,Newham,2018/19,Boys,All Pupils,1970,46.6,0
+E09000025,Newham,2018/19,Girls ,White,319,45.3,0.08
+E09000025,Newham,2018/19,Girls ,Mixed,116,48.7,0.01
+E09000025,Newham,2018/19,Girls ,Asian,919,54.4,0.69
+E09000025,Newham,2018/19,Girls ,Black,487,48.7,0.3
+E09000025,Newham,2018/19,Girls ,Chinese,4,72,1.78
+E09000025,Newham,2018/19,Girls ,All Pupils,1963,51,0.44
+E12000001,North East,2018/19,All,White ,23358,44.5,-0.28
+E12000001,North East,2018/19,All,Mixed,471,48.1,-0.01
+E12000001,North East,2018/19,All,Asian,902,50,0.54
+E12000001,North East,2018/19,All,Black ,218,46.4,-0.28
+E12000001,North East,2018/19,All,Chinese,60,63.3,1.05
+E12000001,North East,2018/19,All,All Pupils,25455,44.7,-0.24
+E12000001,North East,2018/19,Boys,White,11923,42.3,-0.49
+E12000001,North East,2018/19,Boys,Mixed,247,45.2,-0.19
+E12000001,North East,2018/19,Boys,Asian,472,48.2,0.33
+E12000001,North East,2018/19,Boys,Black ,105,43.3,0.05
+E12000001,North East,2018/19,Boys,Chinese,27,61.3,0.05
+E12000001,North East,2018/19,Boys,All Pupils,13023,42.4,-0.46
+E12000001,North East,2018/19,Girls ,White,11435,46.9,-0.06
+E12000001,North East,2018/19,Girls ,Mixed,224,51.3,0.18
+E12000001,North East,2018/19,Girls ,Asian,430,52,0.77
+E12000001,North East,2018/19,Girls ,Black,113,49.2,0.66
+E12000001,North East,2018/19,Girls ,Chinese,33,65,1.08
+E12000001,North East,2018/19,Girls ,All Pupils,12432,47.2,-0.02
+E12000002,North West,2018/19,All,White ,59824,45.1,-0.26
+E12000002,North West,2018/19,All,Mixed,2623,46.5,-0.08
+E12000002,North West,2018/19,All,Asian,7488,49.3,0.36
+E12000002,North West,2018/19,All,Black ,2003,44.2,-0.26
+E12000002,North West,2018/19,All,Chinese,319,63.3,0.7
+E12000002,North West,2018/19,All,All Pupils,74006,45.5,-0.18
+E12000002,North West,2018/19,Boys,White,30396,42.4,-0.5
+E12000002,North West,2018/19,Boys,Mixed,1301,44,-0.33
+E12000002,North West,2018/19,Boys,Asian,3831,46.2,0.06
+E12000002,North West,2018/19,Boys,Black ,995,39.6,-0.23
+E12000002,North West,2018/19,Boys,Chinese,152,61.3,-0.23
+E12000002,North West,2018/19,Boys,All Pupils,37583,42.8,-0.43
+E12000002,North West,2018/19,Girls ,White,29428,47.9,0
+E12000002,North West,2018/19,Girls ,Mixed,1322,49,0.16
+E12000002,North West,2018/19,Girls ,Asian,3657,52.5,0.69
+E12000002,North West,2018/19,Girls ,Black,1008,48.8,0.49
+E12000002,North West,2018/19,Girls ,Chinese,167,65.2,0.9
+E12000002,North West,2018/19,Girls ,All Pupils,36423,48.4,0.08
+E13000002,Outer London,2018/19,All,White ,23508,48.9,0.04
+E13000002,Outer London,2018/19,All,Mixed,4870,50.6,0.15
+E13000002,Outer London,2018/19,All,Asian,11060,56.6,0.7
+E13000002,Outer London,2018/19,All,Black ,9205,46.4,0.18
+E13000002,Outer London,2018/19,All,Chinese,344,68.4,0.85
+E13000002,Outer London,2018/19,All,All Pupils,52840,50.4,0.24
+E13000002,Outer London,2018/19,Boys,White,11878,46.2,-0.22
+E13000002,Outer London,2018/19,Boys,Mixed,2403,47.9,-0.09
+E13000002,Outer London,2018/19,Boys,Asian,5735,53.9,0.47
+E13000002,Outer London,2018/19,Boys,Black ,4559,42.4,-0.14
+E13000002,Outer London,2018/19,Boys,Chinese,171,67.4,-0.14
+E13000002,Outer London,2018/19,Boys,All Pupils,26760,47.5,-0.02
+E13000002,Outer London,2018/19,Girls ,White,11630,51.5,0.29
+E13000002,Outer London,2018/19,Girls ,Mixed,2467,53.3,0.39
+E13000002,Outer London,2018/19,Girls ,Asian,5325,59.6,0.95
+E13000002,Outer London,2018/19,Girls ,Black,4646,50.3,0.49
+E13000002,Outer London,2018/19,Girls ,Chinese,173,69.4,0.87
+E13000002,Outer London,2018/19,Girls ,All Pupils,26080,53.3,0.5
+E09000026,Redbridge,2018/19,All,White ,866,50.7,0.21
+E09000026,Redbridge,2018/19,All,Mixed,266,53.7,0.29
+E09000026,Redbridge,2018/19,All,Asian,1961,57,0.68
+E09000026,Redbridge,2018/19,All,Black ,486,47.6,0.33
+E09000026,Redbridge,2018/19,All,Chinese,18,68.4,0.99
+E09000026,Redbridge,2018/19,All,All Pupils,3687,54,0.5
+E09000026,Redbridge,2018/19,Boys,White,458,49.7,0
+E09000026,Redbridge,2018/19,Boys,Mixed,126,52.4,0.08
+E09000026,Redbridge,2018/19,Boys,Asian,1009,54,0.47
+E09000026,Redbridge,2018/19,Boys,Black ,235,41.9,-0.05
+E09000026,Redbridge,2018/19,Boys,Chinese,10,63,-0.05
+E09000026,Redbridge,2018/19,Boys,All Pupils,1889,51.3,0.26
+E09000026,Redbridge,2018/19,Girls ,White,408,51.8,0.45
+E09000026,Redbridge,2018/19,Girls ,Mixed,140,54.9,0.47
+E09000026,Redbridge,2018/19,Girls ,Asian,952,60.2,0.9
+E09000026,Redbridge,2018/19,Girls ,Black,251,52.9,0.69
+E09000026,Redbridge,2018/19,Girls ,Chinese,8,75.1,1.75
+E09000026,Redbridge,2018/19,Girls ,All Pupils,1798,56.9,0.74
+E09000027,Richmond upon Thames,2018/19,All,White ,1184,55.2,0.31
+E09000027,Richmond upon Thames,2018/19,All,Mixed,158,53.7,0.16
+E09000027,Richmond upon Thames,2018/19,All,Asian,112,50.8,0.43
+E09000027,Richmond upon Thames,2018/19,All,Black ,63,44.6,0.07
+E09000027,Richmond upon Thames,2018/19,All,Chinese,6,68.5,1.08
+E09000027,Richmond upon Thames,2018/19,All,All Pupils,1586,54.1,0.3
+E09000027,Richmond upon Thames,2018/19,Boys,White,600,52.5,0.09
+E09000027,Richmond upon Thames,2018/19,Boys,Mixed,89,51.5,-0.21
+E09000027,Richmond upon Thames,2018/19,Boys,Asian,54,47.6,0
+E09000027,Richmond upon Thames,2018/19,Boys,Black ,29,38.7,-0.56
+E09000027,Richmond upon Thames,2018/19,Boys,Chinese,2,54,-0.56
+E09000027,Richmond upon Thames,2018/19,Boys,All Pupils,804,51.3,0.04
+E09000027,Richmond upon Thames,2018/19,Girls ,White,584,58,0.53
+E09000027,Richmond upon Thames,2018/19,Girls ,Mixed,69,56.6,0.61
+E09000027,Richmond upon Thames,2018/19,Girls ,Asian,58,53.7,0.82
+E09000027,Richmond upon Thames,2018/19,Girls ,Black,34,49.6,0.6
+E09000027,Richmond upon Thames,2018/19,Girls ,Chinese,4,75.8,1.21
+E09000027,Richmond upon Thames,2018/19,Girls ,All Pupils,782,56.9,0.56
+E12000008,South East,2018/19,All,White ,70927,47.3,-0.08
+E12000008,South East,2018/19,All,Mixed,4358,49.7,0.06
+E12000008,South East,2018/19,All,Asian,6176,54.9,0.55
+E12000008,South East,2018/19,All,Black ,2330,47.9,-0.08
+E12000008,South East,2018/19,All,Chinese,325,62.8,0.76
+E12000008,South East,2018/19,All,All Pupils,85952,48,-0.01
+E12000008,South East,2018/19,Boys,White,36281,44.7,-0.32
+E12000008,South East,2018/19,Boys,Mixed,2235,47.3,-0.16
+E12000008,South East,2018/19,Boys,Asian,3210,52.6,0.32
+E12000008,South East,2018/19,Boys,Black ,1161,44.4,0
+E12000008,South East,2018/19,Boys,Chinese,167,61.4,0
+E12000008,South East,2018/19,Boys,All Pupils,44042,45.5,-0.26
+E12000008,South East,2018/19,Girls ,White,34646,50.1,0.18
+E12000008,South East,2018/19,Girls ,Mixed,2123,52.2,0.29
+E12000008,South East,2018/19,Girls ,Asian,2966,57.3,0.79
+E12000008,South East,2018/19,Girls ,Black,1169,51.3,0.61
+E12000008,South East,2018/19,Girls ,Chinese,158,64.3,0.91
+E12000008,South East,2018/19,Girls ,All Pupils,41910,50.8,0.24
+E12000009,South West,2018/19,All,White ,46342,46.7,-0.08
+E12000009,South West,2018/19,All,Mixed,1667,48,-0.01
+E12000009,South West,2018/19,All,Asian,1174,53,0.6
+E12000009,South West,2018/19,All,Black ,741,41.6,-0.08
+E12000009,South West,2018/19,All,Chinese,140,64.6,0.81
+E12000009,South West,2018/19,All,All Pupils,51455,46.7,-0.06
+E12000009,South West,2018/19,Boys,White,23782,44.2,-0.31
+E12000009,South West,2018/19,Boys,Mixed,847,44.7,-0.29
+E12000009,South West,2018/19,Boys,Asian,624,50.2,0.44
+E12000009,South West,2018/19,Boys,Black ,379,38.5,-0.17
+E12000009,South West,2018/19,Boys,Chinese,66,62.7,-0.17
+E12000009,South West,2018/19,Boys,All Pupils,26437,44.2,-0.29
+E12000009,South West,2018/19,Girls ,White,22560,49.3,0.16
+E12000009,South West,2018/19,Girls ,Mixed,820,51.5,0.28
+E12000009,South West,2018/19,Girls ,Asian,550,56.1,0.78
+E12000009,South West,2018/19,Girls ,Black,362,44.8,0.4
+E12000009,South West,2018/19,Girls ,Chinese,74,66.3,0.95
+E12000009,South West,2018/19,Girls ,All Pupils,25018,49.4,0.18
+E09000028,Southwark,2018/19,All,White ,666,51.5,0.01
+E09000028,Southwark,2018/19,All,Mixed,273,46.9,0.04
+E09000028,Southwark,2018/19,All,Asian,144,57,0.78
+E09000028,Southwark,2018/19,All,Black ,1146,47.7,0.3
+E09000028,Southwark,2018/19,All,Chinese,31,63,0.82
+E09000028,Southwark,2018/19,All,All Pupils,2509,49.5,0.25
+E09000028,Southwark,2018/19,Boys,White,325,50,-0.22
+E09000028,Southwark,2018/19,Boys,Mixed,128,44,-0.18
+E09000028,Southwark,2018/19,Boys,Asian,64,57.9,0.71
+E09000028,Southwark,2018/19,Boys,Black ,551,44.4,0.15
+E09000028,Southwark,2018/19,Boys,Chinese,15,55.8,0.15
+E09000028,Southwark,2018/19,Boys,All Pupils,1206,47.1,0.04
+E09000028,Southwark,2018/19,Girls ,White,341,53,0.23
+E09000028,Southwark,2018/19,Girls ,Mixed,145,49.6,0.24
+E09000028,Southwark,2018/19,Girls ,Asian,80,56.2,0.83
+E09000028,Southwark,2018/19,Girls ,Black,595,50.6,0.43
+E09000028,Southwark,2018/19,Girls ,Chinese,16,69.7,1.49
+E09000028,Southwark,2018/19,Girls ,All Pupils,1303,51.7,0.43
+E09000029,Sutton,2018/19,All,White ,1556,52.3,0.08
+E09000029,Sutton,2018/19,All,Mixed,229,60.7,0.45
+E09000029,Sutton,2018/19,All,Asian,636,71.9,1
+E09000029,Sutton,2018/19,All,Black ,234,57.3,0.61
+E09000029,Sutton,2018/19,All,Chinese,52,75.4,0.88
+E09000029,Sutton,2018/19,All,All Pupils,2796,58.6,0.38
+E09000029,Sutton,2018/19,Boys,White,826,50.5,-0.14
+E09000029,Sutton,2018/19,Boys,Mixed,117,58.8,0.2
+E09000029,Sutton,2018/19,Boys,Asian,313,71.2,0.88
+E09000029,Sutton,2018/19,Boys,Black ,118,56.2,0.55
+E09000029,Sutton,2018/19,Boys,Chinese,32,70.7,0.55
+E09000029,Sutton,2018/19,Boys,All Pupils,1446,56.9,0.19
+E09000029,Sutton,2018/19,Girls ,White,730,54.4,0.31
+E09000029,Sutton,2018/19,Girls ,Mixed,112,62.6,0.71
+E09000029,Sutton,2018/19,Girls ,Asian,323,72.6,1.11
+E09000029,Sutton,2018/19,Girls ,Black,116,58.5,0.67
+E09000029,Sutton,2018/19,Girls ,Chinese,20,82.8,0.95
+E09000029,Sutton,2018/19,Girls ,All Pupils,1350,60.4,0.57
+E09000030,Tower Hamlets,2018/19,All,White ,270,42.8,-0.26
+E09000030,Tower Hamlets,2018/19,All,Mixed,113,39.2,-0.52
+E09000030,Tower Hamlets,2018/19,All,Asian,1962,50.5,0.4
+E09000030,Tower Hamlets,2018/19,All,Black ,346,45.2,0
+E09000030,Tower Hamlets,2018/19,All,Chinese,15,63.7,0.83
+E09000030,Tower Hamlets,2018/19,All,All Pupils,2808,48.4,0.24
+E09000030,Tower Hamlets,2018/19,Boys,White,121,40.2,-0.45
+E09000030,Tower Hamlets,2018/19,Boys,Mixed,51,35.8,-0.73
+E09000030,Tower Hamlets,2018/19,Boys,Asian,959,48.5,0.17
+E09000030,Tower Hamlets,2018/19,Boys,Black ,182,40.4,-0.35
+E09000030,Tower Hamlets,2018/19,Boys,Chinese,10,63.2,-0.35
+E09000030,Tower Hamlets,2018/19,Boys,All Pupils,1375,45.9,0.01
+E09000030,Tower Hamlets,2018/19,Girls ,White,149,45,-0.1
+E09000030,Tower Hamlets,2018/19,Girls ,Mixed,62,42,-0.35
+E09000030,Tower Hamlets,2018/19,Girls ,Asian,1003,52.3,0.62
+E09000030,Tower Hamlets,2018/19,Girls ,Black,164,50.5,0.36
+E09000030,Tower Hamlets,2018/19,Girls ,Chinese,5,64.6,1.01
+E09000030,Tower Hamlets,2018/19,Girls ,All Pupils,1433,50.7,0.46
+E09000031,Waltham Forest,2018/19,All,White ,895,46.4,0.08
+E09000031,Waltham Forest,2018/19,All,Mixed,262,45.6,-0.09
+E09000031,Waltham Forest,2018/19,All,Asian,766,49.4,0.38
+E09000031,Waltham Forest,2018/19,All,Black ,571,41.8,-0.11
+E09000031,Waltham Forest,2018/19,All,Chinese,15,55.5,0.75
+E09000031,Waltham Forest,2018/19,All,All Pupils,2605,46.2,0.11
+E09000031,Waltham Forest,2018/19,Boys,White,437,41.6,-0.31
+E09000031,Waltham Forest,2018/19,Boys,Mixed,104,41.2,-0.49
+E09000031,Waltham Forest,2018/19,Boys,Asian,391,45,0
+E09000031,Waltham Forest,2018/19,Boys,Black ,319,38.6,-0.39
+E09000031,Waltham Forest,2018/19,Boys,Chinese,10,54.1,-0.39
+E09000031,Waltham Forest,2018/19,Boys,All Pupils,1307,41.9,-0.24
+E09000031,Waltham Forest,2018/19,Girls ,White,458,51,0.45
+E09000031,Waltham Forest,2018/19,Girls ,Mixed,158,48.4,0.17
+E09000031,Waltham Forest,2018/19,Girls ,Asian,375,54.1,0.76
+E09000031,Waltham Forest,2018/19,Girls ,Black,252,45.8,0.25
+E09000031,Waltham Forest,2018/19,Girls ,Chinese,5,58.1,0.29
+E09000031,Waltham Forest,2018/19,Girls ,All Pupils,1298,50.6,0.46
+E09000032,Wandsworth,2018/19,All,White ,616,51.8,0.25
+E09000032,Wandsworth,2018/19,All,Mixed,234,48.5,0.17
+E09000032,Wandsworth,2018/19,All,Asian,354,52.6,0.69
+E09000032,Wandsworth,2018/19,All,Black ,452,44.4,0.02
+E09000032,Wandsworth,2018/19,All,Chinese,11,58.5,0.79
+E09000032,Wandsworth,2018/19,All,All Pupils,1785,49.4,0.26
+E09000032,Wandsworth,2018/19,Boys,White,323,49.8,0.13
+E09000032,Wandsworth,2018/19,Boys,Mixed,110,46.3,0.04
+E09000032,Wandsworth,2018/19,Boys,Asian,191,51.3,0.43
+E09000032,Wandsworth,2018/19,Boys,Black ,227,41,-0.13
+E09000032,Wandsworth,2018/19,Boys,Chinese,5,62.2,-0.13
+E09000032,Wandsworth,2018/19,Boys,All Pupils,915,47.1,0.1
+E09000032,Wandsworth,2018/19,Girls ,White,293,54,0.38
+E09000032,Wandsworth,2018/19,Girls ,Mixed,124,50.5,0.28
+E09000032,Wandsworth,2018/19,Girls ,Asian,163,54.2,0.98
+E09000032,Wandsworth,2018/19,Girls ,Black,225,47.9,0.17
+E09000032,Wandsworth,2018/19,Girls ,Chinese,6,55.5,0.35
+E09000032,Wandsworth,2018/19,Girls ,All Pupils,870,51.8,0.44
+E12000005,West Midlands,2018/19,All,White ,42175,45.2,-0.16
+E12000005,West Midlands,2018/19,All,Mixed,3387,44.7,-0.14
+E12000005,West Midlands,2018/19,All,Asian,10314,48.8,0.3
+E12000005,West Midlands,2018/19,All,Black ,3355,43.1,-0.16
+E12000005,West Midlands,2018/19,All,Chinese,144,64,0.86
+E12000005,West Midlands,2018/19,All,All Pupils,60984,45.6,-0.06
+E12000005,West Midlands,2018/19,Boys,White,21535,42.6,-0.4
+E12000005,West Midlands,2018/19,Boys,Mixed,1723,42.4,-0.37
+E12000005,West Midlands,2018/19,Boys,Asian,5295,46.4,0.07
+E12000005,West Midlands,2018/19,Boys,Black ,1655,39.8,-0.22
+E12000005,West Midlands,2018/19,Boys,Chinese,71,63.9,-0.22
+E12000005,West Midlands,2018/19,Boys,All Pupils,31139,43.1,-0.3
+E12000005,West Midlands,2018/19,Girls ,White,20640,47.8,0.09
+E12000005,West Midlands,2018/19,Girls ,Mixed,1664,47.1,0.08
+E12000005,West Midlands,2018/19,Girls ,Asian,5019,51.3,0.55
+E12000005,West Midlands,2018/19,Girls ,Black,1700,46.3,0.37
+E12000005,West Midlands,2018/19,Girls ,Chinese,73,64,1.01
+E12000005,West Midlands,2018/19,Girls ,All Pupils,29845,48.3,0.19
+E09000033,Westminster,2018/19,All,White ,416,56.9,0.49
+E09000033,Westminster,2018/19,All,Mixed,172,51.6,0.24
+E09000033,Westminster,2018/19,All,Asian,217,56.9,0.72
+E09000033,Westminster,2018/19,All,Black ,396,48.6,0.27
+E09000033,Westminster,2018/19,All,Chinese,25,66.2,0.81
+E09000033,Westminster,2018/19,All,All Pupils,1655,53.4,0.48
+E09000033,Westminster,2018/19,Boys,White,178,51.2,0.1
+E09000033,Westminster,2018/19,Boys,Mixed,77,47.3,-0.05
+E09000033,Westminster,2018/19,Boys,Asian,108,53.5,0.39
+E09000033,Westminster,2018/19,Boys,Black ,218,45.4,-0.03
+E09000033,Westminster,2018/19,Boys,Chinese,11,59.6,-0.03
+E09000033,Westminster,2018/19,Boys,All Pupils,811,49.4,0.18
+E09000033,Westminster,2018/19,Girls ,White,238,61.2,0.77
+E09000033,Westminster,2018/19,Girls ,Mixed,95,55,0.48
+E09000033,Westminster,2018/19,Girls ,Asian,109,60.3,1.06
+E09000033,Westminster,2018/19,Girls ,Black,178,52.6,0.62
+E09000033,Westminster,2018/19,Girls ,Chinese,14,71.5,1.04
+E09000033,Westminster,2018/19,Girls ,All Pupils,844,57.2,0.78
+E12000003,Yorkshire and the Humber,2018/19,All,White ,42932,45.7,-0.06
+E12000003,Yorkshire and the Humber,2018/19,All,Mixed,1987,44.6,-0.08
+E12000003,Yorkshire and the Humber,2018/19,All,Asian,6768,45.6,0.24
+E12000003,Yorkshire and the Humber,2018/19,All,Black ,1245,43.8,-0.06
+E12000003,Yorkshire and the Humber,2018/19,All,Chinese,113,65.4,1.17
+E12000003,Yorkshire and the Humber,2018/19,All,All Pupils,54441,45.4,-0.02
+E12000003,Yorkshire and the Humber,2018/19,Boys,White,21765,43,-0.29
+E12000003,Yorkshire and the Humber,2018/19,Boys,Mixed,1015,41.8,-0.31
+E12000003,Yorkshire and the Humber,2018/19,Boys,Asian,3523,42.7,-0.04
+E12000003,Yorkshire and the Humber,2018/19,Boys,Black ,625,40.5,0.07
+E12000003,Yorkshire and the Humber,2018/19,Boys,Chinese,57,63.8,0.07
+E12000003,Yorkshire and the Humber,2018/19,Boys,All Pupils,27658,42.7,-0.26
+E12000003,Yorkshire and the Humber,2018/19,Girls ,White,21167,48.5,0.18
+E12000003,Yorkshire and the Humber,2018/19,Girls ,Mixed,972,47.4,0.16
+E12000003,Yorkshire and the Humber,2018/19,Girls ,Asian,3245,48.7,0.54
+E12000003,Yorkshire and the Humber,2018/19,Girls ,Black,620,47.1,0.56
+E12000003,Yorkshire and the Humber,2018/19,Girls ,Chinese,56,66.9,1.17
+E12000003,Yorkshire and the Humber,2018/19,Girls ,All Pupils,26783,48.2,0.22
+E09000002,Barking and Dagenham,2017/18,All,All Pupils,2199,46.1,0.17
+E09000002,Barking and Dagenham,2017/18,All,White,921,41.9,-0.19
+E09000002,Barking and Dagenham,2017/18,All,Mixed,127,42.4,-0.11
+E09000002,Barking and Dagenham,2017/18,All,Asian,449,53.9,0.65
+E09000002,Barking and Dagenham,2017/18,All,Black,619,47.1,0.44
+E09000002,Barking and Dagenham,2017/18,All,Chinese,2,79.3,1.85
+E09000002,Barking and Dagenham,2017/18,Boys,All Pupils,1119,43.3,0
+E09000002,Barking and Dagenham,2017/18,Boys,White,482,40.6,-0.26
+E09000002,Barking and Dagenham,2017/18,Boys,Mixed,57,36.8,-0.29
+E09000002,Barking and Dagenham,2017/18,Boys,Asian ,225,50.4,0.39
+E09000002,Barking and Dagenham,2017/18,Boys,Black,319,43.1,0.18
+E09000002,Barking and Dagenham,2017/18,Boys,Chinese,0,.,.
+E09000002,Barking and Dagenham,2017/18,Girls,All Pupils,1080,49.1,0.34
+E09000002,Barking and Dagenham,2017/18,Girls,White,439,43.4,-0.11
+E09000002,Barking and Dagenham,2017/18,Girls,Mixed,70,46.9,0.03
+E09000002,Barking and Dagenham,2017/18,Girls,Asian,224,57.5,0.91
+E09000002,Barking and Dagenham,2017/18,Girls,Black,300,51.4,0.71
+E09000002,Barking and Dagenham,2017/18,Girls,Chinese,2,79.3,1.85
+E09000003,Barnet,2017/18,All,All Pupils,3810,56,0.57
+E09000003,Barnet,2017/18,All,White,1914,55.4,0.5
+E09000003,Barnet,2017/18,All,Mixed,409,55,0.45
+E09000003,Barnet,2017/18,All,Asian,532,67.8,0.96
+E09000003,Barnet,2017/18,All,Black,497,47.1,0.32
+E09000003,Barnet,2017/18,All,Chinese,44,72,1.12
+E09000003,Barnet,2017/18,Boys,All Pupils,1978,53.1,0.33
+E09000003,Barnet,2017/18,Boys,White,983,52.1,0.25
+E09000003,Barnet,2017/18,Boys,Mixed,208,51.3,0.18
+E09000003,Barnet,2017/18,Boys,Asian ,272,68.1,0.86
+E09000003,Barnet,2017/18,Boys,Black,261,42.7,-0.03
+E09000003,Barnet,2017/18,Boys,Chinese,20,68.5,0.67
+E09000003,Barnet,2017/18,Girls,All Pupils,1832,59.1,0.83
+E09000003,Barnet,2017/18,Girls,White,931,58.8,0.76
+E09000003,Barnet,2017/18,Girls,Mixed,201,58.8,0.73
+E09000003,Barnet,2017/18,Girls,Asian,260,67.5,1.07
+E09000003,Barnet,2017/18,Girls,Black,236,52.1,0.71
+E09000003,Barnet,2017/18,Girls,Chinese,24,75,1.56
+E09000004,Bexley,2017/18,All,All Pupils,3032,49.6,-0.1
+E09000004,Bexley,2017/18,All,White,1901,46.7,-0.31
+E09000004,Bexley,2017/18,All,Mixed,194,48.4,-0.19
+E09000004,Bexley,2017/18,All,Asian,232,58.6,0.57
+E09000004,Bexley,2017/18,All,Black,620,54.8,0.31
+E09000004,Bexley,2017/18,All,Chinese,33,66,0.55
+E09000004,Bexley,2017/18,Boys,All Pupils,1508,46.9,-0.33
+E09000004,Bexley,2017/18,Boys,White,963,44.7,-0.5
+E09000004,Bexley,2017/18,Boys,Mixed,94,46.2,-0.32
+E09000004,Bexley,2017/18,Boys,Asian ,119,57.5,0.48
+E09000004,Bexley,2017/18,Boys,Black,287,49.5,-0.11
+E09000004,Bexley,2017/18,Boys,Chinese,15,59.8,0.13
+E09000004,Bexley,2017/18,Girls,All Pupils,1524,52.3,0.12
+E09000004,Bexley,2017/18,Girls,White,938,48.7,-0.11
+E09000004,Bexley,2017/18,Girls,Mixed,100,50.5,-0.07
+E09000004,Bexley,2017/18,Girls,Asian,113,59.9,0.67
+E09000004,Bexley,2017/18,Girls,Black,333,59.3,0.65
+E09000004,Bexley,2017/18,Girls,Chinese,18,71.2,0.96
+E09000005,Brent,2017/18,All,All Pupils,2858,49.9,0.54
+E09000005,Brent,2017/18,All,White,494,47.4,0.36
+E09000005,Brent,2017/18,All,Mixed,178,49.7,0
+E09000005,Brent,2017/18,All,Asian,897,52,0.96
+E09000005,Brent,2017/18,All,Black,675,44.5,0.09
+E09000005,Brent,2017/18,All,Chinese,3,62.2,1.5
+E09000005,Brent,2017/18,Boys,All Pupils,1480,47.7,0.34
+E09000005,Brent,2017/18,Boys,White,268,45.6,0.21
+E09000005,Brent,2017/18,Boys,Mixed,97,45.5,-0.36
+E09000005,Brent,2017/18,Boys,Asian ,470,49.7,0.79
+E09000005,Brent,2017/18,Boys,Black,324,40.7,-0.21
+E09000005,Brent,2017/18,Boys,Chinese,3,62.2,1.5
+E09000005,Brent,2017/18,Girls,All Pupils,1378,52.2,0.75
+E09000005,Brent,2017/18,Girls,White,226,49.6,0.53
+E09000005,Brent,2017/18,Girls,Mixed,81,54.8,0.41
+E09000005,Brent,2017/18,Girls,Asian,427,54.5,1.16
+E09000005,Brent,2017/18,Girls,Black,351,47.9,0.37
+E09000005,Brent,2017/18,Girls,Chinese,0,.,.
+E09000006,Bromley,2017/18,All,All Pupils,3214,50.3,0.03
+E09000006,Bromley,2017/18,All,White,2270,49.6,-0.01
+E09000006,Bromley,2017/18,All,Mixed,269,51.2,0.18
+E09000006,Bromley,2017/18,All,Asian,166,68.7,0.84
+E09000006,Bromley,2017/18,All,Black,306,51,0.34
+E09000006,Bromley,2017/18,All,Chinese,33,74.7,1.03
+E09000006,Bromley,2017/18,Boys,All Pupils,1614,46.6,-0.24
+E09000006,Bromley,2017/18,Boys,White,1170,46.2,-0.29
+E09000006,Bromley,2017/18,Boys,Mixed,126,50,-0.03
+E09000006,Bromley,2017/18,Boys,Asian ,75,69.3,0.7
+E09000006,Bromley,2017/18,Boys,Black,133,46.5,0.21
+E09000006,Bromley,2017/18,Boys,Chinese,13,74.2,1.05
+E09000006,Bromley,2017/18,Girls,All Pupils,1600,53.9,0.31
+E09000006,Bromley,2017/18,Girls,White,1100,53.4,0.28
+E09000006,Bromley,2017/18,Girls,Mixed,143,52.2,0.36
+E09000006,Bromley,2017/18,Girls,Asian,91,68.3,0.96
+E09000006,Bromley,2017/18,Girls,Black,173,54.4,0.43
+E09000006,Bromley,2017/18,Girls,Chinese,20,75.1,1.01
+E09000007,Camden,2017/18,All,All Pupils,1533,48,0.07
+E09000007,Camden,2017/18,All,White,546,51,0.1
+E09000007,Camden,2017/18,All,Mixed,181,46.7,-0.13
+E09000007,Camden,2017/18,All,Asian,274,46.6,0.11
+E09000007,Camden,2017/18,All,Black,358,44.2,-0.05
+E09000007,Camden,2017/18,All,Chinese,11,53.1,1.01
+E09000007,Camden,2017/18,Boys,All Pupils,649,42,-0.37
+E09000007,Camden,2017/18,Boys,White,228,43.7,-0.37
+E09000007,Camden,2017/18,Boys,Mixed,68,39.9,-0.54
+E09000007,Camden,2017/18,Boys,Asian ,131,42.9,-0.17
+E09000007,Camden,2017/18,Boys,Black,145,37.9,-0.59
+E09000007,Camden,2017/18,Boys,Chinese,5,37,0.05
+E09000007,Camden,2017/18,Girls,All Pupils,884,52.4,0.39
+E09000007,Camden,2017/18,Girls,White,318,56.2,0.44
+E09000007,Camden,2017/18,Girls,Mixed,113,50.8,0.13
+E09000007,Camden,2017/18,Girls,Asian,143,50,0.36
+E09000007,Camden,2017/18,Girls,Black,213,48.4,0.31
+E09000007,Camden,2017/18,Girls,Chinese,6,66.6,2.45
+E09000001,City of London,2017/18,All,All Pupils,0,.,.
+E09000001,City of London,2017/18,All,White,0,.,.
+E09000001,City of London,2017/18,All,Mixed,0,.,.
+E09000001,City of London,2017/18,All,Asian,0,.,.
+E09000001,City of London,2017/18,All,Black,0,.,.
+E09000001,City of London,2017/18,All,Chinese,0,.,.
+E09000001,City of London,2017/18,Boys,All Pupils,0,.,.
+E09000001,City of London,2017/18,Boys,White,0,.,.
+E09000001,City of London,2017/18,Boys,Mixed,0,.,.
+E09000001,City of London,2017/18,Boys,Asian ,0,.,.
+E09000001,City of London,2017/18,Boys,Black,0,.,.
+E09000001,City of London,2017/18,Boys,Chinese,0,.,.
+E09000001,City of London,2017/18,Girls,All Pupils,0,.,.
+E09000001,City of London,2017/18,Girls,White,0,.,.
+E09000001,City of London,2017/18,Girls,Mixed,0,.,.
+E09000001,City of London,2017/18,Girls,Asian,0,.,.
+E09000001,City of London,2017/18,Girls,Black,0,.,.
+E09000001,City of London,2017/18,Girls,Chinese,0,.,.
+E09000008,Croydon,2017/18,All,All Pupils,3452,45.8,0.07
+E09000008,Croydon,2017/18,All,White,1268,46.9,0.03
+E09000008,Croydon,2017/18,All,Mixed,499,46.5,0
+E09000008,Croydon,2017/18,All,Asian,472,51.4,0.58
+E09000008,Croydon,2017/18,All,Black,998,43.5,-0.08
+E09000008,Croydon,2017/18,All,Chinese,13,68.3,1.18
+E09000008,Croydon,2017/18,Boys,All Pupils,1669,42.4,-0.15
+E09000008,Croydon,2017/18,Boys,White,588,43.9,-0.21
+E09000008,Croydon,2017/18,Boys,Mixed,233,43.1,-0.21
+E09000008,Croydon,2017/18,Boys,Asian ,238,48.4,0.41
+E09000008,Croydon,2017/18,Boys,Black,483,39.7,-0.35
+E09000008,Croydon,2017/18,Boys,Chinese,6,73.6,0.89
+E09000008,Croydon,2017/18,Girls,All Pupils,1783,49,0.27
+E09000008,Croydon,2017/18,Girls,White,680,49.5,0.25
+E09000008,Croydon,2017/18,Girls,Mixed,266,49.4,0.17
+E09000008,Croydon,2017/18,Girls,Asian,234,54.5,0.75
+E09000008,Croydon,2017/18,Girls,Black,515,47,0.18
+E09000008,Croydon,2017/18,Girls,Chinese,7,63.8,1.46
+E09000009,Ealing,2017/18,All,All Pupils,2853,50,0.53
+E09000009,Ealing,2017/18,All,White,837,51.8,0.44
+E09000009,Ealing,2017/18,All,Mixed,222,50,0.14
+E09000009,Ealing,2017/18,All,Asian,824,51.8,0.89
+E09000009,Ealing,2017/18,All,Black,563,44.3,0.24
+E09000009,Ealing,2017/18,All,Chinese,11,72.5,1.82
+E09000009,Ealing,2017/18,Boys,All Pupils,1393,47.2,0.29
+E09000009,Ealing,2017/18,Boys,White,417,49.3,0.2
+E09000009,Ealing,2017/18,Boys,Mixed,106,45.2,-0.24
+E09000009,Ealing,2017/18,Boys,Asian ,395,49.9,0.69
+E09000009,Ealing,2017/18,Boys,Black,278,40.9,-0.02
+E09000009,Ealing,2017/18,Boys,Chinese,8,72.8,1.69
+E09000009,Ealing,2017/18,Girls,All Pupils,1460,52.6,0.76
+E09000009,Ealing,2017/18,Girls,White,420,54.3,0.67
+E09000009,Ealing,2017/18,Girls,Mixed,116,54.4,0.48
+E09000009,Ealing,2017/18,Girls,Asian,429,53.5,1.06
+E09000009,Ealing,2017/18,Girls,Black,285,47.7,0.48
+E09000009,Ealing,2017/18,Girls,Chinese,3,72,2.82
+E12000006,East,2017/18,All,All Pupils,59100,47,0.03
+E12000006,East,2017/18,All,White,49221,46.4,-0.03
+E12000006,East,2017/18,All,Mixed,2746,48.5,0.09
+E12000006,East,2017/18,All,Asian,3826,52.5,0.5
+E12000006,East,2017/18,All,Black,1980,48.2,0.3
+E12000006,East,2017/18,All,Chinese,204,65.7,1.09
+E12000006,East,2017/18,Boys,All Pupils,30215,44.5,-0.19
+E12000006,East,2017/18,Boys,White,25141,43.9,-0.24
+E12000006,East,2017/18,Boys,Mixed,1404,46.2,-0.16
+E12000006,East,2017/18,Boys,Asian ,2008,51,0.36
+E12000006,East,2017/18,Boys,Black,970,45.1,0.06
+E12000006,East,2017/18,Boys,Chinese,95,62.5,0.75
+E12000006,East,2017/18,Girls,All Pupils,28885,49.6,0.25
+E12000006,East,2017/18,Girls,White,24080,49.1,0.2
+E12000006,East,2017/18,Girls,Mixed,1342,50.8,0.35
+E12000006,East,2017/18,Girls,Asian,1818,54.2,0.65
+E12000006,East,2017/18,Girls,Black,1010,51.2,0.54
+E12000006,East,2017/18,Girls,Chinese,109,68.5,1.37
+E12000004,East Midlands,2017/18,All,All Pupils,45234,45.5,-0.09
+E12000004,East Midlands,2017/18,All,White,37395,45.2,-0.15
+E12000004,East Midlands,2017/18,All,Mixed,1856,44.5,-0.18
+E12000004,East Midlands,2017/18,All,Asian,3930,49.5,0.49
+E12000004,East Midlands,2017/18,All,Black,1310,43.9,0.13
+E12000004,East Midlands,2017/18,All,Chinese,131,63.1,1.09
+E12000004,East Midlands,2017/18,Boys,All Pupils,23164,42.9,-0.33
+E12000004,East Midlands,2017/18,Boys,White,19175,42.5,-0.39
+E12000004,East Midlands,2017/18,Boys,Mixed,946,41.9,-0.4
+E12000004,East Midlands,2017/18,Boys,Asian ,2001,47.1,0.23
+E12000004,East Midlands,2017/18,Boys,Black,658,40.3,-0.16
+E12000004,East Midlands,2017/18,Boys,Chinese,69,60.7,0.93
+E12000004,East Midlands,2017/18,Girls,All Pupils,22070,48.3,0.16
+E12000004,East Midlands,2017/18,Girls,White,18220,48,0.09
+E12000004,East Midlands,2017/18,Girls,Mixed,910,47.2,0.04
+E12000004,East Midlands,2017/18,Girls,Asian,1929,52.1,0.76
+E12000004,East Midlands,2017/18,Girls,Black,652,47.7,0.43
+E12000004,East Midlands,2017/18,Girls,Chinese,62,65.9,1.24
+E09000010,Enfield,2017/18,All,All Pupils,3414,46.3,0.08
+E09000010,Enfield,2017/18,All,White,1619,44.7,0.03
+E09000010,Enfield,2017/18,All,Mixed,336,48.1,0.07
+E09000010,Enfield,2017/18,All,Asian,299,57.8,0.49
+E09000010,Enfield,2017/18,All,Black,852,43.9,0.01
+E09000010,Enfield,2017/18,All,Chinese,17,76.1,1.02
+E09000010,Enfield,2017/18,Boys,All Pupils,1745,43.2,-0.21
+E09000010,Enfield,2017/18,Boys,White,830,42.1,-0.25
+E09000010,Enfield,2017/18,Boys,Mixed,176,44.7,-0.11
+E09000010,Enfield,2017/18,Boys,Asian ,157,54,0.12
+E09000010,Enfield,2017/18,Boys,Black,432,40.4,-0.32
+E09000010,Enfield,2017/18,Boys,Chinese,8,69.8,0.92
+E09000010,Enfield,2017/18,Girls,All Pupils,1669,49.5,0.39
+E09000010,Enfield,2017/18,Girls,White,789,47.5,0.32
+E09000010,Enfield,2017/18,Girls,Mixed,160,51.9,0.27
+E09000010,Enfield,2017/18,Girls,Asian,142,62,0.91
+E09000010,Enfield,2017/18,Girls,Black,420,47.5,0.38
+E09000010,Enfield,2017/18,Girls,Chinese,9,81.7,1.09
+E92000001,England,2017/18,All,All Pupils,521202,46.6,-0.02
+E92000001,England,2017/18,All,White,395716,46.1,-0.1
+E92000001,England,2017/18,All,Mixed,24531,47.4,-0.02
+E92000001,England,2017/18,All,Asian,55183,50.7,0.45
+E92000001,England,2017/18,All,Black,28609,45.3,0.12
+E92000001,England,2017/18,All,Chinese,1856,64.5,1.03
+E92000001,England,2017/18,Boys,All Pupils,265434,43.9,-0.25
+E92000001,England,2017/18,Boys,White,201945,43.5,-0.33
+E92000001,England,2017/18,Boys,Mixed,12377,44.7,-0.25
+E92000001,England,2017/18,Boys,Asian ,28172,48.3,0.23
+E92000001,England,2017/18,Boys,Black,14129,41.7,-0.15
+E92000001,England,2017/18,Boys,Chinese,890,62.3,0.86
+E92000001,England,2017/18,Girls,All Pupils,255768,49.4,0.22
+E92000001,England,2017/18,Girls,White,193771,48.9,0.13
+E92000001,England,2017/18,Girls,Mixed,12154,50.2,0.21
+E92000001,England,2017/18,Girls,Asian,27011,53.1,0.68
+E92000001,England,2017/18,Girls,Black,14480,48.8,0.39
+E92000001,England,2017/18,Girls,Chinese,966,66.5,1.18
+E09000011,Greenwich,2017/18,All,All Pupils,2269,44.5,-0.18
+E09000011,Greenwich,2017/18,All,White,1011,43.3,-0.37
+E09000011,Greenwich,2017/18,All,Mixed,227,45.3,-0.21
+E09000011,Greenwich,2017/18,All,Asian,197,47.4,0.22
+E09000011,Greenwich,2017/18,All,Black,747,45,-0.04
+E09000011,Greenwich,2017/18,All,Chinese,16,57.3,0.81
+E09000011,Greenwich,2017/18,Boys,All Pupils,1151,42,-0.34
+E09000011,Greenwich,2017/18,Boys,White,499,42.1,-0.44
+E09000011,Greenwich,2017/18,Boys,Mixed,119,41,-0.39
+E09000011,Greenwich,2017/18,Boys,Asian ,106,46,0.15
+E09000011,Greenwich,2017/18,Boys,Black,374,40.5,-0.36
+E09000011,Greenwich,2017/18,Boys,Chinese,10,56.4,1.24
+E09000011,Greenwich,2017/18,Girls,All Pupils,1118,47.1,-0.02
+E09000011,Greenwich,2017/18,Girls,White,512,44.5,-0.29
+E09000011,Greenwich,2017/18,Girls,Mixed,108,50.1,-0.01
+E09000011,Greenwich,2017/18,Girls,Asian,91,48.9,0.3
+E09000011,Greenwich,2017/18,Girls,Black,373,49.5,0.29
+E09000011,Greenwich,2017/18,Girls,Chinese,6,58.8,0.16
+E09000012,Hackney,2017/18,All,All Pupils,2058,49,0.31
+E09000012,Hackney,2017/18,All,White,713,53.1,0.51
+E09000012,Hackney,2017/18,All,Mixed,172,46.7,0.06
+E09000012,Hackney,2017/18,All,Asian,258,50.7,0.44
+E09000012,Hackney,2017/18,All,Black,758,45.1,0.11
+E09000012,Hackney,2017/18,All,Chinese,9,56,0.61
+E09000012,Hackney,2017/18,Boys,All Pupils,908,45.3,-0.02
+E09000012,Hackney,2017/18,Boys,White,317,48.8,0.08
+E09000012,Hackney,2017/18,Boys,Mixed,85,45.7,-0.07
+E09000012,Hackney,2017/18,Boys,Asian ,122,47.1,0.18
+E09000012,Hackney,2017/18,Boys,Black,317,40.6,-0.24
+E09000012,Hackney,2017/18,Boys,Chinese,4,39.8,0.23
+E09000012,Hackney,2017/18,Girls,All Pupils,1150,51.9,0.57
+E09000012,Hackney,2017/18,Girls,White,396,56.6,0.85
+E09000012,Hackney,2017/18,Girls,Mixed,87,47.6,0.19
+E09000012,Hackney,2017/18,Girls,Asian,136,53.8,0.67
+E09000012,Hackney,2017/18,Girls,Black,441,48.3,0.36
+E09000012,Hackney,2017/18,Girls,Chinese,5,69,0.91
+E09000013,Hammersmith and Fulham,2017/18,All,All Pupils,1291,52.9,0.34
+E09000013,Hammersmith and Fulham,2017/18,All,White,567,57.3,0.39
+E09000013,Hammersmith and Fulham,2017/18,All,Mixed,126,51.7,0.2
+E09000013,Hammersmith and Fulham,2017/18,All,Asian,114,50.8,0.49
+E09000013,Hammersmith and Fulham,2017/18,All,Black,315,46.6,0.1
+E09000013,Hammersmith and Fulham,2017/18,All,Chinese,12,60.4,0.95
+E09000013,Hammersmith and Fulham,2017/18,Boys,All Pupils,638,48.9,0.06
+E09000013,Hammersmith and Fulham,2017/18,Boys,White,285,53,0.13
+E09000013,Hammersmith and Fulham,2017/18,Boys,Mixed,57,43.8,-0.3
+E09000013,Hammersmith and Fulham,2017/18,Boys,Asian ,63,48.1,0.22
+E09000013,Hammersmith and Fulham,2017/18,Boys,Black,151,44,-0.14
+E09000013,Hammersmith and Fulham,2017/18,Boys,Chinese,7,60.1,0.96
+E09000013,Hammersmith and Fulham,2017/18,Girls,All Pupils,653,56.7,0.62
+E09000013,Hammersmith and Fulham,2017/18,Girls,White,282,61.6,0.67
+E09000013,Hammersmith and Fulham,2017/18,Girls,Mixed,69,58.3,0.62
+E09000013,Hammersmith and Fulham,2017/18,Girls,Asian,51,54.1,0.81
+E09000013,Hammersmith and Fulham,2017/18,Girls,Black,164,49,0.32
+E09000013,Hammersmith and Fulham,2017/18,Girls,Chinese,5,60.8,0.94
+E09000014,Haringey,2017/18,All,All Pupils,2190,46.3,0.16
+E09000014,Haringey,2017/18,All,White,1021,49.4,0.38
+E09000014,Haringey,2017/18,All,Mixed,222,47.2,-0.04
+E09000014,Haringey,2017/18,All,Asian,158,50.7,0.35
+E09000014,Haringey,2017/18,All,Black,566,39.4,-0.19
+E09000014,Haringey,2017/18,All,Chinese,9,63.5,1.02
+E09000014,Haringey,2017/18,Boys,All Pupils,1094,43.5,-0.07
+E09000014,Haringey,2017/18,Boys,White,507,48.1,0.25
+E09000014,Haringey,2017/18,Boys,Mixed,109,42.3,-0.39
+E09000014,Haringey,2017/18,Boys,Asian ,75,47.1,-0.01
+E09000014,Haringey,2017/18,Boys,Black,299,35.7,-0.47
+E09000014,Haringey,2017/18,Boys,Chinese,5,60.9,0.48
+E09000014,Haringey,2017/18,Girls,All Pupils,1096,49.1,0.39
+E09000014,Haringey,2017/18,Girls,White,514,50.7,0.5
+E09000014,Haringey,2017/18,Girls,Mixed,113,51.8,0.31
+E09000014,Haringey,2017/18,Girls,Asian,83,54.1,0.67
+E09000014,Haringey,2017/18,Girls,Black,267,43.5,0.12
+E09000014,Haringey,2017/18,Girls,Chinese,4,66.9,1.82
+E09000015,Harrow,2017/18,All,All Pupils,2044,50.7,0.45
+E09000015,Harrow,2017/18,All,White,507,46.2,0.19
+E09000015,Harrow,2017/18,All,Mixed,167,51.8,0.46
+E09000015,Harrow,2017/18,All,Asian,912,55.2,0.69
+E09000015,Harrow,2017/18,All,Black,311,45.6,0.11
+E09000015,Harrow,2017/18,All,Chinese,8,52.9,0.56
+E09000015,Harrow,2017/18,Boys,All Pupils,996,47.7,0.22
+E09000015,Harrow,2017/18,Boys,White,241,43.4,0.07
+E09000015,Harrow,2017/18,Boys,Mixed,85,50.2,0.29
+E09000015,Harrow,2017/18,Boys,Asian ,464,52.5,0.45
+E09000015,Harrow,2017/18,Boys,Black,138,39.6,-0.35
+E09000015,Harrow,2017/18,Boys,Chinese,4,44.5,0.38
+E09000015,Harrow,2017/18,Girls,All Pupils,1048,53.4,0.67
+E09000015,Harrow,2017/18,Girls,White,266,48.8,0.29
+E09000015,Harrow,2017/18,Girls,Mixed,82,53.4,0.64
+E09000015,Harrow,2017/18,Girls,Asian,448,57.9,0.92
+E09000015,Harrow,2017/18,Girls,Black,173,50.4,0.47
+E09000015,Harrow,2017/18,Girls,Chinese,4,61.3,0.75
+E09000016,Havering,2017/18,All,All Pupils,2774,46.9,-0.09
+E09000016,Havering,2017/18,All,White,2025,45.7,-0.22
+E09000016,Havering,2017/18,All,Mixed,143,48,-0.08
+E09000016,Havering,2017/18,All,Asian,146,52.6,0.64
+E09000016,Havering,2017/18,All,Black,366,50.1,0.37
+E09000016,Havering,2017/18,All,Chinese,7,71.1,1.45
+E09000016,Havering,2017/18,Boys,All Pupils,1440,45,-0.23
+E09000016,Havering,2017/18,Boys,White,1052,43.5,-0.39
+E09000016,Havering,2017/18,Boys,Mixed,79,49.1,-0.04
+E09000016,Havering,2017/18,Boys,Asian ,74,53.5,0.67
+E09000016,Havering,2017/18,Boys,Black,177,47.4,0.23
+E09000016,Havering,2017/18,Boys,Chinese,2,76.5,1.41
+E09000016,Havering,2017/18,Girls,All Pupils,1334,48.9,0.07
+E09000016,Havering,2017/18,Girls,White,973,48,-0.04
+E09000016,Havering,2017/18,Girls,Mixed,64,46.6,-0.14
+E09000016,Havering,2017/18,Girls,Asian,72,51.7,0.61
+E09000016,Havering,2017/18,Girls,Black,189,52.6,0.5
+E09000016,Havering,2017/18,Girls,Chinese,5,68.9,1.48
+E09000017,Hillingdon,2017/18,All,All Pupils,3064,47.8,0.15
+E09000017,Hillingdon,2017/18,All,White,1410,44.4,-0.23
+E09000017,Hillingdon,2017/18,All,Mixed,339,49.1,0.18
+E09000017,Hillingdon,2017/18,All,Asian,715,54.4,0.73
+E09000017,Hillingdon,2017/18,All,Black,345,44.5,0.22
+E09000017,Hillingdon,2017/18,All,Chinese,4,60.5,0.54
+E09000017,Hillingdon,2017/18,Boys,All Pupils,1572,45.3,-0.08
+E09000017,Hillingdon,2017/18,Boys,White,725,41.8,-0.5
+E09000017,Hillingdon,2017/18,Boys,Mixed,180,47.8,0.09
+E09000017,Hillingdon,2017/18,Boys,Asian ,347,51,0.5
+E09000017,Hillingdon,2017/18,Boys,Black,170,42.4,0.05
+E09000017,Hillingdon,2017/18,Boys,Chinese,3,65.7,0.51
+E09000017,Hillingdon,2017/18,Girls,All Pupils,1492,50.5,0.38
+E09000017,Hillingdon,2017/18,Girls,White,685,47.2,0.04
+E09000017,Hillingdon,2017/18,Girls,Mixed,159,50.6,0.29
+E09000017,Hillingdon,2017/18,Girls,Asian,368,57.6,0.93
+E09000017,Hillingdon,2017/18,Girls,Black,175,46.5,0.37
+E09000017,Hillingdon,2017/18,Girls,Chinese,1,45,0.61
+E09000018,Hounslow,2017/18,All,All Pupils,2666,49.4,0.43
+E09000018,Hounslow,2017/18,All,White,915,48.5,0.16
+E09000018,Hounslow,2017/18,All,Mixed,237,49.6,0.2
+E09000018,Hounslow,2017/18,All,Asian,805,54.3,0.86
+E09000018,Hounslow,2017/18,All,Black,346,47.8,0.37
+E09000018,Hounslow,2017/18,All,Chinese,3,66,0.5
+E09000018,Hounslow,2017/18,Boys,All Pupils,1369,46.5,0.21
+E09000018,Hounslow,2017/18,Boys,White,478,46.8,0.03
+E09000018,Hounslow,2017/18,Boys,Mixed,126,46.8,-0.11
+E09000018,Hounslow,2017/18,Boys,Asian ,395,51.1,0.61
+E09000018,Hounslow,2017/18,Boys,Black,181,45.6,0.23
+E09000018,Hounslow,2017/18,Boys,Chinese,0,.,.
+E09000018,Hounslow,2017/18,Girls,All Pupils,1297,52.4,0.65
+E09000018,Hounslow,2017/18,Girls,White,437,50.4,0.3
+E09000018,Hounslow,2017/18,Girls,Mixed,111,52.8,0.55
+E09000018,Hounslow,2017/18,Girls,Asian,410,57.5,1.11
+E09000018,Hounslow,2017/18,Girls,Black,165,50.3,0.52
+E09000018,Hounslow,2017/18,Girls,Chinese,3,66,0.5
+E13000001,Inner London,2017/18,All,All Pupils,25466,48.3,0.19
+E13000001,Inner London,2017/18,All,White,7264,50,0.2
+E13000001,Inner London,2017/18,All,Mixed,2494,47.9,-0.05
+E13000001,Inner London,2017/18,All,Asian,5508,51,0.45
+E13000001,Inner London,2017/18,All,Black,7522,44.8,0
+E13000001,Inner London,2017/18,All,Chinese,158,61.9,0.77
+E13000001,Inner London,2017/18,Boys,All Pupils,12570,45.4,-0.06
+E13000001,Inner London,2017/18,Boys,White,3577,47.1,-0.04
+E13000001,Inner London,2017/18,Boys,Mixed,1230,44.5,-0.31
+E13000001,Inner London,2017/18,Boys,Asian ,2778,48.8,0.25
+E13000001,Inner London,2017/18,Boys,Black,3642,41.4,-0.27
+E13000001,Inner London,2017/18,Boys,Chinese,77,58.2,0.51
+E13000001,Inner London,2017/18,Girls,All Pupils,12896,51.1,0.43
+E13000001,Inner London,2017/18,Girls,White,3687,52.8,0.43
+E13000001,Inner London,2017/18,Girls,Mixed,1264,51.3,0.21
+E13000001,Inner London,2017/18,Girls,Asian,2730,53.2,0.66
+E13000001,Inner London,2017/18,Girls,Black,3880,48,0.26
+E13000001,Inner London,2017/18,Girls,Chinese,81,65.3,1.03
+E09000019,Islington,2017/18,All,All Pupils,1404,46.3,0.15
+E09000019,Islington,2017/18,All,White,484,46.4,0.08
+E09000019,Islington,2017/18,All,Mixed,181,44.5,-0.26
+E09000019,Islington,2017/18,All,Asian,179,52.5,0.64
+E09000019,Islington,2017/18,All,Black,406,43.7,0.04
+E09000019,Islington,2017/18,All,Chinese,9,55.3,0.83
+E09000019,Islington,2017/18,Boys,All Pupils,746,44.9,0.05
+E09000019,Islington,2017/18,Boys,White,242,44.7,-0.04
+E09000019,Islington,2017/18,Boys,Mixed,109,42.1,-0.41
+E09000019,Islington,2017/18,Boys,Asian ,90,55.4,0.8
+E09000019,Islington,2017/18,Boys,Black,218,41.3,-0.08
+E09000019,Islington,2017/18,Boys,Chinese,5,52.6,0.62
+E09000019,Islington,2017/18,Girls,All Pupils,658,47.9,0.26
+E09000019,Islington,2017/18,Girls,White,242,48.1,0.2
+E09000019,Islington,2017/18,Girls,Mixed,72,48,-0.01
+E09000019,Islington,2017/18,Girls,Asian,89,49.6,0.48
+E09000019,Islington,2017/18,Girls,Black,188,46.5,0.18
+E09000019,Islington,2017/18,Girls,Chinese,4,58.8,1.09
+E09000020,Kensington and Chelsea,2017/18,All,All Pupils,718,51.6,0.11
+E09000020,Kensington and Chelsea,2017/18,All,White,260,54.2,0.15
+E09000020,Kensington and Chelsea,2017/18,All,Mixed,119,52.4,0.12
+E09000020,Kensington and Chelsea,2017/18,All,Asian,41,56.2,0.58
+E09000020,Kensington and Chelsea,2017/18,All,Black,121,47.3,-0.01
+E09000020,Kensington and Chelsea,2017/18,All,Chinese,2,58.5,0.02
+E09000020,Kensington and Chelsea,2017/18,Boys,All Pupils,405,52.3,0.09
+E09000020,Kensington and Chelsea,2017/18,Boys,White,166,56.6,0.26
+E09000020,Kensington and Chelsea,2017/18,Boys,Mixed,62,51.4,0.03
+E09000020,Kensington and Chelsea,2017/18,Boys,Asian ,18,58.9,0.52
+E09000020,Kensington and Chelsea,2017/18,Boys,Black,70,48.5,-0.03
+E09000020,Kensington and Chelsea,2017/18,Boys,Chinese,0,.,.
+E09000020,Kensington and Chelsea,2017/18,Girls,All Pupils,313,50.6,0.13
+E09000020,Kensington and Chelsea,2017/18,Girls,White,94,50.1,-0.07
+E09000020,Kensington and Chelsea,2017/18,Girls,Mixed,57,53.4,0.22
+E09000020,Kensington and Chelsea,2017/18,Girls,Asian,23,54.1,0.64
+E09000020,Kensington and Chelsea,2017/18,Girls,Black,51,45.8,0.02
+E09000020,Kensington and Chelsea,2017/18,Girls,Chinese,2,58.5,0.02
+E09000021,Kingston upon Thames,2017/18,All,All Pupils,1515,57.8,0.53
+E09000021,Kingston upon Thames,2017/18,All,White,841,55,0.33
+E09000021,Kingston upon Thames,2017/18,All,Mixed,134,53.9,0.43
+E09000021,Kingston upon Thames,2017/18,All,Asian,384,66.2,1.04
+E09000021,Kingston upon Thames,2017/18,All,Black,76,47.5,0.17
+E09000021,Kingston upon Thames,2017/18,All,Chinese,12,78.8,1.19
+E09000021,Kingston upon Thames,2017/18,Boys,All Pupils,720,54.7,0.33
+E09000021,Kingston upon Thames,2017/18,Boys,White,402,52.4,0.11
+E09000021,Kingston upon Thames,2017/18,Boys,Mixed,64,50.2,0.2
+E09000021,Kingston upon Thames,2017/18,Boys,Asian ,183,63.4,0.99
+E09000021,Kingston upon Thames,2017/18,Boys,Black,37,42.4,-0.16
+E09000021,Kingston upon Thames,2017/18,Boys,Chinese,3,74.7,0.97
+E09000021,Kingston upon Thames,2017/18,Girls,All Pupils,795,60.5,0.71
+E09000021,Kingston upon Thames,2017/18,Girls,White,439,57.4,0.54
+E09000021,Kingston upon Thames,2017/18,Girls,Mixed,70,57.3,0.64
+E09000021,Kingston upon Thames,2017/18,Girls,Asian,201,68.8,1.08
+E09000021,Kingston upon Thames,2017/18,Girls,Black,39,52.4,0.48
+E09000021,Kingston upon Thames,2017/18,Girls,Chinese,9,80.2,1.27
+E09000022,Lambeth,2017/18,All,All Pupils,2114,44.6,-0.05
+E09000022,Lambeth,2017/18,All,White,540,48.2,0.17
+E09000022,Lambeth,2017/18,All,Mixed,258,43.9,-0.27
+E09000022,Lambeth,2017/18,All,Asian,96,52.6,0.55
+E09000022,Lambeth,2017/18,All,Black,1012,42.1,-0.23
+E09000022,Lambeth,2017/18,All,Chinese,16,59,0.4
+E09000022,Lambeth,2017/18,Boys,All Pupils,1073,41.9,-0.34
+E09000022,Lambeth,2017/18,Boys,White,277,45.5,-0.05
+E09000022,Lambeth,2017/18,Boys,Mixed,151,40.8,-0.64
+E09000022,Lambeth,2017/18,Boys,Asian ,63,53.8,0.53
+E09000022,Lambeth,2017/18,Boys,Black,488,38.5,-0.54
+E09000022,Lambeth,2017/18,Boys,Chinese,8,60.3,0.07
+E09000022,Lambeth,2017/18,Girls,All Pupils,1041,47.4,0.24
+E09000022,Lambeth,2017/18,Girls,White,263,51.1,0.39
+E09000022,Lambeth,2017/18,Girls,Mixed,107,48.3,0.24
+E09000022,Lambeth,2017/18,Girls,Asian,33,50.4,0.58
+E09000022,Lambeth,2017/18,Girls,Black,524,45.4,0.07
+E09000022,Lambeth,2017/18,Girls,Chinese,8,57.8,0.77
+E09000023,Lewisham,2017/18,All,All Pupils,2104,44.9,-0.22
+E09000023,Lewisham,2017/18,All,White,596,47.1,-0.14
+E09000023,Lewisham,2017/18,All,Mixed,297,46.6,-0.24
+E09000023,Lewisham,2017/18,All,Asian,125,46.3,0.09
+E09000023,Lewisham,2017/18,All,Black,902,42.2,-0.31
+E09000023,Lewisham,2017/18,All,Chinese,25,60.3,0.72
+E09000023,Lewisham,2017/18,Boys,All Pupils,1046,41.8,-0.45
+E09000023,Lewisham,2017/18,Boys,White,294,45.2,-0.39
+E09000023,Lewisham,2017/18,Boys,Mixed,140,43.2,-0.46
+E09000023,Lewisham,2017/18,Boys,Asian ,70,41.8,0.01
+E09000023,Lewisham,2017/18,Boys,Black,459,38.6,-0.6
+E09000023,Lewisham,2017/18,Boys,Chinese,15,60.7,0.53
+E09000023,Lewisham,2017/18,Girls,All Pupils,1058,47.9,0.02
+E09000023,Lewisham,2017/18,Girls,White,302,49,0.11
+E09000023,Lewisham,2017/18,Girls,Mixed,157,49.5,-0.05
+E09000023,Lewisham,2017/18,Girls,Asian,55,51.9,0.19
+E09000023,Lewisham,2017/18,Girls,Black,443,46,0
+E09000023,Lewisham,2017/18,Girls,Chinese,10,59.8,1.03
+E12000007,London,2017/18,All,All Pupils,76224,49.4,0.23
+E12000007,London,2017/18,All,White,30140,48.8,0.07
+E12000007,London,2017/18,All,Mixed,6975,49.1,0.07
+E12000007,London,2017/18,All,Asian,16118,54.4,0.65
+E12000007,London,2017/18,All,Black,16443,45.6,0.09
+E12000007,London,2017/18,All,Chinese,457,67.4,0.99
+E12000007,London,2017/18,Boys,All Pupils,38223,46.7,0
+E12000007,London,2017/18,Boys,White,15187,46.3,-0.14
+E12000007,London,2017/18,Boys,Mixed,3485,46,-0.16
+E12000007,London,2017/18,Boys,Asian ,8181,52.2,0.46
+E12000007,London,2017/18,Boys,Black,7985,41.9,-0.19
+E12000007,London,2017/18,Boys,Chinese,217,65.2,0.85
+E12000007,London,2017/18,Girls,All Pupils,38001,52.1,0.45
+E12000007,London,2017/18,Girls,White,14953,51.3,0.29
+E12000007,London,2017/18,Girls,Mixed,3490,52.2,0.31
+E12000007,London,2017/18,Girls,Asian,7937,56.7,0.84
+E12000007,London,2017/18,Girls,Black,8458,49,0.36
+E12000007,London,2017/18,Girls,Chinese,240,69.4,1.12
+E09000024,Merton,2017/18,All,All Pupils,1404,49.7,0.44
+E09000024,Merton,2017/18,All,White,677,51,0.33
+E09000024,Merton,2017/18,All,Mixed,149,46.6,0.34
+E09000024,Merton,2017/18,All,Asian,232,52.7,0.98
+E09000024,Merton,2017/18,All,Black,261,45.4,0.31
+E09000024,Merton,2017/18,All,Chinese,10,67.9,1.63
+E09000024,Merton,2017/18,Boys,All Pupils,721,47.4,0.24
+E09000024,Merton,2017/18,Boys,White,344,49.2,0.14
+E09000024,Merton,2017/18,Boys,Mixed,83,44,0.06
+E09000024,Merton,2017/18,Boys,Asian ,116,50.2,0.83
+E09000024,Merton,2017/18,Boys,Black,121,41.6,0.03
+E09000024,Merton,2017/18,Boys,Chinese,6,67.9,1.18
+E09000024,Merton,2017/18,Girls,All Pupils,683,52.2,0.65
+E09000024,Merton,2017/18,Girls,White,333,52.8,0.51
+E09000024,Merton,2017/18,Girls,Mixed,66,49.7,0.68
+E09000024,Merton,2017/18,Girls,Asian,116,55.2,1.12
+E09000024,Merton,2017/18,Girls,Black,140,48.7,0.54
+E09000024,Merton,2017/18,Girls,Chinese,4,67.9,2.38
+E09000025,Newham,2017/18,All,All Pupils,3745,48.7,0.32
+E09000025,Newham,2017/18,All,White,657,42.3,-0.02
+E09000025,Newham,2017/18,All,Mixed,210,47.6,-0.13
+E09000025,Newham,2017/18,All,Asian,1710,52.2,0.57
+E09000025,Newham,2017/18,All,Black,890,47,0.16
+E09000025,Newham,2017/18,All,Chinese,9,62.2,1.11
+E09000025,Newham,2017/18,Boys,All Pupils,1869,46,0.08
+E09000025,Newham,2017/18,Boys,White,320,38.9,-0.38
+E09000025,Newham,2017/18,Boys,Mixed,101,42.9,-0.34
+E09000025,Newham,2017/18,Boys,Asian ,878,50.3,0.35
+E09000025,Newham,2017/18,Boys,Black,421,43.2,-0.1
+E09000025,Newham,2017/18,Boys,Chinese,4,55.8,0.77
+E09000025,Newham,2017/18,Girls,All Pupils,1876,51.4,0.55
+E09000025,Newham,2017/18,Girls,White,337,45.5,0.32
+E09000025,Newham,2017/18,Girls,Mixed,109,52,0.07
+E09000025,Newham,2017/18,Girls,Asian,832,54.3,0.79
+E09000025,Newham,2017/18,Girls,Black,469,50.4,0.4
+E09000025,Newham,2017/18,Girls,Chinese,5,67.4,1.31
+E12000001,North East,2017/18,All,All Pupils,24838,44.9,-0.23
+E12000001,North East,2017/18,All,White,22747,44.7,-0.27
+E12000001,North East,2017/18,All,Mixed,423,49.8,0.13
+E12000001,North East,2017/18,All,Asian,950,51.1,0.61
+E12000001,North East,2017/18,All,Black,203,49.2,0.49
+E12000001,North East,2017/18,All,Chinese,55,60.3,1.1
+E12000001,North East,2017/18,Boys,All Pupils,12700,42.4,-0.45
+E12000001,North East,2017/18,Boys,White,11619,42.2,-0.48
+E12000001,North East,2017/18,Boys,Mixed,203,46.2,-0.07
+E12000001,North East,2017/18,Boys,Asian ,488,49.1,0.45
+E12000001,North East,2017/18,Boys,Black,102,44.7,0.17
+E12000001,North East,2017/18,Boys,Chinese,28,56.8,0.83
+E12000001,North East,2017/18,Girls,All Pupils,12138,47.6,-0.01
+E12000001,North East,2017/18,Girls,White,11128,47.3,-0.05
+E12000001,North East,2017/18,Girls,Mixed,220,53.1,0.32
+E12000001,North East,2017/18,Girls,Asian,462,53.2,0.76
+E12000001,North East,2017/18,Girls,Black,101,53.7,0.8
+E12000001,North East,2017/18,Girls,Chinese,27,63.9,1.32
+E12000002,North West,2017/18,All,All Pupils,71555,45.7,-0.16
+E12000002,North West,2017/18,All,White,58503,45.3,-0.24
+E12000002,North West,2017/18,All,Mixed,2339,45.9,-0.12
+E12000002,North West,2017/18,All,Asian,7106,48.7,0.39
+E12000002,North West,2017/18,All,Black,1765,44.1,0.13
+E12000002,North West,2017/18,All,Chinese,306,64.3,1
+E12000002,North West,2017/18,Boys,All Pupils,36410,43,-0.4
+E12000002,North West,2017/18,Boys,White,29774,42.7,-0.47
+E12000002,North West,2017/18,Boys,Mixed,1206,43.4,-0.31
+E12000002,North West,2017/18,Boys,Asian ,3603,45.5,0.1
+E12000002,North West,2017/18,Boys,Black,898,40.7,-0.16
+E12000002,North West,2017/18,Boys,Chinese,149,62.1,0.79
+E12000002,North West,2017/18,Girls,All Pupils,35145,48.5,0.09
+E12000002,North West,2017/18,Girls,White,28729,48.1,0.01
+E12000002,North West,2017/18,Girls,Mixed,1133,48.5,0.08
+E12000002,North West,2017/18,Girls,Asian,3503,51.9,0.69
+E12000002,North West,2017/18,Girls,Black,867,47.6,0.42
+E12000002,North West,2017/18,Girls,Chinese,157,66.5,1.21
+E13000002,Outer London,2017/18,All,All Pupils,50758,49.9,0.24
+E13000002,Outer London,2017/18,All,White,22876,48.4,0.03
+E13000002,Outer London,2017/18,All,Mixed,4481,49.7,0.14
+E13000002,Outer London,2017/18,All,Asian,10610,56.2,0.75
+E13000002,Outer London,2017/18,All,Black,8921,46.2,0.16
+E13000002,Outer London,2017/18,All,Chinese,299,70.3,1.1
+E13000002,Outer London,2017/18,Boys,All Pupils,25653,47.3,0.03
+E13000002,Outer London,2017/18,Boys,White,11610,46.1,-0.17
+E13000002,Outer London,2017/18,Boys,Mixed,2255,46.9,-0.08
+E13000002,Outer London,2017/18,Boys,Asian ,5403,54,0.57
+E13000002,Outer London,2017/18,Boys,Black,4343,42.3,-0.13
+E13000002,Outer London,2017/18,Boys,Chinese,140,69,1.02
+E13000002,Outer London,2017/18,Girls,All Pupils,25105,52.6,0.46
+E13000002,Outer London,2017/18,Girls,White,11266,50.8,0.24
+E13000002,Outer London,2017/18,Girls,Mixed,2226,52.7,0.36
+E13000002,Outer London,2017/18,Girls,Asian,5207,58.6,0.95
+E13000002,Outer London,2017/18,Girls,Black,4578,50,0.44
+E13000002,Outer London,2017/18,Girls,Chinese,159,71.5,1.17
+E09000026,Redbridge,2017/18,All,All Pupils,3508,53.1,0.47
+E09000026,Redbridge,2017/18,All,White,797,48.6,0.17
+E09000026,Redbridge,2017/18,All,Mixed,231,51.4,0.24
+E09000026,Redbridge,2017/18,All,Asian,1858,57,0.68
+E09000026,Redbridge,2017/18,All,Black,507,46.1,0.27
+E09000026,Redbridge,2017/18,All,Chinese,24,67.1,1.22
+E09000026,Redbridge,2017/18,Boys,All Pupils,1839,50.6,0.25
+E09000026,Redbridge,2017/18,Boys,White,427,46.3,-0.06
+E09000026,Redbridge,2017/18,Boys,Mixed,118,45.9,-0.09
+E09000026,Redbridge,2017/18,Boys,Asian ,1002,54.8,0.5
+E09000026,Redbridge,2017/18,Boys,Black,241,42.3,-0.11
+E09000026,Redbridge,2017/18,Boys,Chinese,10,68.9,1.46
+E09000026,Redbridge,2017/18,Girls,All Pupils,1669,55.7,0.72
+E09000026,Redbridge,2017/18,Girls,White,370,51.4,0.44
+E09000026,Redbridge,2017/18,Girls,Mixed,113,57.2,0.61
+E09000026,Redbridge,2017/18,Girls,Asian,856,59.5,0.89
+E09000026,Redbridge,2017/18,Girls,Black,266,49.5,0.6
+E09000026,Redbridge,2017/18,Girls,Chinese,14,65.8,1.06
+E09000027,Richmond upon Thames,2017/18,All,All Pupils,1479,51.7,0.14
+E09000027,Richmond upon Thames,2017/18,All,White,1110,52.3,0.13
+E09000027,Richmond upon Thames,2017/18,All,Mixed,145,48.7,0.01
+E09000027,Richmond upon Thames,2017/18,All,Asian,111,55.4,0.64
+E09000027,Richmond upon Thames,2017/18,All,Black,62,42.1,-0.19
+E09000027,Richmond upon Thames,2017/18,All,Chinese,6,58.4,1.18
+E09000027,Richmond upon Thames,2017/18,Boys,All Pupils,729,49.9,-0.04
+E09000027,Richmond upon Thames,2017/18,Boys,White,539,50.6,-0.04
+E09000027,Richmond upon Thames,2017/18,Boys,Mixed,71,47.2,-0.26
+E09000027,Richmond upon Thames,2017/18,Boys,Asian ,63,54.1,0.48
+E09000027,Richmond upon Thames,2017/18,Boys,Black,30,38.6,-0.28
+E09000027,Richmond upon Thames,2017/18,Boys,Chinese,3,67.2,1.36
+E09000027,Richmond upon Thames,2017/18,Girls,All Pupils,750,53.4,0.32
+E09000027,Richmond upon Thames,2017/18,Girls,White,571,54,0.3
+E09000027,Richmond upon Thames,2017/18,Girls,Mixed,74,50.2,0.29
+E09000027,Richmond upon Thames,2017/18,Girls,Asian,48,57.2,0.86
+E09000027,Richmond upon Thames,2017/18,Girls,Black,32,45.3,-0.09
+E09000027,Richmond upon Thames,2017/18,Girls,Chinese,3,49.7,1.05
+E12000008,South East,2017/18,All,All Pupils,82803,47.8,0.01
+E12000008,South East,2017/18,All,White,69287,47.2,-0.05
+E12000008,South East,2017/18,All,Mixed,3895,49.5,0.07
+E12000008,South East,2017/18,All,Asian,5571,53.8,0.54
+E12000008,South East,2017/18,All,Black,2181,47.6,0.28
+E12000008,South East,2017/18,All,Chinese,293,62.1,1.04
+E12000008,South East,2017/18,Boys,All Pupils,42356,45.1,-0.22
+E12000008,South East,2017/18,Boys,White,35467,44.6,-0.28
+E12000008,South East,2017/18,Boys,Mixed,1972,46.4,-0.15
+E12000008,South East,2017/18,Boys,Asian ,2863,51.5,0.35
+E12000008,South East,2017/18,Boys,Black,1096,43.5,0.02
+E12000008,South East,2017/18,Boys,Chinese,132,61,0.99
+E12000008,South East,2017/18,Girls,All Pupils,40447,50.7,0.24
+E12000008,South East,2017/18,Girls,White,33820,50,0.19
+E12000008,South East,2017/18,Girls,Mixed,1923,52.8,0.29
+E12000008,South East,2017/18,Girls,Asian,2708,56.2,0.73
+E12000008,South East,2017/18,Girls,Black,1085,51.7,0.53
+E12000008,South East,2017/18,Girls,Chinese,161,63,1.09
+E12000009,South West,2017/18,All,All Pupils,49425,46.7,-0.07
+E12000009,South West,2017/18,All,White,45021,46.7,-0.09
+E12000009,South West,2017/18,All,Mixed,1501,48.3,-0.01
+E12000009,South West,2017/18,All,Asian,1087,51.1,0.65
+E12000009,South West,2017/18,All,Black,635,42.4,0.1
+E12000009,South West,2017/18,All,Chinese,137,61.4,0.98
+E12000009,South West,2017/18,Boys,All Pupils,25220,44,-0.3
+E12000009,South West,2017/18,Boys,White,23013,43.9,-0.32
+E12000009,South West,2017/18,Boys,Mixed,772,46,-0.21
+E12000009,South West,2017/18,Boys,Asian ,543,49,0.46
+E12000009,South West,2017/18,Boys,Black,317,39.8,-0.1
+E12000009,South West,2017/18,Boys,Chinese,58,58.7,0.87
+E12000009,South West,2017/18,Girls,All Pupils,24205,49.6,0.18
+E12000009,South West,2017/18,Girls,White,22008,49.5,0.16
+E12000009,South West,2017/18,Girls,Mixed,729,50.7,0.21
+E12000009,South West,2017/18,Girls,Asian,544,53.1,0.84
+E12000009,South West,2017/18,Girls,Black,318,45.1,0.31
+E12000009,South West,2017/18,Girls,Chinese,79,63.3,1.05
+E09000028,Southwark,2017/18,All,All Pupils,2386,50.2,0.3
+E09000028,Southwark,2017/18,All,White,645,50.8,0.13
+E09000028,Southwark,2017/18,All,Mixed,260,51.7,0.16
+E09000028,Southwark,2017/18,All,Asian,138,54.5,0.67
+E09000028,Southwark,2017/18,All,Black,1064,48.4,0.31
+E09000028,Southwark,2017/18,All,Chinese,30,63,0.56
+E09000028,Southwark,2017/18,Boys,All Pupils,1178,48.3,0.11
+E09000028,Southwark,2017/18,Boys,White,341,48.4,-0.1
+E09000028,Southwark,2017/18,Boys,Mixed,129,52.8,0.07
+E09000028,Southwark,2017/18,Boys,Asian ,66,52,0.38
+E09000028,Southwark,2017/18,Boys,Black,494,46.1,0.15
+E09000028,Southwark,2017/18,Boys,Chinese,15,59.4,0.46
+E09000028,Southwark,2017/18,Girls,All Pupils,1208,52,0.49
+E09000028,Southwark,2017/18,Girls,White,304,53.4,0.39
+E09000028,Southwark,2017/18,Girls,Mixed,131,50.6,0.24
+E09000028,Southwark,2017/18,Girls,Asian,72,56.8,0.95
+E09000028,Southwark,2017/18,Girls,Black,570,50.3,0.45
+E09000028,Southwark,2017/18,Girls,Chinese,15,66.6,0.68
+E09000029,Sutton,2017/18,All,All Pupils,2719,58.1,0.39
+E09000029,Sutton,2017/18,All,White,1519,52.6,0.11
+E09000029,Sutton,2017/18,All,Mixed,238,59.7,0.45
+E09000029,Sutton,2017/18,All,Asian,636,70.3,1.05
+E09000029,Sutton,2017/18,All,Black,224,54.1,0.29
+E09000029,Sutton,2017/18,All,Chinese,40,77.5,1.02
+E09000029,Sutton,2017/18,Boys,All Pupils,1392,57.3,0.25
+E09000029,Sutton,2017/18,Boys,White,786,51.8,-0.02
+E09000029,Sutton,2017/18,Boys,Mixed,116,58.9,0.29
+E09000029,Sutton,2017/18,Boys,Asian ,328,69.9,0.93
+E09000029,Sutton,2017/18,Boys,Black,108,50.2,-0.06
+E09000029,Sutton,2017/18,Boys,Chinese,19,79.9,1.05
+E09000029,Sutton,2017/18,Girls,All Pupils,1327,59,0.53
+E09000029,Sutton,2017/18,Girls,White,733,53.6,0.24
+E09000029,Sutton,2017/18,Girls,Mixed,122,60.5,0.6
+E09000029,Sutton,2017/18,Girls,Asian,308,70.7,1.18
+E09000029,Sutton,2017/18,Girls,Black,116,57.7,0.62
+E09000029,Sutton,2017/18,Girls,Chinese,21,75.3,0.99
+E09000030,Tower Hamlets,2017/18,All,All Pupils,2721,46.8,0.15
+E09000030,Tower Hamlets,2017/18,All,White,299,38.9,-0.55
+E09000030,Tower Hamlets,2017/18,All,Mixed,111,39.3,-0.69
+E09000030,Tower Hamlets,2017/18,All,Asian,1865,49.7,0.36
+E09000030,Tower Hamlets,2017/18,All,Black,302,44.4,-0.08
+E09000030,Tower Hamlets,2017/18,All,Chinese,4,70.8,1.25
+E09000030,Tower Hamlets,2017/18,Boys,All Pupils,1330,43.6,-0.12
+E09000030,Tower Hamlets,2017/18,Boys,White,147,35.8,-0.71
+E09000030,Tower Hamlets,2017/18,Boys,Mixed,64,37.8,-0.86
+E09000030,Tower Hamlets,2017/18,Boys,Asian ,891,46.7,0.11
+E09000030,Tower Hamlets,2017/18,Boys,Black,148,41.2,-0.39
+E09000030,Tower Hamlets,2017/18,Boys,Chinese,1,64,1.15
+E09000030,Tower Hamlets,2017/18,Girls,All Pupils,1391,49.8,0.39
+E09000030,Tower Hamlets,2017/18,Girls,White,152,41.8,-0.39
+E09000030,Tower Hamlets,2017/18,Girls,Mixed,47,41.2,-0.46
+E09000030,Tower Hamlets,2017/18,Girls,Asian,974,52.5,0.59
+E09000030,Tower Hamlets,2017/18,Girls,Black,154,47.5,0.21
+E09000030,Tower Hamlets,2017/18,Girls,Chinese,3,73,1.28
+E09000031,Waltham Forest,2017/18,All,All Pupils,2484,46.1,0.21
+E09000031,Waltham Forest,2017/18,All,White,840,46,0.11
+E09000031,Waltham Forest,2017/18,All,Mixed,237,46.7,0.04
+E09000031,Waltham Forest,2017/18,All,Asian,743,48.7,0.48
+E09000031,Waltham Forest,2017/18,All,Black,546,42.1,-0.03
+E09000031,Waltham Forest,2017/18,All,Chinese,13,71,2.29
+E09000031,Waltham Forest,2017/18,Boys,All Pupils,1218,42.9,-0.05
+E09000031,Waltham Forest,2017/18,Boys,White,416,43.2,-0.11
+E09000031,Waltham Forest,2017/18,Boys,Mixed,117,44.3,-0.3
+E09000031,Waltham Forest,2017/18,Boys,Asian ,374,45.4,0.23
+E09000031,Waltham Forest,2017/18,Boys,Black,249,38.2,-0.33
+E09000031,Waltham Forest,2017/18,Boys,Chinese,7,74.8,2.7
+E09000031,Waltham Forest,2017/18,Girls,All Pupils,1266,49.1,0.45
+E09000031,Waltham Forest,2017/18,Girls,White,424,48.8,0.33
+E09000031,Waltham Forest,2017/18,Girls,Mixed,120,49,0.37
+E09000031,Waltham Forest,2017/18,Girls,Asian,369,52.1,0.73
+E09000031,Waltham Forest,2017/18,Girls,Black,297,45.3,0.22
+E09000031,Waltham Forest,2017/18,Girls,Chinese,6,66.5,1.88
+E09000032,Wandsworth,2017/18,All,All Pupils,1707,50.8,0.3
+E09000032,Wandsworth,2017/18,All,White,565,53.3,0.39
+E09000032,Wandsworth,2017/18,All,Mixed,224,53.6,0.31
+E09000032,Wandsworth,2017/18,All,Asian,334,51.8,0.59
+E09000032,Wandsworth,2017/18,All,Black,475,45.5,-0.01
+E09000032,Wandsworth,2017/18,All,Chinese,7,71.7,0.69
+E09000032,Wandsworth,2017/18,Boys,All Pupils,891,48.9,0.15
+E09000032,Wandsworth,2017/18,Boys,White,303,51.1,0.24
+E09000032,Wandsworth,2017/18,Boys,Mixed,104,49.7,-0.04
+E09000032,Wandsworth,2017/18,Boys,Asian ,188,51.5,0.57
+E09000032,Wandsworth,2017/18,Boys,Black,245,43.7,-0.19
+E09000032,Wandsworth,2017/18,Boys,Chinese,3,80.7,0.98
+E09000032,Wandsworth,2017/18,Girls,All Pupils,816,52.9,0.46
+E09000032,Wandsworth,2017/18,Girls,White,262,56,0.55
+E09000032,Wandsworth,2017/18,Girls,Mixed,120,56.9,0.6
+E09000032,Wandsworth,2017/18,Girls,Asian,146,52.3,0.63
+E09000032,Wandsworth,2017/18,Girls,Black,230,47.3,0.16
+E09000032,Wandsworth,2017/18,Girls,Chinese,4,65,0.25
+E12000005,West Midlands,2017/18,All,All Pupils,58845,45.2,-0.08
+E12000005,West Midlands,2017/18,All,White,41282,44.9,-0.15
+E12000005,West Midlands,2017/18,All,Mixed,3001,44,-0.22
+E12000005,West Midlands,2017/18,All,Asian,9978,47.6,0.2
+E12000005,West Midlands,2017/18,All,Black,2974,43.1,0
+E12000005,West Midlands,2017/18,All,Chinese,153,65.6,1.07
+E12000005,West Midlands,2017/18,Boys,All Pupils,30025,42.4,-0.32
+E12000005,West Midlands,2017/18,Boys,White,21073,41.9,-0.39
+E12000005,West Midlands,2017/18,Boys,Mixed,1480,41.6,-0.45
+E12000005,West Midlands,2017/18,Boys,Asian ,5081,45.4,-0.04
+E12000005,West Midlands,2017/18,Boys,Black,1538,39.6,-0.25
+E12000005,West Midlands,2017/18,Boys,Chinese,82,63.9,0.94
+E12000005,West Midlands,2017/18,Girls,All Pupils,28820,48.1,0.17
+E12000005,West Midlands,2017/18,Girls,White,20209,47.9,0.1
+E12000005,West Midlands,2017/18,Girls,Mixed,1521,46.3,0
+E12000005,West Midlands,2017/18,Girls,Asian,4897,49.8,0.45
+E12000005,West Midlands,2017/18,Girls,Black,1436,46.8,0.27
+E12000005,West Midlands,2017/18,Girls,Chinese,71,67.6,1.24
+E09000033,Westminster,2017/18,All,All Pupils,1495,52.9,0.47
+E09000033,Westminster,2017/18,All,White,371,58.1,0.55
+E09000033,Westminster,2017/18,All,Mixed,133,51.6,0.34
+E09000033,Westminster,2017/18,All,Asian,216,53.8,0.59
+E09000033,Westminster,2017/18,All,Black,353,49.3,0.29
+E09000033,Westminster,2017/18,All,Chinese,15,72.5,1.27
+E09000033,Westminster,2017/18,Boys,All Pupils,743,48,0.13
+E09000033,Westminster,2017/18,Boys,White,150,51,0.16
+E09000033,Westminster,2017/18,Boys,Mixed,51,45.8,0.08
+E09000033,Westminster,2017/18,Boys,Asian ,123,51.9,0.36
+E09000033,Westminster,2017/18,Boys,Black,187,44.5,-0.12
+E09000033,Westminster,2017/18,Boys,Chinese,5,67.8,0.87
+E09000033,Westminster,2017/18,Girls,All Pupils,752,57.8,0.81
+E09000033,Westminster,2017/18,Girls,White,221,62.8,0.81
+E09000033,Westminster,2017/18,Girls,Mixed,82,55.2,0.5
+E09000033,Westminster,2017/18,Girls,Asian,93,56.4,0.9
+E09000033,Westminster,2017/18,Girls,Black,166,54.7,0.75
+E09000033,Westminster,2017/18,Girls,Chinese,10,74.8,1.38
+E12000003,Yorkshire and the Humber,2017/18,All,All Pupils,53178,45.1,-0.02
+E12000003,Yorkshire and the Humber,2017/18,All,White,42120,45.4,-0.06
+E12000003,Yorkshire and the Humber,2017/18,All,Mixed,1795,44.1,-0.13
+E12000003,Yorkshire and the Humber,2017/18,All,Asian,6617,45.3,0.27
+E12000003,Yorkshire and the Humber,2017/18,All,Black,1118,42.4,0.34
+E12000003,Yorkshire and the Humber,2017/18,All,Chinese,120,62.6,1.03
+E12000003,Yorkshire and the Humber,2017/18,Boys,All Pupils,27121,42.4,-0.25
+E12000003,Yorkshire and the Humber,2017/18,Boys,White,21496,42.8,-0.29
+E12000003,Yorkshire and the Humber,2017/18,Boys,Mixed,909,41.3,-0.42
+E12000003,Yorkshire and the Humber,2017/18,Boys,Asian ,3404,42.6,0.01
+E12000003,Yorkshire and the Humber,2017/18,Boys,Black,565,38.6,0.14
+E12000003,Yorkshire and the Humber,2017/18,Boys,Chinese,60,60.1,0.87
+E12000003,Yorkshire and the Humber,2017/18,Girls,All Pupils,26057,47.9,0.23
+E12000003,Yorkshire and the Humber,2017/18,Girls,White,20624,48.2,0.19
+E12000003,Yorkshire and the Humber,2017/18,Girls,Mixed,886,47.1,0.17
+E12000003,Yorkshire and the Humber,2017/18,Girls,Asian,3213,48.2,0.55
+E12000003,Yorkshire and the Humber,2017/18,Girls,Black,553,46.2,0.56
+E12000003,Yorkshire and the Humber,2017/18,Girls,Chinese,60,65,1.18
+E09000002,Barking and Dagenham,2016/17,All,All Pupils,"2,185",46.7,0.23
+E09000002,Barking and Dagenham,2016/17,All,Asian,428,53,0.6
+E09000002,Barking and Dagenham,2016/17,All,Black,601,47.4,0.39
+E09000002,Barking and Dagenham,2016/17,All,Chinese,3,48,x
+E09000002,Barking and Dagenham,2016/17,All,Mixed,124,45.6,x
+E09000002,Barking and Dagenham,2016/17,All,White,970,43.3,-0.03
+E09000002,Barking and Dagenham,2016/17,Boys,All Pupils,"1,146",43.5,0.01
+E09000002,Barking and Dagenham,2016/17,Boys,Asian,220,50.3,0.38
+E09000002,Barking and Dagenham,2016/17,Boys,Black,309,42.7,0.11
+E09000002,Barking and Dagenham,2016/17,Boys,Chinese,x,x,x
+E09000002,Barking and Dagenham,2016/17,Boys,Mixed,x,x,x
+E09000002,Barking and Dagenham,2016/17,Boys,White,521,40.9,-0.21
+E09000002,Barking and Dagenham,2016/17,Girls,All Pupils,"1,039",50.1,0.47
+E09000002,Barking and Dagenham,2016/17,Girls,Asian,208,55.9,0.85
+E09000002,Barking and Dagenham,2016/17,Girls,Black,292,52.3,0.68
+E09000002,Barking and Dagenham,2016/17,Girls,Chinese,x,x,x
+E09000002,Barking and Dagenham,2016/17,Girls,Mixed,x,x,x
+E09000002,Barking and Dagenham,2016/17,Girls,White,449,46.1,0.19
+E09000003,Barnet,2016/17,All,All Pupils,"3,528",54.7,0.47
+E09000003,Barnet,2016/17,All,Asian,539,64.3,0.9
+E09000003,Barnet,2016/17,All,Black,478,47.6,0.18
+E09000003,Barnet,2016/17,All,Chinese,55,69.1,0.68
+E09000003,Barnet,2016/17,All,Mixed,343,54.9,0.39
+E09000003,Barnet,2016/17,All,White,"1,728",53.9,0.38
+E09000003,Barnet,2016/17,Boys,All Pupils,"1,811",52.3,0.25
+E09000003,Barnet,2016/17,Boys,Asian,292,65.3,0.82
+E09000003,Barnet,2016/17,Boys,Black,231,44.1,-0.1
+E09000003,Barnet,2016/17,Boys,Chinese,30,69,0.59
+E09000003,Barnet,2016/17,Boys,Mixed,173,51.1,0.16
+E09000003,Barnet,2016/17,Boys,White,880,50.8,0.11
+E09000003,Barnet,2016/17,Girls,All Pupils,"1,717",57.2,0.7
+E09000003,Barnet,2016/17,Girls,Asian,247,63.1,1
+E09000003,Barnet,2016/17,Girls,Black,247,50.8,0.45
+E09000003,Barnet,2016/17,Girls,Chinese,25,69.3,0.81
+E09000003,Barnet,2016/17,Girls,Mixed,170,58.8,0.63
+E09000003,Barnet,2016/17,Girls,White,848,57.2,0.66
+E09000004,Bexley,2016/17,All,All Pupils,"3,141",49,-0.05
+E09000004,Bexley,2016/17,All,Asian,203,60.4,0.71
+E09000004,Bexley,2016/17,All,Black,567,54.9,0.43
+E09000004,Bexley,2016/17,All,Chinese,48,60.6,0.56
+E09000004,Bexley,2016/17,All,Mixed,185,50.6,-0.07
+E09000004,Bexley,2016/17,All,White,"2,086",45.8,-0.27
+E09000004,Bexley,2016/17,Boys,All Pupils,"1,558",46.5,-0.23
+E09000004,Bexley,2016/17,Boys,Asian,93,56.2,0.43
+E09000004,Bexley,2016/17,Boys,Black,265,51.5,0.21
+E09000004,Bexley,2016/17,Boys,Chinese,30,57,0.58
+E09000004,Bexley,2016/17,Boys,Mixed,77,49.4,-0.13
+E09000004,Bexley,2016/17,Boys,White,"1,072",43.8,-0.43
+E09000004,Bexley,2016/17,Girls,All Pupils,"1,583",51.5,0.12
+E09000004,Bexley,2016/17,Girls,Asian,110,63.9,0.97
+E09000004,Bexley,2016/17,Girls,Black,302,57.9,0.63
+E09000004,Bexley,2016/17,Girls,Chinese,18,66.6,0.53
+E09000004,Bexley,2016/17,Girls,Mixed,108,51.4,-0.03
+E09000004,Bexley,2016/17,Girls,White,"1,014",48,-0.1
+E09000005,Brent,2016/17,All,All Pupils,"2,908",49,0.49
+E09000005,Brent,2016/17,All,Asian,894,51.9,0.95
+E09000005,Brent,2016/17,All,Black,698,42.4,0.01
+E09000005,Brent,2016/17,All,Chinese,4,66.1,0.51
+E09000005,Brent,2016/17,All,Mixed,195,45.8,0.08
+E09000005,Brent,2016/17,All,White,507,46.7,0.4
+E09000005,Brent,2016/17,Boys,All Pupils,"1,444",46.8,0.32
+E09000005,Brent,2016/17,Boys,Asian,444,49.8,0.78
+E09000005,Brent,2016/17,Boys,Black,332,39.5,-0.16
+E09000005,Brent,2016/17,Boys,Chinese,x,x,x
+E09000005,Brent,2016/17,Boys,Mixed,x,x,x
+E09000005,Brent,2016/17,Boys,White,245,43.7,0.22
+E09000005,Brent,2016/17,Girls,All Pupils,"1,464",51.1,0.66
+E09000005,Brent,2016/17,Girls,Asian,450,54.1,1.12
+E09000005,Brent,2016/17,Girls,Black,366,45.1,0.15
+E09000005,Brent,2016/17,Girls,Chinese,x,x,x
+E09000005,Brent,2016/17,Girls,Mixed,x,x,x
+E09000005,Brent,2016/17,Girls,White,262,49.5,0.58
+E09000006,Bromley,2016/17,All,All Pupils,"3,258",49.8,0.12
+E09000006,Bromley,2016/17,All,Asian,182,60.8,0.7
+E09000006,Bromley,2016/17,All,Black,296,51.1,0.45
+E09000006,Bromley,2016/17,All,Chinese,43,69.2,0.75
+E09000006,Bromley,2016/17,All,Mixed,303,51.4,0.35
+E09000006,Bromley,2016/17,All,White,"2,231",50.3,0.13
+E09000006,Bromley,2016/17,Boys,All Pupils,"1,568",46.9,-0.12
+E09000006,Bromley,2016/17,Boys,Asian,82,59.9,0.59
+E09000006,Bromley,2016/17,Boys,Black,139,47.6,0.29
+E09000006,Bromley,2016/17,Boys,Chinese,21,74,1.02
+E09000006,Bromley,2016/17,Boys,Mixed,134,47.3,0.03
+E09000006,Bromley,2016/17,Boys,White,"1,079",47.6,-0.11
+E09000006,Bromley,2016/17,Girls,All Pupils,"1,690",52.5,0.34
+E09000006,Bromley,2016/17,Girls,Asian,100,61.6,0.78
+E09000006,Bromley,2016/17,Girls,Black,157,54.1,0.6
+E09000006,Bromley,2016/17,Girls,Chinese,22,64.6,0.52
+E09000006,Bromley,2016/17,Girls,Mixed,169,54.6,0.61
+E09000006,Bromley,2016/17,Girls,White,"1,152",52.8,0.35
+E09000007,Camden,2016/17,All,All Pupils,"1,513",48.3,0.05
+E09000007,Camden,2016/17,All,Asian,277,46.4,0.16
+E09000007,Camden,2016/17,All,Black,318,44.9,0.01
+E09000007,Camden,2016/17,All,Chinese,7,70.9,0.63
+E09000007,Camden,2016/17,All,Mixed,191,49.3,-0.03
+E09000007,Camden,2016/17,All,White,577,49.7,-0.04
+E09000007,Camden,2016/17,Boys,All Pupils,635,44.3,-0.24
+E09000007,Camden,2016/17,Boys,Asian,141,44.6,-0.01
+E09000007,Camden,2016/17,Boys,Black,115,37.6,-0.57
+E09000007,Camden,2016/17,Boys,Chinese,x,x,x
+E09000007,Camden,2016/17,Boys,Mixed,x,x,x
+E09000007,Camden,2016/17,Boys,White,243,46.2,-0.26
+E09000007,Camden,2016/17,Girls,All Pupils,878,51.2,0.26
+E09000007,Camden,2016/17,Girls,Asian,136,48.3,0.34
+E09000007,Camden,2016/17,Girls,Black,203,49,0.31
+E09000007,Camden,2016/17,Girls,Chinese,x,x,x
+E09000007,Camden,2016/17,Girls,Mixed,x,x,x
+E09000007,Camden,2016/17,Girls,White,334,52.2,0.13
+E09000001,City of London,2016/17,All,All Pupils,.,.,.
+E09000001,City of London,2016/17,All,Asian,.,.,.
+E09000001,City of London,2016/17,All,Black,.,.,.
+E09000001,City of London,2016/17,All,Chinese,.,.,.
+E09000001,City of London,2016/17,All,Mixed,.,.,.
+E09000001,City of London,2016/17,All,White,.,.,.
+E09000001,City of London,2016/17,Boys,All Pupils,.,.,.
+E09000001,City of London,2016/17,Boys,Asian,.,.,.
+E09000001,City of London,2016/17,Boys,Black,.,.,.
+E09000001,City of London,2016/17,Boys,Chinese,.,.,.
+E09000001,City of London,2016/17,Boys,Mixed,.,.,.
+E09000001,City of London,2016/17,Boys,White,.,.,.
+E09000001,City of London,2016/17,Girls,All Pupils,.,.,.
+E09000001,City of London,2016/17,Girls,Asian,.,.,.
+E09000001,City of London,2016/17,Girls,Black,.,.,.
+E09000001,City of London,2016/17,Girls,Chinese,.,.,.
+E09000001,City of London,2016/17,Girls,Mixed,.,.,.
+E09000001,City of London,2016/17,Girls,White,.,.,.
+E09000008,Croydon,2016/17,All,All Pupils,"3,579",45,0.06
+E09000008,Croydon,2016/17,All,Asian,462,51.5,0.58
+E09000008,Croydon,2016/17,All,Black,"1,031",43,-0.03
+E09000008,Croydon,2016/17,All,Chinese,10,64.5,1.05
+E09000008,Croydon,2016/17,All,Mixed,503,47.2,0.04
+E09000008,Croydon,2016/17,All,White,"1,338",45.6,0
+E09000008,Croydon,2016/17,Boys,All Pupils,"1,716",41.3,-0.19
+E09000008,Croydon,2016/17,Boys,Asian,241,48,0.33
+E09000008,Croydon,2016/17,Boys,Black,506,39.3,-0.27
+E09000008,Croydon,2016/17,Boys,Chinese,5,67.1,0.67
+E09000008,Croydon,2016/17,Boys,Mixed,217,44.8,-0.24
+E09000008,Croydon,2016/17,Boys,White,621,41.7,-0.23
+E09000008,Croydon,2016/17,Girls,All Pupils,"1,863",48.5,0.28
+E09000008,Croydon,2016/17,Girls,Asian,221,55.3,0.84
+E09000008,Croydon,2016/17,Girls,Black,525,46.6,0.21
+E09000008,Croydon,2016/17,Girls,Chinese,5,61.9,1.43
+E09000008,Croydon,2016/17,Girls,Mixed,286,49.1,0.25
+E09000008,Croydon,2016/17,Girls,White,717,49,0.2
+E09000009,Ealing,2016/17,All,All Pupils,"2,722",48.7,0.42
+E09000009,Ealing,2016/17,All,Asian,808,50.9,0.75
+E09000009,Ealing,2016/17,All,Black,543,44,0.14
+E09000009,Ealing,2016/17,All,Chinese,4,47.9,x
+E09000009,Ealing,2016/17,All,Mixed,231,48.7,x
+E09000009,Ealing,2016/17,All,White,736,50,0.29
+E09000009,Ealing,2016/17,Boys,All Pupils,"1,393",46.1,0.23
+E09000009,Ealing,2016/17,Boys,Asian,427,48.6,0.6
+E09000009,Ealing,2016/17,Boys,Black,268,40.4,-0.11
+E09000009,Ealing,2016/17,Boys,Chinese,x,x,x
+E09000009,Ealing,2016/17,Boys,Mixed,x,x,x
+E09000009,Ealing,2016/17,Boys,White,378,47.5,0.13
+E09000009,Ealing,2016/17,Girls,All Pupils,"1,329",51.5,0.61
+E09000009,Ealing,2016/17,Girls,Asian,381,53.4,0.92
+E09000009,Ealing,2016/17,Girls,Black,275,47.6,0.39
+E09000009,Ealing,2016/17,Girls,Chinese,x,x,x
+E09000009,Ealing,2016/17,Girls,Mixed,x,x,x
+E09000009,Ealing,2016/17,Girls,White,358,52.7,0.47
+E12000006,East,2016/17,All,All Pupils,"60,153",46.7,-0.01
+E12000006,East,2016/17,All,Asian,"3,457",51.1,0.49
+E12000006,East,2016/17,All,Black,"1,831",46.9,0.31
+E12000006,East,2016/17,All,Chinese,252,65.1,1.01
+E12000006,East,2016/17,All,Mixed,"2,601",47.3,-0.01
+E12000006,East,2016/17,All,White,"50,840",46.3,-0.05
+E12000006,East,2016/17,Boys,All Pupils,"30,400",44,-0.22
+E12000006,East,2016/17,Boys,Asian,"1,784",48.6,0.29
+E12000006,East,2016/17,Boys,Black,912,43.1,0.07
+E12000006,East,2016/17,Boys,Chinese,141,63.1,0.87
+E12000006,East,2016/17,Boys,Mixed,"1,309",44.5,-0.22
+E12000006,East,2016/17,Boys,White,"25,645",43.6,-0.27
+E12000006,East,2016/17,Girls,All Pupils,"29,753",49.4,0.21
+E12000006,East,2016/17,Girls,Asian,"1,673",53.8,0.69
+E12000006,East,2016/17,Girls,Black,919,50.7,0.55
+E12000006,East,2016/17,Girls,Chinese,111,67.6,1.19
+E12000006,East,2016/17,Girls,Mixed,"1,292",50.2,0.2
+E12000006,East,2016/17,Girls,White,"25,195",49,0.17
+E12000004,East Midlands,2016/17,All,All Pupils,"45,492",45.4,-0.11
+E12000004,East Midlands,2016/17,All,Asian,"3,559",49.1,0.46
+E12000004,East Midlands,2016/17,All,Black,"1,249",42.6,0.09
+E12000004,East Midlands,2016/17,All,Chinese,129,62.8,0.95
+E12000004,East Midlands,2016/17,All,Mixed,"1,793",44.3,-0.15
+E12000004,East Midlands,2016/17,All,White,"38,155",45.1,-0.17
+E12000004,East Midlands,2016/17,Boys,All Pupils,"23,155",42.9,-0.31
+E12000004,East Midlands,2016/17,Boys,Asian,"1,868",46.9,0.26
+E12000004,East Midlands,2016/17,Boys,Black,642,38.7,-0.13
+E12000004,East Midlands,2016/17,Boys,Chinese,55,60.5,1.15
+E12000004,East Midlands,2016/17,Boys,Mixed,905,41,-0.39
+E12000004,East Midlands,2016/17,Boys,White,"19,359",42.7,-0.36
+E12000004,East Midlands,2016/17,Girls,All Pupils,"22,337",47.9,0.1
+E12000004,East Midlands,2016/17,Girls,Asian,"1,691",51.6,0.68
+E12000004,East Midlands,2016/17,Girls,Black,607,46.7,0.32
+E12000004,East Midlands,2016/17,Girls,Chinese,74,64.5,0.82
+E12000004,East Midlands,2016/17,Girls,Mixed,888,47.6,0.09
+E12000004,East Midlands,2016/17,Girls,White,"18,796",47.6,0.04
+E09000010,Enfield,2016/17,All,All Pupils,"3,487",46.2,0.07
+E09000010,Enfield,2016/17,All,Asian,277,56.5,0.47
+E09000010,Enfield,2016/17,All,Black,854,44.2,0.13
+E09000010,Enfield,2016/17,All,Chinese,9,67.6,0.51
+E09000010,Enfield,2016/17,All,Mixed,315,47.7,-0.08
+E09000010,Enfield,2016/17,All,White,"1,747",45.2,-0.03
+E09000010,Enfield,2016/17,Boys,All Pupils,"1,864",44.1,-0.14
+E09000010,Enfield,2016/17,Boys,Asian,146,54.9,0.32
+E09000010,Enfield,2016/17,Boys,Black,438,41.3,-0.15
+E09000010,Enfield,2016/17,Boys,Chinese,5,75.1,0.61
+E09000010,Enfield,2016/17,Boys,Mixed,167,47.6,-0.17
+E09000010,Enfield,2016/17,Boys,White,947,43,-0.23
+E09000010,Enfield,2016/17,Girls,All Pupils,"1,623",48.6,0.31
+E09000010,Enfield,2016/17,Girls,Asian,131,58.4,0.63
+E09000010,Enfield,2016/17,Girls,Black,416,47.2,0.42
+E09000010,Enfield,2016/17,Girls,Chinese,4,58.2,0.35
+E09000010,Enfield,2016/17,Girls,Mixed,148,47.7,0.02
+E09000010,Enfield,2016/17,Girls,White,800,47.7,0.22
+E92000001,England,2016/17,All,All Pupils,"524,932",46.4,-0.03
+E92000001,England,2016/17,All,Asian,"52,087",50.2,0.47
+E92000001,England,2016/17,All,Black,"27,595",45,0.16
+E92000001,England,2016/17,All,Chinese,"2,038",63,0.93
+E92000001,England,2016/17,All,Mixed,"23,359",47.1,-0.02
+E92000001,England,2016/17,All,White,"405,100",46,-0.11
+E92000001,England,2016/17,Boys,All Pupils,"266,822",43.8,-0.24
+E92000001,England,2016/17,Boys,Asian,"26,649",47.8,0.28
+E92000001,England,2016/17,Boys,Black,"13,713",41.7,-0.06
+E92000001,England,2016/17,Boys,Chinese,"1,057",61,0.83
+E92000001,England,2016/17,Boys,Mixed,"11,688",44.4,-0.23
+E92000001,England,2016/17,Boys,White,"205,961",43.4,-0.32
+E92000001,England,2016/17,Girls,All Pupils,"258,110",49.1,0.18
+E92000001,England,2016/17,Girls,Asian,"25,438",52.7,0.67
+E92000001,England,2016/17,Girls,Black,"13,882",48.3,0.38
+E92000001,England,2016/17,Girls,Chinese,981,65.1,1.03
+E92000001,England,2016/17,Girls,Mixed,"11,671",49.9,0.19
+E92000001,England,2016/17,Girls,White,"199,139",48.7,0.1
+E09000011,Greenwich,2016/17,All,All Pupils,"2,166",45.9,-0.05
+E09000011,Greenwich,2016/17,All,Asian,188,50.5,0.3
+E09000011,Greenwich,2016/17,All,Black,637,46.2,0.09
+E09000011,Greenwich,2016/17,All,Chinese,19,59.3,0.57
+E09000011,Greenwich,2016/17,All,Mixed,216,45.7,-0.17
+E09000011,Greenwich,2016/17,All,White,"1,008",44.6,-0.21
+E09000011,Greenwich,2016/17,Boys,All Pupils,"1,135",43.3,-0.26
+E09000011,Greenwich,2016/17,Boys,Asian,97,47.9,0.23
+E09000011,Greenwich,2016/17,Boys,Black,325,44,-0.13
+E09000011,Greenwich,2016/17,Boys,Chinese,6,57.8,0.6
+E09000011,Greenwich,2016/17,Boys,Mixed,108,44.2,-0.36
+E09000011,Greenwich,2016/17,Boys,White,546,41.7,-0.45
+E09000011,Greenwich,2016/17,Girls,All Pupils,"1,031",48.8,0.19
+E09000011,Greenwich,2016/17,Girls,Asian,91,53.1,0.38
+E09000011,Greenwich,2016/17,Girls,Black,312,48.5,0.32
+E09000011,Greenwich,2016/17,Girls,Chinese,13,60,0.56
+E09000011,Greenwich,2016/17,Girls,Mixed,108,47.3,0.02
+E09000011,Greenwich,2016/17,Girls,White,462,48,0.07
+E09000012,Hackney,2016/17,All,All Pupils,"2,002",49.4,0.38
+E09000012,Hackney,2016/17,All,Asian,270,50.1,0.4
+E09000012,Hackney,2016/17,All,Black,750,46.9,0.4
+E09000012,Hackney,2016/17,All,Chinese,9,70.1,1.61
+E09000012,Hackney,2016/17,All,Mixed,153,48.2,0.19
+E09000012,Hackney,2016/17,All,White,648,52.2,0.37
+E09000012,Hackney,2016/17,Boys,All Pupils,917,46.2,0.17
+E09000012,Hackney,2016/17,Boys,Asian,128,46.9,0.21
+E09000012,Hackney,2016/17,Boys,Black,341,43.2,0.24
+E09000012,Hackney,2016/17,Boys,Chinese,5,64,1.46
+E09000012,Hackney,2016/17,Boys,Mixed,59,46.6,0.03
+E09000012,Hackney,2016/17,Boys,White,306,48.9,0.09
+E09000012,Hackney,2016/17,Girls,All Pupils,"1,085",52.1,0.56
+E09000012,Hackney,2016/17,Girls,Asian,142,52.9,0.58
+E09000012,Hackney,2016/17,Girls,Black,409,50,0.54
+E09000012,Hackney,2016/17,Girls,Chinese,4,77.8,1.79
+E09000012,Hackney,2016/17,Girls,Mixed,94,49.2,0.29
+E09000012,Hackney,2016/17,Girls,White,342,55.1,0.62
+E09000013,Hammersmith and Fulham,2016/17,All,All Pupils,"1,313",50.9,0.17
+E09000013,Hammersmith and Fulham,2016/17,All,Asian,102,52.4,0.54
+E09000013,Hammersmith and Fulham,2016/17,All,Black,341,43.1,-0.13
+E09000013,Hammersmith and Fulham,2016/17,All,Chinese,4,70.6,1.25
+E09000013,Hammersmith and Fulham,2016/17,All,Mixed,137,46.2,-0.21
+E09000013,Hammersmith and Fulham,2016/17,All,White,578,56.6,0.31
+E09000013,Hammersmith and Fulham,2016/17,Boys,All Pupils,675,47.2,-0.03
+E09000013,Hammersmith and Fulham,2016/17,Boys,Asian,56,49.4,0.48
+E09000013,Hammersmith and Fulham,2016/17,Boys,Black,191,41.4,-0.26
+E09000013,Hammersmith and Fulham,2016/17,Boys,Chinese,x,x,x
+E09000013,Hammersmith and Fulham,2016/17,Boys,Mixed,x,x,x
+E09000013,Hammersmith and Fulham,2016/17,Boys,White,266,53.7,0.12
+E09000013,Hammersmith and Fulham,2016/17,Girls,All Pupils,638,54.8,0.39
+E09000013,Hammersmith and Fulham,2016/17,Girls,Asian,46,56.1,0.62
+E09000013,Hammersmith and Fulham,2016/17,Girls,Black,150,45.2,0.02
+E09000013,Hammersmith and Fulham,2016/17,Girls,Chinese,x,x,x
+E09000013,Hammersmith and Fulham,2016/17,Girls,Mixed,x,x,x
+E09000013,Hammersmith and Fulham,2016/17,Girls,White,312,59,0.47
+E09000014,Haringey,2016/17,All,All Pupils,"2,127",46.5,0.29
+E09000014,Haringey,2016/17,All,Asian,139,49,0.54
+E09000014,Haringey,2016/17,All,Black,581,42.1,0.11
+E09000014,Haringey,2016/17,All,Chinese,7,59.8,1.58
+E09000014,Haringey,2016/17,All,Mixed,211,47,0.09
+E09000014,Haringey,2016/17,All,White,"1,024",48.6,0.39
+E09000014,Haringey,2016/17,Boys,All Pupils,"1,110",44.6,0.12
+E09000014,Haringey,2016/17,Boys,Asian,64,47.7,0.44
+E09000014,Haringey,2016/17,Boys,Black,294,38.2,-0.16
+E09000014,Haringey,2016/17,Boys,Chinese,4,x,x
+E09000014,Haringey,2016/17,Boys,Mixed,110,x,x
+E09000014,Haringey,2016/17,Boys,White,537,47.7,0.27
+E09000014,Haringey,2016/17,Girls,All Pupils,"1,017",48.6,0.48
+E09000014,Haringey,2016/17,Girls,Asian,75,50.1,0.62
+E09000014,Haringey,2016/17,Girls,Black,287,46.1,0.41
+E09000014,Haringey,2016/17,Girls,Chinese,3,x,x
+E09000014,Haringey,2016/17,Girls,Mixed,101,x,x
+E09000014,Haringey,2016/17,Girls,White,487,49.7,0.52
+E09000015,Harrow,2016/17,All,All Pupils,"2,049",49.7,0.47
+E09000015,Harrow,2016/17,All,Asian,898,54.1,0.72
+E09000015,Harrow,2016/17,All,Black,329,41.8,0.04
+E09000015,Harrow,2016/17,All,Chinese,6,68.5,1.27
+E09000015,Harrow,2016/17,All,Mixed,147,49,0.29
+E09000015,Harrow,2016/17,All,White,540,47.6,0.31
+E09000015,Harrow,2016/17,Boys,All Pupils,"1,029",46.8,0.22
+E09000015,Harrow,2016/17,Boys,Asian,459,51.7,0.48
+E09000015,Harrow,2016/17,Boys,Black,162,38.5,-0.11
+E09000015,Harrow,2016/17,Boys,Chinese,0,.,.
+E09000015,Harrow,2016/17,Boys,Mixed,77,48.5,0.1
+E09000015,Harrow,2016/17,Boys,White,261,43.2,-0.04
+E09000015,Harrow,2016/17,Girls,All Pupils,"1,020",52.6,0.72
+E09000015,Harrow,2016/17,Girls,Asian,439,56.8,0.96
+E09000015,Harrow,2016/17,Girls,Black,167,44.9,0.2
+E09000015,Harrow,2016/17,Girls,Chinese,6,68.5,1.27
+E09000015,Harrow,2016/17,Girls,Mixed,70,49.6,0.5
+E09000015,Harrow,2016/17,Girls,White,279,51.7,0.63
+E09000016,Havering,2016/17,All,All Pupils,"2,794",47.5,-0.04
+E09000016,Havering,2016/17,All,Asian,106,52.4,0.63
+E09000016,Havering,2016/17,All,Black,340,50.8,0.36
+E09000016,Havering,2016/17,All,Chinese,7,66.8,1.41
+E09000016,Havering,2016/17,All,Mixed,132,48.2,0.04
+E09000016,Havering,2016/17,All,White,"2,141",46.5,-0.15
+E09000016,Havering,2016/17,Boys,All Pupils,"1,435",45.6,-0.16
+E09000016,Havering,2016/17,Boys,Asian,42,49,0.43
+E09000016,Havering,2016/17,Boys,Black,172,48.2,0.18
+E09000016,Havering,2016/17,Boys,Chinese,x,x,x
+E09000016,Havering,2016/17,Boys,Mixed,x,x,x
+E09000016,Havering,2016/17,Boys,White,"1,104",44.9,-0.26
+E09000016,Havering,2016/17,Girls,All Pupils,"1,359",49.5,0.09
+E09000016,Havering,2016/17,Girls,Asian,64,54.7,0.76
+E09000016,Havering,2016/17,Girls,Black,168,53.5,0.54
+E09000016,Havering,2016/17,Girls,Chinese,x,x,x
+E09000016,Havering,2016/17,Girls,Mixed,x,x,x
+E09000016,Havering,2016/17,Girls,White,"1,037",48.3,-0.03
+E09000017,Hillingdon,2016/17,All,All Pupils,"3,075",47.1,0.14
+E09000017,Hillingdon,2016/17,All,Asian,659,53.1,0.76
+E09000017,Hillingdon,2016/17,All,Black,350,43.9,0.24
+E09000017,Hillingdon,2016/17,All,Chinese,4,35.4,0.09
+E09000017,Hillingdon,2016/17,All,Mixed,324,48.6,0.21
+E09000017,Hillingdon,2016/17,All,White,"1,482",44.4,-0.25
+E09000017,Hillingdon,2016/17,Boys,All Pupils,"1,631",44.2,-0.09
+E09000017,Hillingdon,2016/17,Boys,Asian,358,50.7,0.5
+E09000017,Hillingdon,2016/17,Boys,Black,187,40.7,0.02
+E09000017,Hillingdon,2016/17,Boys,Chinese,x,x,x
+E09000017,Hillingdon,2016/17,Boys,Mixed,x,x,x
+E09000017,Hillingdon,2016/17,Boys,White,773,41.1,-0.49
+E09000017,Hillingdon,2016/17,Girls,All Pupils,"1,444",50.4,0.4
+E09000017,Hillingdon,2016/17,Girls,Asian,301,56,1.07
+E09000017,Hillingdon,2016/17,Girls,Black,163,47.7,0.49
+E09000017,Hillingdon,2016/17,Girls,Chinese,x,x,x
+E09000017,Hillingdon,2016/17,Girls,Mixed,x,x,x
+E09000017,Hillingdon,2016/17,Girls,White,709,48,0.01
+E09000018,Hounslow,2016/17,All,All Pupils,"2,641",48,0.41
+E09000018,Hounslow,2016/17,All,Asian,746,54.2,0.91
+E09000018,Hounslow,2016/17,All,Black,353,46.4,0.36
+E09000018,Hounslow,2016/17,All,Chinese,7,71.3,0.9
+E09000018,Hounslow,2016/17,All,Mixed,184,48.3,0.09
+E09000018,Hounslow,2016/17,All,White,958,47.9,0.16
+E09000018,Hounslow,2016/17,Boys,All Pupils,"1,392",45.6,0.25
+E09000018,Hounslow,2016/17,Boys,Asian,396,51.3,0.72
+E09000018,Hounslow,2016/17,Boys,Black,182,44,0.22
+E09000018,Hounslow,2016/17,Boys,Chinese,4,69.8,x
+E09000018,Hounslow,2016/17,Boys,Mixed,101,45.2,x
+E09000018,Hounslow,2016/17,Boys,White,485,46.8,0.06
+E09000018,Hounslow,2016/17,Girls,All Pupils,"1,249",50.7,0.57
+E09000018,Hounslow,2016/17,Girls,Asian,350,57.6,1.12
+E09000018,Hounslow,2016/17,Girls,Black,171,48.9,0.5
+E09000018,Hounslow,2016/17,Girls,Chinese,3,73.3,x
+E09000018,Hounslow,2016/17,Girls,Mixed,83,52,x
+E09000018,Hounslow,2016/17,Girls,White,473,49,0.25
+E13000001,Inner London,2016/17,All,All Pupils,"24,971",48.2,0.21
+E13000001,Inner London,2016/17,All,Asian,"5,245",50.6,0.52
+E13000001,Inner London,2016/17,All,Black,"7,485",45,0.09
+E13000001,Inner London,2016/17,All,Chinese,166,61.8,0.96
+E13000001,Inner London,2016/17,All,Mixed,"2,427",47.5,0
+E13000001,Inner London,2016/17,All,White,"7,327",49.6,0.1
+E13000001,Inner London,2016/17,Boys,All Pupils,"12,483",45.6,0.01
+E13000001,Inner London,2016/17,Boys,Asian,"2,650",48.4,0.33
+E13000001,Inner London,2016/17,Boys,Black,"3,670",41.6,-0.13
+E13000001,Inner London,2016/17,Boys,Chinese,95,59.6,0.87
+E13000001,Inner London,2016/17,Boys,Mixed,"1,226",44.9,-0.19
+E13000001,Inner London,2016/17,Boys,White,"3,694",47.3,-0.1
+E13000001,Inner London,2016/17,Girls,All Pupils,"12,488",50.8,0.41
+E13000001,Inner London,2016/17,Girls,Asian,"2,595",52.9,0.7
+E13000001,Inner London,2016/17,Girls,Black,"3,815",48.3,0.3
+E13000001,Inner London,2016/17,Girls,Chinese,71,64.9,1.06
+E13000001,Inner London,2016/17,Girls,Mixed,"1,201",50.1,0.2
+E13000001,Inner London,2016/17,Girls,White,"3,633",52,0.31
+E09000019,Islington,2016/17,All,All Pupils,"1,377",45.6,0.13
+E09000019,Islington,2016/17,All,Asian,163,49.2,0.53
+E09000019,Islington,2016/17,All,Black,387,43.6,0.15
+E09000019,Islington,2016/17,All,Chinese,5,57.2,0.51
+E09000019,Islington,2016/17,All,Mixed,155,44.8,0.02
+E09000019,Islington,2016/17,All,White,525,44.7,-0.12
+E09000019,Islington,2016/17,Boys,All Pupils,715,43.8,-0.07
+E09000019,Islington,2016/17,Boys,Asian,75,47.4,0.37
+E09000019,Islington,2016/17,Boys,Black,194,40,-0.09
+E09000019,Islington,2016/17,Boys,Chinese,x,x,x
+E09000019,Islington,2016/17,Boys,Mixed,x,x,x
+E09000019,Islington,2016/17,Boys,White,281,43.6,-0.31
+E09000019,Islington,2016/17,Girls,All Pupils,662,47.5,0.35
+E09000019,Islington,2016/17,Girls,Asian,88,50.8,0.67
+E09000019,Islington,2016/17,Girls,Black,193,47.1,0.4
+E09000019,Islington,2016/17,Girls,Chinese,x,x,x
+E09000019,Islington,2016/17,Girls,Mixed,x,x,x
+E09000019,Islington,2016/17,Girls,White,244,46,0.11
+E09000020,Kensington and Chelsea,2016/17,All,All Pupils,739,55,0.45
+E09000020,Kensington and Chelsea,2016/17,All,Asian,18,55.4,0.4
+E09000020,Kensington and Chelsea,2016/17,All,Black,126,50.1,0.43
+E09000020,Kensington and Chelsea,2016/17,All,Chinese,5,68.3,0.6
+E09000020,Kensington and Chelsea,2016/17,All,Mixed,112,54.5,0.4
+E09000020,Kensington and Chelsea,2016/17,All,White,302,56.9,0.37
+E09000020,Kensington and Chelsea,2016/17,Boys,All Pupils,433,55.5,0.33
+E09000020,Kensington and Chelsea,2016/17,Boys,Asian,9,48.8,-0.28
+E09000020,Kensington and Chelsea,2016/17,Boys,Black,65,49.7,0.3
+E09000020,Kensington and Chelsea,2016/17,Boys,Chinese,x,x,x
+E09000020,Kensington and Chelsea,2016/17,Boys,Mixed,x,x,x
+E09000020,Kensington and Chelsea,2016/17,Boys,White,191,58.6,0.28
+E09000020,Kensington and Chelsea,2016/17,Girls,All Pupils,306,54.2,0.62
+E09000020,Kensington and Chelsea,2016/17,Girls,Asian,9,62,1.01
+E09000020,Kensington and Chelsea,2016/17,Girls,Black,61,50.6,0.59
+E09000020,Kensington and Chelsea,2016/17,Girls,Chinese,x,x,x
+E09000020,Kensington and Chelsea,2016/17,Girls,Mixed,x,x,x
+E09000020,Kensington and Chelsea,2016/17,Girls,White,111,53.9,0.52
+E09000021,Kingston upon Thames,2016/17,All,All Pupils,"1,517",55.5,0.41
+E09000021,Kingston upon Thames,2016/17,All,Asian,333,62,0.81
+E09000021,Kingston upon Thames,2016/17,All,Black,40,45.5,0.03
+E09000021,Kingston upon Thames,2016/17,All,Chinese,22,79.6,0.93
+E09000021,Kingston upon Thames,2016/17,All,Mixed,128,54.9,0.23
+E09000021,Kingston upon Thames,2016/17,All,White,915,53,0.29
+E09000021,Kingston upon Thames,2016/17,Boys,All Pupils,726,53.3,0.21
+E09000021,Kingston upon Thames,2016/17,Boys,Asian,156,59.2,0.58
+E09000021,Kingston upon Thames,2016/17,Boys,Black,20,44,-0.11
+E09000021,Kingston upon Thames,2016/17,Boys,Chinese,10,78.8,0.99
+E09000021,Kingston upon Thames,2016/17,Boys,Mixed,51,56.6,0
+E09000021,Kingston upon Thames,2016/17,Boys,White,448,50.9,0.09
+E09000021,Kingston upon Thames,2016/17,Girls,All Pupils,791,57.6,0.6
+E09000021,Kingston upon Thames,2016/17,Girls,Asian,177,64.4,1.02
+E09000021,Kingston upon Thames,2016/17,Girls,Black,20,47,0.17
+E09000021,Kingston upon Thames,2016/17,Girls,Chinese,12,80.4,0.86
+E09000021,Kingston upon Thames,2016/17,Girls,Mixed,77,53.7,0.41
+E09000021,Kingston upon Thames,2016/17,Girls,White,467,54.9,0.47
+E09000022,Lambeth,2016/17,All,All Pupils,"1,949",44.3,-0.12
+E09000022,Lambeth,2016/17,All,Asian,76,48.8,0.13
+E09000022,Lambeth,2016/17,All,Black,990,41.9,-0.2
+E09000022,Lambeth,2016/17,All,Chinese,23,62.4,1.31
+E09000022,Lambeth,2016/17,All,Mixed,244,43,-0.36
+E09000022,Lambeth,2016/17,All,White,504,47.6,0.01
+E09000022,Lambeth,2016/17,Boys,All Pupils,"1,016",40.9,-0.38
+E09000022,Lambeth,2016/17,Boys,Asian,49,45.4,0.02
+E09000022,Lambeth,2016/17,Boys,Black,469,37,-0.51
+E09000022,Lambeth,2016/17,Boys,Chinese,16,60.9,1.19
+E09000022,Lambeth,2016/17,Boys,Mixed,134,39.5,-0.59
+E09000022,Lambeth,2016/17,Boys,White,292,45.3,-0.22
+E09000022,Lambeth,2016/17,Girls,All Pupils,933,48,0.16
+E09000022,Lambeth,2016/17,Girls,Asian,27,55,0.3
+E09000022,Lambeth,2016/17,Girls,Black,521,46.3,0.09
+E09000022,Lambeth,2016/17,Girls,Chinese,7,65.9,1.57
+E09000022,Lambeth,2016/17,Girls,Mixed,110,47.3,-0.08
+E09000022,Lambeth,2016/17,Girls,White,212,50.8,0.33
+E09000023,Lewisham,2016/17,All,All Pupils,"2,247",44.2,-0.28
+E09000023,Lewisham,2016/17,All,Asian,132,44.2,0.06
+E09000023,Lewisham,2016/17,All,Black,952,42.3,-0.36
+E09000023,Lewisham,2016/17,All,Chinese,34,58.4,0.29
+E09000023,Lewisham,2016/17,All,Mixed,285,45.8,-0.25
+E09000023,Lewisham,2016/17,All,White,675,45.2,-0.32
+E09000023,Lewisham,2016/17,Boys,All Pupils,"1,165",41.5,-0.49
+E09000023,Lewisham,2016/17,Boys,Asian,68,41.4,-0.29
+E09000023,Lewisham,2016/17,Boys,Black,490,39.1,-0.54
+E09000023,Lewisham,2016/17,Boys,Chinese,22,56.5,0.09
+E09000023,Lewisham,2016/17,Boys,Mixed,155,43.9,-0.44
+E09000023,Lewisham,2016/17,Boys,White,364,42.1,-0.58
+E09000023,Lewisham,2016/17,Girls,All Pupils,"1,082",47.2,-0.05
+E09000023,Lewisham,2016/17,Girls,Asian,64,47.2,0.42
+E09000023,Lewisham,2016/17,Girls,Black,462,45.7,-0.16
+E09000023,Lewisham,2016/17,Girls,Chinese,12,61.8,0.64
+E09000023,Lewisham,2016/17,Girls,Mixed,130,48.1,-0.03
+E09000023,Lewisham,2016/17,Girls,White,311,48.8,0
+E12000007,London,2016/17,All,All Pupils,"75,518",48.9,0.22
+E12000007,London,2016/17,All,Asian,"15,312",53.5,0.65
+E12000007,London,2016/17,All,Black,"16,199",45.4,0.14
+E12000007,London,2016/17,All,Chinese,508,64.6,0.87
+E12000007,London,2016/17,All,Mixed,"6,787",48.8,0.09
+E12000007,London,2016/17,All,White,"30,787",48.4,0.04
+E12000007,London,2016/17,Boys,All Pupils,"38,243",46.3,0.02
+E12000007,London,2016/17,Boys,Asian,"7,837",51.4,0.48
+E12000007,London,2016/17,Boys,Black,"7,997",42,-0.09
+E12000007,London,2016/17,Boys,Chinese,274,62.9,0.78
+E12000007,London,2016/17,Boys,Mixed,"3,396",46.5,-0.12
+E12000007,London,2016/17,Boys,White,"15,642",45.9,-0.16
+E12000007,London,2016/17,Girls,All Pupils,"37,275",51.5,0.43
+E12000007,London,2016/17,Girls,Asian,"7,475",55.7,0.84
+E12000007,London,2016/17,Girls,Black,"8,202",48.7,0.36
+E12000007,London,2016/17,Girls,Chinese,234,66.6,0.97
+E12000007,London,2016/17,Girls,Mixed,"3,391",51.2,0.3
+E12000007,London,2016/17,Girls,White,"15,145",51,0.26
+E09000024,Merton,2016/17,All,All Pupils,"1,420",50.2,0.5
+E09000024,Merton,2016/17,All,Asian,230,52.7,0.95
+E09000024,Merton,2016/17,All,Black,280,46.8,0.5
+E09000024,Merton,2016/17,All,Chinese,7,56.6,1.46
+E09000024,Merton,2016/17,All,Mixed,177,51.7,0.45
+E09000024,Merton,2016/17,All,White,672,50.5,0.34
+E09000024,Merton,2016/17,Boys,All Pupils,725,47.5,0.3
+E09000024,Merton,2016/17,Boys,Asian,122,53.4,0.89
+E09000024,Merton,2016/17,Boys,Black,132,42.5,0.2
+E09000024,Merton,2016/17,Boys,Chinese,4,54.4,x
+E09000024,Merton,2016/17,Boys,Mixed,87,47.1,x
+E09000024,Merton,2016/17,Boys,White,347,47.7,0.15
+E09000024,Merton,2016/17,Girls,All Pupils,695,53,0.7
+E09000024,Merton,2016/17,Girls,Asian,108,51.8,1.01
+E09000024,Merton,2016/17,Girls,Black,148,50.7,0.77
+E09000024,Merton,2016/17,Girls,Chinese,3,59.5,x
+E09000024,Merton,2016/17,Girls,Mixed,90,56.2,x
+E09000024,Merton,2016/17,Girls,White,325,53.4,0.53
+E09000025,Newham,2016/17,All,All Pupils,"3,523",48.4,0.41
+E09000025,Newham,2016/17,All,Asian,"1,618",52.4,0.69
+E09000025,Newham,2016/17,All,Black,863,45.3,0.24
+E09000025,Newham,2016/17,All,Chinese,14,63.9,1.07
+E09000025,Newham,2016/17,All,Mixed,213,44.6,-0.11
+E09000025,Newham,2016/17,All,White,597,43.2,0.01
+E09000025,Newham,2016/17,Boys,All Pupils,"1,753",46.1,0.26
+E09000025,Newham,2016/17,Boys,Asian,806,50.7,0.55
+E09000025,Newham,2016/17,Boys,Black,436,42.6,0.09
+E09000025,Newham,2016/17,Boys,Chinese,11,63.9,1.21
+E09000025,Newham,2016/17,Boys,Mixed,108,41.5,-0.28
+E09000025,Newham,2016/17,Boys,White,293,39.8,-0.16
+E09000025,Newham,2016/17,Girls,All Pupils,"1,770",50.7,0.56
+E09000025,Newham,2016/17,Girls,Asian,812,54.2,0.84
+E09000025,Newham,2016/17,Girls,Black,427,48,0.4
+E09000025,Newham,2016/17,Girls,Chinese,3,63.7,0.65
+E09000025,Newham,2016/17,Girls,Mixed,105,47.8,0.07
+E09000025,Newham,2016/17,Girls,White,304,46.5,0.17
+E12000001,North East,2016/17,All,All Pupils,"25,177",44.6,-0.21
+E12000001,North East,2016/17,All,Asian,902,50.2,0.62
+E12000001,North East,2016/17,All,Black,162,42.1,0.32
+E12000001,North East,2016/17,All,Chinese,79,60.6,0.96
+E12000001,North East,2016/17,All,Mixed,381,48.3,0.1
+E12000001,North East,2016/17,All,White,"23,236",44.5,-0.24
+E12000001,North East,2016/17,Boys,All Pupils,"12,871",42.1,-0.4
+E12000001,North East,2016/17,Boys,Asian,432,47.9,0.48
+E12000001,North East,2016/17,Boys,Black,79,39.2,0.01
+E12000001,North East,2016/17,Boys,Chinese,42,57.9,0.82
+E12000001,North East,2016/17,Boys,Mixed,204,45.7,-0.07
+E12000001,North East,2016/17,Boys,White,"11,878",41.9,-0.43
+E12000001,North East,2016/17,Girls,All Pupils,"12,306",47.4,-0.01
+E12000001,North East,2016/17,Girls,Asian,470,52.2,0.75
+E12000001,North East,2016/17,Girls,Black,83,44.8,0.6
+E12000001,North East,2016/17,Girls,Chinese,37,63.7,1.13
+E12000001,North East,2016/17,Girls,Mixed,177,51.3,0.32
+E12000001,North East,2016/17,Girls,White,"11,358",47.2,-0.04
+E12000002,North West,2016/17,All,All Pupils,"72,289",45.6,-0.14
+E12000002,North West,2016/17,All,Asian,"6,696",48.4,0.4
+E12000002,North West,2016/17,All,Black,"1,610",43.3,0.16
+E12000002,North West,2016/17,All,Chinese,315,61.1,0.8
+E12000002,North West,2016/17,All,Mixed,"2,163",46.5,-0.09
+E12000002,North West,2016/17,All,White,"60,077",45.3,-0.21
+E12000002,North West,2016/17,Boys,All Pupils,"36,627",43,-0.35
+E12000002,North West,2016/17,Boys,Asian,"3,440",46,0.19
+E12000002,North West,2016/17,Boys,Black,826,40.1,-0.05
+E12000002,North West,2016/17,Boys,Chinese,168,58.4,0.65
+E12000002,North West,2016/17,Boys,Mixed,"1,041",44,-0.32
+E12000002,North West,2016/17,Boys,White,"30,426",42.7,-0.43
+E12000002,North West,2016/17,Girls,All Pupils,"35,662",48.3,0.07
+E12000002,North West,2016/17,Girls,Asian,"3,256",51,0.61
+E12000002,North West,2016/17,Girls,Black,784,46.7,0.37
+E12000002,North West,2016/17,Girls,Chinese,147,64.3,0.96
+E12000002,North West,2016/17,Girls,Mixed,"1,122",48.9,0.12
+E12000002,North West,2016/17,Girls,White,"29,651",48.1,0.01
+E13000002,Outer London,2016/17,All,All Pupils,"50,547",49.2,0.23
+E13000002,Outer London,2016/17,All,Asian,"10,067",55,0.73
+E13000002,Outer London,2016/17,All,Black,"8,714",45.8,0.18
+E13000002,Outer London,2016/17,All,Chinese,342,65.9,0.83
+E13000002,Outer London,2016/17,All,Mixed,"4,360",49.6,0.14
+E13000002,Outer London,2016/17,All,White,"23,460",48.1,0.03
+E13000002,Outer London,2016/17,Boys,All Pupils,"25,760",46.6,0.02
+E13000002,Outer London,2016/17,Boys,Asian,"5,187",52.9,0.55
+E13000002,Outer London,2016/17,Boys,Black,"4,327",42.4,-0.05
+E13000002,Outer London,2016/17,Boys,Chinese,179,64.7,0.73
+E13000002,Outer London,2016/17,Boys,Mixed,"2,170",47.4,-0.08
+E13000002,Outer London,2016/17,Boys,White,"11,948",45.4,-0.18
+E13000002,Outer London,2016/17,Girls,All Pupils,"24,787",51.9,0.44
+E13000002,Outer London,2016/17,Girls,Asian,"4,880",57.2,0.92
+E13000002,Outer London,2016/17,Girls,Black,"4,387",49.2,0.41
+E13000002,Outer London,2016/17,Girls,Chinese,163,67.4,0.93
+E13000002,Outer London,2016/17,Girls,Mixed,"2,190",51.8,0.36
+E13000002,Outer London,2016/17,Girls,White,"11,512",50.7,0.24
+E09000026,Redbridge,2016/17,All,All Pupils,"3,458",51.2,0.42
+E09000026,Redbridge,2016/17,All,Asian,"1,792",55.3,0.69
+E09000026,Redbridge,2016/17,All,Black,463,44.8,0.17
+E09000026,Redbridge,2016/17,All,Chinese,22,59.7,0.9
+E09000026,Redbridge,2016/17,All,Mixed,243,48.8,0.22
+E09000026,Redbridge,2016/17,All,White,856,46.9,0.07
+E09000026,Redbridge,2016/17,Boys,All Pupils,"1,817",48.2,0.17
+E09000026,Redbridge,2016/17,Boys,Asian,937,52.6,0.5
+E09000026,Redbridge,2016/17,Boys,Black,227,40.4,-0.19
+E09000026,Redbridge,2016/17,Boys,Chinese,15,58.6,0.51
+E09000026,Redbridge,2016/17,Boys,Mixed,134,46.3,-0.07
+E09000026,Redbridge,2016/17,Boys,White,459,44.1,-0.21
+E09000026,Redbridge,2016/17,Girls,All Pupils,"1,641",54.4,0.69
+E09000026,Redbridge,2016/17,Girls,Asian,855,58.2,0.89
+E09000026,Redbridge,2016/17,Girls,Black,236,49.1,0.51
+E09000026,Redbridge,2016/17,Girls,Chinese,7,62.2,1.75
+E09000026,Redbridge,2016/17,Girls,Mixed,109,51.9,0.57
+E09000026,Redbridge,2016/17,Girls,White,397,50,0.39
+E09000027,Richmond upon Thames,2016/17,All,All Pupils,"1,374",52.7,0.14
+E09000027,Richmond upon Thames,2016/17,All,Asian,90,51.8,0.47
+E09000027,Richmond upon Thames,2016/17,All,Black,61,39.2,-0.23
+E09000027,Richmond upon Thames,2016/17,All,Chinese,8,62.3,0.31
+E09000027,Richmond upon Thames,2016/17,All,Mixed,147,54,0.26
+E09000027,Richmond upon Thames,2016/17,All,White,"1,018",53.4,0.1
+E09000027,Richmond upon Thames,2016/17,Boys,All Pupils,698,49.3,-0.1
+E09000027,Richmond upon Thames,2016/17,Boys,Asian,47,48.8,0.3
+E09000027,Richmond upon Thames,2016/17,Boys,Black,34,36.7,-0.34
+E09000027,Richmond upon Thames,2016/17,Boys,Chinese,3,53,-0.01
+E09000027,Richmond upon Thames,2016/17,Boys,Mixed,78,50.5,-0.01
+E09000027,Richmond upon Thames,2016/17,Boys,White,505,50,-0.13
+E09000027,Richmond upon Thames,2016/17,Girls,All Pupils,676,56.2,0.39
+E09000027,Richmond upon Thames,2016/17,Girls,Asian,43,55.1,0.65
+E09000027,Richmond upon Thames,2016/17,Girls,Black,27,42.2,-0.1
+E09000027,Richmond upon Thames,2016/17,Girls,Chinese,5,67.9,0.55
+E09000027,Richmond upon Thames,2016/17,Girls,Mixed,69,57.9,0.55
+E09000027,Richmond upon Thames,2016/17,Girls,White,513,56.6,0.34
+E12000008,South East,2016/17,All,All Pupils,"83,903",47.4,-0.02
+E12000008,South East,2016/17,All,Asian,"5,463",53.3,0.58
+E12000008,South East,2016/17,All,Black,"2,087",46.9,0.29
+E12000008,South East,2016/17,All,Chinese,319,64.3,1.01
+E12000008,South East,2016/17,All,Mixed,"3,683",48.9,0.05
+E12000008,South East,2016/17,All,White,"70,850",46.9,-0.08
+E12000008,South East,2016/17,Boys,All Pupils,"43,111",44.8,-0.24
+E12000008,South East,2016/17,Boys,Asian,"2,799",50.5,0.37
+E12000008,South East,2016/17,Boys,Black,"1,070",43.5,0.09
+E12000008,South East,2016/17,Boys,Chinese,156,62.7,0.91
+E12000008,South East,2016/17,Boys,Mixed,"1,866",45.8,-0.16
+E12000008,South East,2016/17,Boys,White,"36,412",44.2,-0.3
+E12000008,South East,2016/17,Girls,All Pupils,"40,792",50.3,0.21
+E12000008,South East,2016/17,Girls,Asian,"2,664",56.3,0.81
+E12000008,South East,2016/17,Girls,Black,"1,017",50.5,0.49
+E12000008,South East,2016/17,Girls,Chinese,163,65.9,1.1
+E12000008,South East,2016/17,Girls,Mixed,"1,817",52.1,0.25
+E12000008,South East,2016/17,Girls,White,"34,438",49.6,0.15
+E12000009,South West,2016/17,All,All Pupils,"50,308",46.2,-0.13
+E12000009,South West,2016/17,All,Asian,"1,015",51,0.59
+E12000009,South West,2016/17,All,Black,622,41.1,0.12
+E12000009,South West,2016/17,All,Chinese,139,58.5,0.73
+E12000009,South West,2016/17,All,Mixed,"1,436",47.7,-0.05
+E12000009,South West,2016/17,All,White,"45,930",46.2,-0.14
+E12000009,South West,2016/17,Boys,All Pupils,"25,708",43.5,-0.34
+E12000009,South West,2016/17,Boys,Asian,526,48.6,0.46
+E12000009,South West,2016/17,Boys,Black,312,39.4,-0.04
+E12000009,South West,2016/17,Boys,Chinese,74,57.7,0.53
+E12000009,South West,2016/17,Boys,Mixed,707,44.8,-0.25
+E12000009,South West,2016/17,Boys,White,"23,476",43.4,-0.36
+E12000009,South West,2016/17,Girls,All Pupils,"24,600",49.1,0.1
+E12000009,South West,2016/17,Girls,Asian,489,53.5,0.72
+E12000009,South West,2016/17,Girls,Black,310,42.8,0.29
+E12000009,South West,2016/17,Girls,Chinese,65,59.4,0.97
+E12000009,South West,2016/17,Girls,Mixed,729,50.5,0.14
+E12000009,South West,2016/17,Girls,White,"22,454",49.1,0.08
+E09000028,Southwark,2016/17,All,All Pupils,"2,328",50.5,0.31
+E09000028,Southwark,2016/17,All,Asian,142,54.2,0.78
+E09000028,Southwark,2016/17,All,Black,"1,056",48.6,0.36
+E09000028,Southwark,2016/17,All,Chinese,22,57.3,0.69
+E09000028,Southwark,2016/17,All,Mixed,264,48.8,0.12
+E09000028,Southwark,2016/17,All,White,656,52.2,0.07
+E09000028,Southwark,2016/17,Boys,All Pupils,"1,109",49,0.24
+E09000028,Southwark,2016/17,Boys,Asian,68,52.6,0.78
+E09000028,Southwark,2016/17,Boys,Black,507,46.4,0.31
+E09000028,Southwark,2016/17,Boys,Chinese,12,55.2,0.67
+E09000028,Southwark,2016/17,Boys,Mixed,124,47.6,0.08
+E09000028,Southwark,2016/17,Boys,White,308,52.3,-0.04
+E09000028,Southwark,2016/17,Girls,All Pupils,"1,219",51.8,0.37
+E09000028,Southwark,2016/17,Girls,Asian,74,55.7,0.78
+E09000028,Southwark,2016/17,Girls,Black,549,50.7,0.4
+E09000028,Southwark,2016/17,Girls,Chinese,10,59.9,0.71
+E09000028,Southwark,2016/17,Girls,Mixed,140,49.8,0.15
+E09000028,Southwark,2016/17,Girls,White,348,52.2,0.16
+E09000029,Sutton,2016/17,All,All Pupils,"2,759",56.2,0.24
+E09000029,Sutton,2016/17,All,Asian,551,68.7,0.96
+E09000029,Sutton,2016/17,All,Black,226,53.5,0.45
+E09000029,Sutton,2016/17,All,Chinese,45,76.4,1.16
+E09000029,Sutton,2016/17,All,Mixed,228,58.7,0.31
+E09000029,Sutton,2016/17,All,White,"1,644",51.4,-0.05
+E09000029,Sutton,2016/17,Boys,All Pupils,"1,418",54.6,0.06
+E09000029,Sutton,2016/17,Boys,Asian,279,68.5,0.84
+E09000029,Sutton,2016/17,Boys,Black,119,47.6,0.16
+E09000029,Sutton,2016/17,Boys,Chinese,23,75.2,0.96
+E09000029,Sutton,2016/17,Boys,Mixed,115,57.5,0.03
+E09000029,Sutton,2016/17,Boys,White,837,49.9,-0.24
+E09000029,Sutton,2016/17,Girls,All Pupils,"1,341",57.8,0.43
+E09000029,Sutton,2016/17,Girls,Asian,272,68.9,1.08
+E09000029,Sutton,2016/17,Girls,Black,107,59.9,0.76
+E09000029,Sutton,2016/17,Girls,Chinese,22,77.7,1.39
+E09000029,Sutton,2016/17,Girls,Mixed,113,59.8,0.58
+E09000029,Sutton,2016/17,Girls,White,807,53,0.14
+E09000030,Tower Hamlets,2016/17,All,All Pupils,"2,623",47.2,0.25
+E09000030,Tower Hamlets,2016/17,All,Asian,"1,769",49.9,0.44
+E09000030,Tower Hamlets,2016/17,All,Black,306,46.7,0.28
+E09000030,Tower Hamlets,2016/17,All,Chinese,6,51,0.73
+E09000030,Tower Hamlets,2016/17,All,Mixed,113,44.5,-0.17
+E09000030,Tower Hamlets,2016/17,All,White,300,40.7,-0.51
+E09000030,Tower Hamlets,2016/17,Boys,All Pupils,"1,303",44.1,-0.04
+E09000030,Tower Hamlets,2016/17,Boys,Asian,877,46.6,0.14
+E09000030,Tower Hamlets,2016/17,Boys,Black,148,43.1,-0.15
+E09000030,Tower Hamlets,2016/17,Boys,Chinese,3,39.5,x
+E09000030,Tower Hamlets,2016/17,Boys,Mixed,55,39,x
+E09000030,Tower Hamlets,2016/17,Boys,White,153,38.9,-0.64
+E09000030,Tower Hamlets,2016/17,Girls,All Pupils,"1,320",50.3,0.54
+E09000030,Tower Hamlets,2016/17,Girls,Asian,892,53.2,0.73
+E09000030,Tower Hamlets,2016/17,Girls,Black,158,50.1,0.7
+E09000030,Tower Hamlets,2016/17,Girls,Chinese,3,62.5,x
+E09000030,Tower Hamlets,2016/17,Girls,Mixed,58,49.8,x
+E09000030,Tower Hamlets,2016/17,Girls,White,147,42.6,-0.37
+E09000031,Waltham Forest,2016/17,All,All Pupils,"2,486",45.5,0.14
+E09000031,Waltham Forest,2016/17,All,Asian,681,47.9,0.42
+E09000031,Waltham Forest,2016/17,All,Black,567,42,0
+E09000031,Waltham Forest,2016/17,All,Chinese,19,51.1,1.68
+E09000031,Waltham Forest,2016/17,All,Mixed,235,44.2,-0.15
+E09000031,Waltham Forest,2016/17,All,White,883,46,0.05
+E09000031,Waltham Forest,2016/17,Boys,All Pupils,"1,254",43,-0.09
+E09000031,Waltham Forest,2016/17,Boys,Asian,349,46.8,0.3
+E09000031,Waltham Forest,2016/17,Boys,Black,279,39.2,-0.21
+E09000031,Waltham Forest,2016/17,Boys,Chinese,11,40.7,0.56
+E09000031,Waltham Forest,2016/17,Boys,Mixed,131,42.6,-0.41
+E09000031,Waltham Forest,2016/17,Boys,White,440,42.6,-0.26
+E09000031,Waltham Forest,2016/17,Girls,All Pupils,"1,232",47.9,0.38
+E09000031,Waltham Forest,2016/17,Girls,Asian,332,49,0.54
+E09000031,Waltham Forest,2016/17,Girls,Black,288,44.7,0.21
+E09000031,Waltham Forest,2016/17,Girls,Chinese,8,65.3,2.62
+E09000031,Waltham Forest,2016/17,Girls,Mixed,104,46.2,0.18
+E09000031,Waltham Forest,2016/17,Girls,White,443,49.4,0.36
+E09000032,Wandsworth,2016/17,All,All Pupils,"1,695",49.5,0.21
+E09000032,Wandsworth,2016/17,All,Asian,353,49.4,0.48
+E09000032,Wandsworth,2016/17,All,Black,464,45,0.06
+E09000032,Wandsworth,2016/17,All,Chinese,12,65.7,1.45
+E09000032,Wandsworth,2016/17,All,Mixed,191,51.3,0.21
+E09000032,Wandsworth,2016/17,All,White,556,52.9,0.15
+E09000032,Wandsworth,2016/17,Boys,All Pupils,925,48.2,0.12
+E09000032,Wandsworth,2016/17,Boys,Asian,199,50.1,0.57
+E09000032,Wandsworth,2016/17,Boys,Black,245,42.5,-0.11
+E09000032,Wandsworth,2016/17,Boys,Chinese,5,75.1,1.66
+E09000032,Wandsworth,2016/17,Boys,Mixed,95,50.2,0.13
+E09000032,Wandsworth,2016/17,Boys,White,319,51.1,0.04
+E09000032,Wandsworth,2016/17,Girls,All Pupils,770,51.1,0.31
+E09000032,Wandsworth,2016/17,Girls,Asian,154,48.5,0.36
+E09000032,Wandsworth,2016/17,Girls,Black,219,47.9,0.26
+E09000032,Wandsworth,2016/17,Girls,Chinese,7,58.9,1.29
+E09000032,Wandsworth,2016/17,Girls,Mixed,96,52.4,0.3
+E09000032,Wandsworth,2016/17,Girls,White,237,55.4,0.3
+E12000005,West Midlands,2016/17,All,All Pupils,"58,919",45.4,-0.08
+E12000005,West Midlands,2016/17,All,Asian,"9,419",47.7,0.25
+E12000005,West Midlands,2016/17,All,Black,"2,796",43.4,0.04
+E12000005,West Midlands,2016/17,All,Chinese,161,62.4,1.05
+E12000005,West Midlands,2016/17,All,Mixed,"2,860",44.4,-0.2
+E12000005,West Midlands,2016/17,All,White,"42,292",45.1,-0.16
+E12000005,West Midlands,2016/17,Boys,All Pupils,"29,701",42.7,-0.29
+E12000005,West Midlands,2016/17,Boys,Asian,"4,767",45.2,0.05
+E12000005,West Midlands,2016/17,Boys,Black,"1,374",40.6,-0.18
+E12000005,West Midlands,2016/17,Boys,Chinese,78,60,1.06
+E12000005,West Midlands,2016/17,Boys,Mixed,"1,439",41.5,-0.39
+E12000005,West Midlands,2016/17,Boys,White,"21,324",42.4,-0.37
+E12000005,West Midlands,2016/17,Girls,All Pupils,"29,218",48.1,0.14
+E12000005,West Midlands,2016/17,Girls,Asian,"4,652",50.2,0.45
+E12000005,West Midlands,2016/17,Girls,Black,"1,422",46.2,0.25
+E12000005,West Midlands,2016/17,Girls,Chinese,83,64.6,1.05
+E12000005,West Midlands,2016/17,Girls,Mixed,"1,421",47.3,-0.01
+E12000005,West Midlands,2016/17,Girls,White,"20,968",47.8,0.06
+E09000033,Westminster,2016/17,All,All Pupils,"1,535",52.6,0.47
+E09000033,Westminster,2016/17,All,Asian,186,54.7,0.72
+E09000033,Westminster,2016/17,All,Black,351,49.6,0.25
+E09000033,Westminster,2016/17,All,Chinese,18,63.5,1.62
+E09000033,Westminster,2016/17,All,Mixed,158,53.4,0.42
+E09000033,Westminster,2016/17,All,White,385,56.2,0.39
+E09000033,Westminster,2016/17,Boys,All Pupils,727,47.7,0.16
+E09000033,Westminster,2016/17,Boys,Asian,110,53,0.59
+E09000033,Westminster,2016/17,Boys,Black,175,45.1,-0.11
+E09000033,Westminster,2016/17,Boys,Chinese,6,61.2,1.66
+E09000033,Westminster,2016/17,Boys,Mixed,71,46.9,0.08
+E09000033,Westminster,2016/17,Boys,White,141,46.3,-0.32
+E09000033,Westminster,2016/17,Girls,All Pupils,808,57,0.76
+E09000033,Westminster,2016/17,Girls,Asian,76,57.2,0.93
+E09000033,Westminster,2016/17,Girls,Black,176,54.1,0.61
+E09000033,Westminster,2016/17,Girls,Chinese,12,64.6,1.61
+E09000033,Westminster,2016/17,Girls,Mixed,87,58.8,0.67
+E09000033,Westminster,2016/17,Girls,White,244,62,0.81
+E12000003,Yorkshire and the Humber,2016/17,All,All Pupils,"53,173",45.4,0.03
+E12000003,Yorkshire and the Humber,2016/17,All,Asian,"6,264",45,0.31
+E12000003,Yorkshire and the Humber,2016/17,All,Black,"1,039",44.6,0.45
+E12000003,Yorkshire and the Humber,2016/17,All,Chinese,136,60.8,1.16
+E12000003,Yorkshire and the Humber,2016/17,All,Mixed,"1,655",43.8,-0.08
+E12000003,Yorkshire and the Humber,2016/17,All,White,"42,933",45.7,-0.02
+E12000003,Yorkshire and the Humber,2016/17,Boys,All Pupils,"27,006",43.1,-0.16
+E12000003,Yorkshire and the Humber,2016/17,Boys,Asian,"3,196",42.4,0.1
+E12000003,Yorkshire and the Humber,2016/17,Boys,Black,501,42.2,0.24
+E12000003,Yorkshire and the Humber,2016/17,Boys,Chinese,69,58.4,1.08
+E12000003,Yorkshire and the Humber,2016/17,Boys,Mixed,821,40.9,-0.32
+E12000003,Yorkshire and the Humber,2016/17,Boys,White,"21,799",43.4,-0.2
+E12000003,Yorkshire and the Humber,2016/17,Girls,All Pupils,"26,167",47.8,0.22
+E12000003,Yorkshire and the Humber,2016/17,Girls,Asian,"3,068",47.6,0.53
+E12000003,Yorkshire and the Humber,2016/17,Girls,Black,538,46.8,0.63
+E12000003,Yorkshire and the Humber,2016/17,Girls,Chinese,67,63.2,1.24
+E12000003,Yorkshire and the Humber,2016/17,Girls,Mixed,834,46.6,0.16
+E12000003,Yorkshire and the Humber,2016/17,Girls,White,"21,134",48.1,0.18
+E09000002,Barking and Dagenham,2015/16,All,All Pupils,"2,201",49.7,0.15
+E09000002,Barking and Dagenham,2015/16,All,Asian,398,55.4,0.54
+E09000002,Barking and Dagenham,2015/16,All,Black,551,51,0.36
+E09000002,Barking and Dagenham,2015/16,All,Chinese,6,54.8,0.18
+E09000002,Barking and Dagenham,2015/16,All,Mixed,141,46.8,-0.1
+E09000002,Barking and Dagenham,2015/16,All,White,"1,051",47.3,-0.06
+E09000002,Barking and Dagenham,2015/16,Boys,All Pupils,"1,110",47.6,-0.02
+E09000002,Barking and Dagenham,2015/16,Boys,Asian,209,53.5,0.39
+E09000002,Barking and Dagenham,2015/16,Boys,Black,266,48.1,0.16
+E09000002,Barking and Dagenham,2015/16,Boys,Chinese,x,x,x
+E09000002,Barking and Dagenham,2015/16,Boys,Mixed,67,45.1,-0.33
+E09000002,Barking and Dagenham,2015/16,Boys,White,533,45.4,-0.21
+E09000002,Barking and Dagenham,2015/16,Girls,All Pupils,"1,091",51.8,0.32
+E09000002,Barking and Dagenham,2015/16,Girls,Asian,189,57.5,0.7
+E09000002,Barking and Dagenham,2015/16,Girls,Black,285,53.6,0.57
+E09000002,Barking and Dagenham,2015/16,Girls,Chinese,x,x,x
+E09000002,Barking and Dagenham,2015/16,Girls,Mixed,74,48.4,0.12
+E09000002,Barking and Dagenham,2015/16,Girls,White,518,49.3,0.1
+E09000003,Barnet,2015/16,All,All Pupils,"3,647",56.1,0.33
+E09000003,Barnet,2015/16,All,Asian,512,63,0.58
+E09000003,Barnet,2015/16,All,Black,489,50.6,0.2
+E09000003,Barnet,2015/16,All,Chinese,46,68,0.66
+E09000003,Barnet,2015/16,All,Mixed,363,57.5,0.31
+E09000003,Barnet,2015/16,All,White,"1,835",55.4,0.27
+E09000003,Barnet,2015/16,Boys,All Pupils,"1,856",54.6,0.22
+E09000003,Barnet,2015/16,Boys,Asian,294,64.1,0.54
+E09000003,Barnet,2015/16,Boys,Black,242,48.4,0.04
+E09000003,Barnet,2015/16,Boys,Chinese,21,64.7,0.41
+E09000003,Barnet,2015/16,Boys,Mixed,170,55.4,0.11
+E09000003,Barnet,2015/16,Boys,White,923,53.3,0.15
+E09000003,Barnet,2015/16,Girls,All Pupils,"1,791",57.5,0.44
+E09000003,Barnet,2015/16,Girls,Asian,218,61.6,0.63
+E09000003,Barnet,2015/16,Girls,Black,247,52.7,0.37
+E09000003,Barnet,2015/16,Girls,Chinese,25,70.8,0.89
+E09000003,Barnet,2015/16,Girls,Mixed,193,59.4,0.49
+E09000003,Barnet,2015/16,Girls,White,912,57.5,0.39
+E09000004,Bexley,2015/16,All,All Pupils,"3,192",52.2,-0.04
+E09000004,Bexley,2015/16,All,Asian,207,59.9,0.31
+E09000004,Bexley,2015/16,All,Black,532,56.6,0.35
+E09000004,Bexley,2015/16,All,Chinese,40,63.4,0.38
+E09000004,Bexley,2015/16,All,Mixed,161,50.7,-0.12
+E09000004,Bexley,2015/16,All,White,"2,183",50.4,-0.17
+E09000004,Bexley,2015/16,Boys,All Pupils,"1,641",50,-0.16
+E09000004,Bexley,2015/16,Boys,Asian,108,56.8,0.13
+E09000004,Bexley,2015/16,Boys,Black,262,52.8,0.22
+E09000004,Bexley,2015/16,Boys,Chinese,22,62.5,0.22
+E09000004,Bexley,2015/16,Boys,Mixed,90,49.4,-0.22
+E09000004,Bexley,2015/16,Boys,White,"1,120",48.5,-0.28
+E09000004,Bexley,2015/16,Girls,All Pupils,"1,551",54.6,0.08
+E09000004,Bexley,2015/16,Girls,Asian,99,63.3,0.5
+E09000004,Bexley,2015/16,Girls,Black,270,60.2,0.49
+E09000004,Bexley,2015/16,Girls,Chinese,18,64.5,0.58
+E09000004,Bexley,2015/16,Girls,Mixed,71,52.3,0
+E09000004,Bexley,2015/16,Girls,White,"1,063",52.3,-0.06
+E09000005,Brent,2015/16,All,All Pupils,"3,035",51.5,0.31
+E09000005,Brent,2015/16,All,Asian,900,54.3,0.52
+E09000005,Brent,2015/16,All,Black,767,46,0.02
+E09000005,Brent,2015/16,All,Chinese,9,62.4,0.7
+E09000005,Brent,2015/16,All,Mixed,158,49.2,-0.11
+E09000005,Brent,2015/16,All,White,579,49.4,0.28
+E09000005,Brent,2015/16,Boys,All Pupils,"1,515",49.2,0.15
+E09000005,Brent,2015/16,Boys,Asian,456,52.9,0.44
+E09000005,Brent,2015/16,Boys,Black,361,42.8,-0.22
+E09000005,Brent,2015/16,Boys,Chinese,x,x,x
+E09000005,Brent,2015/16,Boys,Mixed,86,46.8,-0.22
+E09000005,Brent,2015/16,Boys,White,300,46.9,0.11
+E09000005,Brent,2015/16,Girls,All Pupils,"1,520",53.7,0.46
+E09000005,Brent,2015/16,Girls,Asian,444,55.7,0.6
+E09000005,Brent,2015/16,Girls,Black,406,48.9,0.23
+E09000005,Brent,2015/16,Girls,Chinese,x,x,x
+E09000005,Brent,2015/16,Girls,Mixed,72,52.1,0.01
+E09000005,Brent,2015/16,Girls,White,279,52.1,0.46
+E09000006,Bromley,2015/16,All,All Pupils,"3,305",53.7,0.1
+E09000006,Bromley,2015/16,All,Asian,167,65.6,0.65
+E09000006,Bromley,2015/16,All,Black,272,52.2,0.26
+E09000006,Bromley,2015/16,All,Chinese,36,65.7,0.47
+E09000006,Bromley,2015/16,All,Mixed,229,55.5,0.19
+E09000006,Bromley,2015/16,All,White,"2,419",54.2,0.12
+E09000006,Bromley,2015/16,Boys,All Pupils,"1,587",52.4,0.04
+E09000006,Bromley,2015/16,Boys,Asian,83,65.5,0.65
+E09000006,Bromley,2015/16,Boys,Black,116,51.2,0.39
+E09000006,Bromley,2015/16,Boys,Chinese,21,61.6,0.28
+E09000006,Bromley,2015/16,Boys,Mixed,105,55.2,0.08
+E09000006,Bromley,2015/16,Boys,White,"1,179",52.4,0.03
+E09000006,Bromley,2015/16,Girls,All Pupils,"1,718",54.9,0.15
+E09000006,Bromley,2015/16,Girls,Asian,84,65.7,0.66
+E09000006,Bromley,2015/16,Girls,Black,156,52.9,0.16
+E09000006,Bromley,2015/16,Girls,Chinese,15,71.3,0.74
+E09000006,Bromley,2015/16,Girls,Mixed,124,55.8,0.29
+E09000006,Bromley,2015/16,Girls,White,"1,240",56,0.21
+E09000007,Camden,2015/16,All,All Pupils,"1,422",50.6,0
+E09000007,Camden,2015/16,All,Asian,272,50.3,0.11
+E09000007,Camden,2015/16,All,Black,345,47.8,0.07
+E09000007,Camden,2015/16,All,Chinese,10,66.2,0.81
+E09000007,Camden,2015/16,All,Mixed,142,48.3,-0.31
+E09000007,Camden,2015/16,All,White,549,52.1,-0.1
+E09000007,Camden,2015/16,Boys,All Pupils,605,45.8,-0.3
+E09000007,Camden,2015/16,Boys,Asian,135,46.9,-0.12
+E09000007,Camden,2015/16,Boys,Black,132,43.7,-0.27
+E09000007,Camden,2015/16,Boys,Chinese,3,67.8,x
+E09000007,Camden,2015/16,Boys,Mixed,60,41.6,-0.55
+E09000007,Camden,2015/16,Boys,White,233,46.7,-0.45
+E09000007,Camden,2015/16,Girls,All Pupils,817,54.1,0.23
+E09000007,Camden,2015/16,Girls,Asian,137,53.6,0.34
+E09000007,Camden,2015/16,Girls,Black,213,50.4,0.28
+E09000007,Camden,2015/16,Girls,Chinese,7,65.5,x
+E09000007,Camden,2015/16,Girls,Mixed,82,53.1,-0.13
+E09000007,Camden,2015/16,Girls,White,316,56,0.14
+E09000001,City of London,2015/16,All,All Pupils,.,.,.
+E09000001,City of London,2015/16,All,Asian,.,.,.
+E09000001,City of London,2015/16,All,Black,.,.,.
+E09000001,City of London,2015/16,All,Chinese,.,.,.
+E09000001,City of London,2015/16,All,Mixed,.,.,.
+E09000001,City of London,2015/16,All,White,.,.,.
+E09000001,City of London,2015/16,Boys,All Pupils,.,.,.
+E09000001,City of London,2015/16,Boys,Asian,.,.,.
+E09000001,City of London,2015/16,Boys,Black,.,.,.
+E09000001,City of London,2015/16,Boys,Chinese,.,.,.
+E09000001,City of London,2015/16,Boys,Mixed,.,.,.
+E09000001,City of London,2015/16,Boys,White,.,.,.
+E09000001,City of London,2015/16,Girls,All Pupils,.,.,.
+E09000001,City of London,2015/16,Girls,Asian,.,.,.
+E09000001,City of London,2015/16,Girls,Black,.,.,.
+E09000001,City of London,2015/16,Girls,Chinese,.,.,.
+E09000001,City of London,2015/16,Girls,Mixed,.,.,.
+E09000001,City of London,2015/16,Girls,White,.,.,.
+E09000008,Croydon,2015/16,All,All Pupils,"3,844",48.5,0.08
+E09000008,Croydon,2015/16,All,Asian,453,54.8,0.47
+E09000008,Croydon,2015/16,All,Black,"1,124",48.4,0.1
+E09000008,Croydon,2015/16,All,Chinese,21,64.6,0.45
+E09000008,Croydon,2015/16,All,Mixed,424,48.7,-0.08
+E09000008,Croydon,2015/16,All,White,"1,534",50,0.01
+E09000008,Croydon,2015/16,Boys,All Pupils,"1,885",45.1,-0.07
+E09000008,Croydon,2015/16,Boys,Asian,242,53.7,0.45
+E09000008,Croydon,2015/16,Boys,Black,580,45.4,-0.06
+E09000008,Croydon,2015/16,Boys,Chinese,8,62.3,0.33
+E09000008,Croydon,2015/16,Boys,Mixed,178,45.6,-0.18
+E09000008,Croydon,2015/16,Boys,White,714,46,-0.23
+E09000008,Croydon,2015/16,Girls,All Pupils,"1,959",51.9,0.22
+E09000008,Croydon,2015/16,Girls,Asian,211,56.1,0.5
+E09000008,Croydon,2015/16,Girls,Black,544,51.6,0.28
+E09000008,Croydon,2015/16,Girls,Chinese,13,66.1,0.51
+E09000008,Croydon,2015/16,Girls,Mixed,246,50.9,0
+E09000008,Croydon,2015/16,Girls,White,820,53.5,0.21
+E09000009,Ealing,2015/16,All,All Pupils,"2,781",50.9,0.28
+E09000009,Ealing,2015/16,All,Asian,747,52.2,0.42
+E09000009,Ealing,2015/16,All,Black,574,46.7,0.17
+E09000009,Ealing,2015/16,All,Chinese,5,63.6,0.71
+E09000009,Ealing,2015/16,All,Mixed,195,52,0.11
+E09000009,Ealing,2015/16,All,White,826,51.9,0.17
+E09000009,Ealing,2015/16,Boys,All Pupils,"1,427",48.5,0.13
+E09000009,Ealing,2015/16,Boys,Asian,398,50.4,0.37
+E09000009,Ealing,2015/16,Boys,Black,260,43.5,-0.06
+E09000009,Ealing,2015/16,Boys,Chinese,0,.,.
+E09000009,Ealing,2015/16,Boys,Mixed,91,47.9,-0.14
+E09000009,Ealing,2015/16,Boys,White,446,49.6,-0.01
+E09000009,Ealing,2015/16,Girls,All Pupils,"1,354",53.5,0.44
+E09000009,Ealing,2015/16,Girls,Asian,349,54.4,0.47
+E09000009,Ealing,2015/16,Girls,Black,314,49.4,0.36
+E09000009,Ealing,2015/16,Girls,Chinese,5,63.6,0.71
+E09000009,Ealing,2015/16,Girls,Mixed,104,55.6,0.31
+E09000009,Ealing,2015/16,Girls,White,380,54.6,0.37
+E12000006,East,2015/16,All,All Pupils,"61,059",50.4,0.03
+E12000006,East,2015/16,All,Asian,"3,419",53.7,0.37
+E12000006,East,2015/16,All,Black,"1,766",51.9,0.35
+E12000006,East,2015/16,All,Chinese,229,62.3,0.69
+E12000006,East,2015/16,All,Mixed,"2,615",50.8,0.02
+E12000006,East,2015/16,All,White,"51,961",50,-0.01
+E12000006,East,2015/16,Boys,All Pupils,"31,170",48.2,-0.1
+E12000006,East,2015/16,Boys,Asian,"1,769",52.2,0.29
+E12000006,East,2015/16,Boys,Black,862,49.1,0.17
+E12000006,East,2015/16,Boys,Chinese,114,61.4,0.63
+E12000006,East,2015/16,Boys,Mixed,"1,306",48.3,-0.13
+E12000006,East,2015/16,Boys,White,"26,567",47.9,-0.14
+E12000006,East,2015/16,Girls,All Pupils,"29,889",52.6,0.16
+E12000006,East,2015/16,Girls,Asian,"1,650",55.2,0.46
+E12000006,East,2015/16,Girls,Black,904,54.6,0.51
+E12000006,East,2015/16,Girls,Chinese,115,63.2,0.76
+E12000006,East,2015/16,Girls,Mixed,"1,309",53.3,0.17
+E12000006,East,2015/16,Girls,White,"25,394",52.3,0.13
+E12000004,East Midlands,2015/16,All,All Pupils,"47,204",48.9,-0.14
+E12000004,East Midlands,2015/16,All,Asian,"3,717",52.1,0.25
+E12000004,East Midlands,2015/16,All,Black,"1,137",47.5,0.09
+E12000004,East Midlands,2015/16,All,Chinese,133,61.2,0.64
+E12000004,East Midlands,2015/16,All,Mixed,"1,739",48.4,-0.21
+E12000004,East Midlands,2015/16,All,White,"39,888",48.6,-0.18
+E12000004,East Midlands,2015/16,Boys,All Pupils,"24,169",46.5,-0.29
+E12000004,East Midlands,2015/16,Boys,Asian,"1,915",49.8,0.09
+E12000004,East Midlands,2015/16,Boys,Black,557,44.3,-0.05
+E12000004,East Midlands,2015/16,Boys,Chinese,73,57.9,0.56
+E12000004,East Midlands,2015/16,Boys,Mixed,882,45.9,-0.35
+E12000004,East Midlands,2015/16,Boys,White,"20,439",46.3,-0.33
+E12000004,East Midlands,2015/16,Girls,All Pupils,"23,035",51.3,0.01
+E12000004,East Midlands,2015/16,Girls,Asian,"1,802",54.5,0.42
+E12000004,East Midlands,2015/16,Girls,Black,580,50.5,0.23
+E12000004,East Midlands,2015/16,Girls,Chinese,60,65.2,0.73
+E12000004,East Midlands,2015/16,Girls,Mixed,857,51,-0.07
+E12000004,East Midlands,2015/16,Girls,White,"19,449",51,-0.03
+E09000010,Enfield,2015/16,All,All Pupils,"3,579",50.4,0.05
+E09000010,Enfield,2015/16,All,Asian,313,59.3,0.3
+E09000010,Enfield,2015/16,All,Black,879,48.3,0.1
+E09000010,Enfield,2015/16,All,Chinese,20,66.6,0.52
+E09000010,Enfield,2015/16,All,Mixed,324,50.9,-0.13
+E09000010,Enfield,2015/16,All,White,"1,754",49.9,0.02
+E09000010,Enfield,2015/16,Boys,All Pupils,"1,808",48.2,-0.12
+E09000010,Enfield,2015/16,Boys,Asian,162,57.7,0.11
+E09000010,Enfield,2015/16,Boys,Black,429,45.2,-0.11
+E09000010,Enfield,2015/16,Boys,Chinese,9,59.8,0.3
+E09000010,Enfield,2015/16,Boys,Mixed,184,47.6,-0.34
+E09000010,Enfield,2015/16,Boys,White,890,48.3,-0.13
+E09000010,Enfield,2015/16,Girls,All Pupils,"1,771",52.7,0.23
+E09000010,Enfield,2015/16,Girls,Asian,151,61.1,0.51
+E09000010,Enfield,2015/16,Girls,Black,450,51.2,0.31
+E09000010,Enfield,2015/16,Girls,Chinese,11,72.1,0.71
+E09000010,Enfield,2015/16,Girls,Mixed,140,55.3,0.13
+E09000010,Enfield,2015/16,Girls,White,864,51.5,0.18
+E92000001,England,2015/16,All,All Pupils,"537,808",50.1,-0.03
+E92000001,England,2015/16,All,Asian,"50,541",52.9,0.31
+E92000001,England,2015/16,All,Black,"27,589",48.9,0.17
+E92000001,England,2015/16,All,Chinese,"1,987",63,0.68
+E92000001,England,2015/16,All,Mixed,"22,753",50.6,-0.04
+E92000001,England,2015/16,All,White,"421,440",49.8,-0.09
+E92000001,England,2015/16,Boys,All Pupils,"273,890",47.8,-0.17
+E92000001,England,2015/16,Boys,Asian,"26,127",50.9,0.17
+E92000001,England,2015/16,Boys,Black,"13,718",45.9,-0.01
+E92000001,England,2015/16,Boys,Chinese,"1,002",60.9,0.56
+E92000001,England,2015/16,Boys,Mixed,"11,463",48.2,-0.19
+E92000001,England,2015/16,Boys,White,"214,610",47.6,-0.22
+E92000001,England,2015/16,Girls,All Pupils,"263,918",52.4,0.11
+E92000001,England,2015/16,Girls,Asian,"24,414",55,0.46
+E92000001,England,2015/16,Girls,Black,"13,871",51.9,0.35
+E92000001,England,2015/16,Girls,Chinese,985,65.1,0.8
+E92000001,England,2015/16,Girls,Mixed,"11,290",53.1,0.1
+E92000001,England,2015/16,Girls,White,"206,830",52,0.05
+E09000011,Greenwich,2015/16,All,All Pupils,"2,204",49.6,-0.01
+E09000011,Greenwich,2015/16,All,Asian,207,56.1,0.66
+E09000011,Greenwich,2015/16,All,Black,604,51.3,0.21
+E09000011,Greenwich,2015/16,All,Chinese,24,60.9,0.36
+E09000011,Greenwich,2015/16,All,Mixed,208,49.9,-0.11
+E09000011,Greenwich,2015/16,All,White,"1,071",47.2,-0.23
+E09000011,Greenwich,2015/16,Boys,All Pupils,"1,093",47.7,-0.1
+E09000011,Greenwich,2015/16,Boys,Asian,107,55.6,0.55
+E09000011,Greenwich,2015/16,Boys,Black,316,49.7,0.09
+E09000011,Greenwich,2015/16,Boys,Chinese,13,57.9,0.13
+E09000011,Greenwich,2015/16,Boys,Mixed,98,47.3,-0.22
+E09000011,Greenwich,2015/16,Boys,White,511,44.8,-0.33
+E09000011,Greenwich,2015/16,Girls,All Pupils,"1,111",51.5,0.08
+E09000011,Greenwich,2015/16,Girls,Asian,100,56.5,0.77
+E09000011,Greenwich,2015/16,Girls,Black,288,53.1,0.33
+E09000011,Greenwich,2015/16,Girls,Chinese,11,64.4,0.66
+E09000011,Greenwich,2015/16,Girls,Mixed,110,52.3,-0.02
+E09000011,Greenwich,2015/16,Girls,White,560,49.5,-0.13
+E09000012,Hackney,2015/16,All,All Pupils,"2,038",52.5,0.35
+E09000012,Hackney,2015/16,All,Asian,272,54.2,0.45
+E09000012,Hackney,2015/16,All,Black,719,49.7,0.25
+E09000012,Hackney,2015/16,All,Chinese,12,67.7,0.81
+E09000012,Hackney,2015/16,All,Mixed,193,52.6,0.27
+E09000012,Hackney,2015/16,All,White,687,54.6,0.39
+E09000012,Hackney,2015/16,Boys,All Pupils,916,49.5,0.23
+E09000012,Hackney,2015/16,Boys,Asian,124,53.7,0.37
+E09000012,Hackney,2015/16,Boys,Black,324,46.4,0.12
+E09000012,Hackney,2015/16,Boys,Chinese,7,63.6,0.51
+E09000012,Hackney,2015/16,Boys,Mixed,80,50.1,0.19
+E09000012,Hackney,2015/16,Boys,White,302,50.4,0.24
+E09000012,Hackney,2015/16,Girls,All Pupils,"1,122",54.9,0.45
+E09000012,Hackney,2015/16,Girls,Asian,148,54.5,0.52
+E09000012,Hackney,2015/16,Girls,Black,395,52.4,0.36
+E09000012,Hackney,2015/16,Girls,Chinese,5,73.4,1.25
+E09000012,Hackney,2015/16,Girls,Mixed,113,54.3,0.32
+E09000012,Hackney,2015/16,Girls,White,385,58,0.5
+E09000013,Hammersmith and Fulham,2015/16,All,All Pupils,"1,350",54.1,0.12
+E09000013,Hammersmith and Fulham,2015/16,All,Asian,116,54.9,0.23
+E09000013,Hammersmith and Fulham,2015/16,All,Black,333,48.3,0.01
+E09000013,Hammersmith and Fulham,2015/16,All,Chinese,6,66.2,0.76
+E09000013,Hammersmith and Fulham,2015/16,All,Mixed,133,52.8,-0.03
+E09000013,Hammersmith and Fulham,2015/16,All,White,624,57.4,0.15
+E09000013,Hammersmith and Fulham,2015/16,Boys,All Pupils,649,51.3,-0.02
+E09000013,Hammersmith and Fulham,2015/16,Boys,Asian,63,52.4,0.18
+E09000013,Hammersmith and Fulham,2015/16,Boys,Black,167,45.8,-0.11
+E09000013,Hammersmith and Fulham,2015/16,Boys,Chinese,x,x,.
+E09000013,Hammersmith and Fulham,2015/16,Boys,Mixed,71,47,-0.27
+E09000013,Hammersmith and Fulham,2015/16,Boys,White,286,56.3,0.05
+E09000013,Hammersmith and Fulham,2015/16,Girls,All Pupils,701,56.7,0.26
+E09000013,Hammersmith and Fulham,2015/16,Girls,Asian,53,57.8,0.31
+E09000013,Hammersmith and Fulham,2015/16,Girls,Black,166,50.7,0.12
+E09000013,Hammersmith and Fulham,2015/16,Girls,Chinese,x,x,0.76
+E09000013,Hammersmith and Fulham,2015/16,Girls,Mixed,62,59.4,0.26
+E09000013,Hammersmith and Fulham,2015/16,Girls,White,338,58.4,0.24
+E09000014,Haringey,2015/16,All,All Pupils,"2,231",50.1,0.28
+E09000014,Haringey,2015/16,All,Asian,127,52.2,0.39
+E09000014,Haringey,2015/16,All,Black,639,45.6,0.13
+E09000014,Haringey,2015/16,All,Chinese,12,54.5,0.82
+E09000014,Haringey,2015/16,All,Mixed,253,52.2,0.18
+E09000014,Haringey,2015/16,All,White,"1,005",51.8,0.35
+E09000014,Haringey,2015/16,Boys,All Pupils,"1,112",47.5,0.18
+E09000014,Haringey,2015/16,Boys,Asian,59,50.2,0.37
+E09000014,Haringey,2015/16,Boys,Black,323,42.3,-0.07
+E09000014,Haringey,2015/16,Boys,Chinese,7,50,x
+E09000014,Haringey,2015/16,Boys,Mixed,125,49.3,0.09
+E09000014,Haringey,2015/16,Boys,White,510,49.7,0.3
+E09000014,Haringey,2015/16,Girls,All Pupils,"1,119",52.6,0.37
+E09000014,Haringey,2015/16,Girls,Asian,68,54,0.41
+E09000014,Haringey,2015/16,Girls,Black,316,48.9,0.33
+E09000014,Haringey,2015/16,Girls,Chinese,5,60.7,x
+E09000014,Haringey,2015/16,Girls,Mixed,128,55.1,0.26
+E09000014,Haringey,2015/16,Girls,White,495,54,0.4
+E09000015,Harrow,2015/16,All,All Pupils,"2,127",53.1,0.32
+E09000015,Harrow,2015/16,All,Asian,900,55.6,0.46
+E09000015,Harrow,2015/16,All,Black,344,49.4,0.24
+E09000015,Harrow,2015/16,All,Chinese,11,63,0.28
+E09000015,Harrow,2015/16,All,Mixed,163,51.8,0.1
+E09000015,Harrow,2015/16,All,White,610,52.3,0.19
+E09000015,Harrow,2015/16,Boys,All Pupils,"1,063",50.7,0.11
+E09000015,Harrow,2015/16,Boys,Asian,476,53.7,0.28
+E09000015,Harrow,2015/16,Boys,Black,167,46.5,0.03
+E09000015,Harrow,2015/16,Boys,Chinese,5,47.4,-0.85
+E09000015,Harrow,2015/16,Boys,Mixed,72,47.9,-0.14
+E09000015,Harrow,2015/16,Boys,White,303,49.5,-0.03
+E09000015,Harrow,2015/16,Girls,All Pupils,"1,064",55.6,0.52
+E09000015,Harrow,2015/16,Girls,Asian,424,57.8,0.67
+E09000015,Harrow,2015/16,Girls,Black,177,52.2,0.42
+E09000015,Harrow,2015/16,Girls,Chinese,6,76,1.19
+E09000015,Harrow,2015/16,Girls,Mixed,91,54.9,0.3
+E09000015,Harrow,2015/16,Girls,White,307,55,0.4
+E09000016,Havering,2015/16,All,All Pupils,"2,917",50,-0.14
+E09000016,Havering,2015/16,All,Asian,117,55.2,0.4
+E09000016,Havering,2015/16,All,Black,362,51.2,0.13
+E09000016,Havering,2015/16,All,Chinese,11,61.5,0.29
+E09000016,Havering,2015/16,All,Mixed,127,50.6,-0.14
+E09000016,Havering,2015/16,All,White,"2,237",49.5,-0.21
+E09000016,Havering,2015/16,Boys,All Pupils,"1,481",48.3,-0.28
+E09000016,Havering,2015/16,Boys,Asian,56,53.2,0.26
+E09000016,Havering,2015/16,Boys,Black,184,47.5,-0.19
+E09000016,Havering,2015/16,Boys,Chinese,7,60.1,0.18
+E09000016,Havering,2015/16,Boys,Mixed,67,48.9,-0.23
+E09000016,Havering,2015/16,Boys,White,"1,135",48,-0.32
+E09000016,Havering,2015/16,Girls,All Pupils,"1,436",51.8,0
+E09000016,Havering,2015/16,Girls,Asian,61,57,0.52
+E09000016,Havering,2015/16,Girls,Black,178,54.9,0.46
+E09000016,Havering,2015/16,Girls,Chinese,4,63.8,0.56
+E09000016,Havering,2015/16,Girls,Mixed,60,52.6,-0.05
+E09000016,Havering,2015/16,Girls,White,"1,102",50.9,-0.1
+E09000017,Hillingdon,2015/16,All,All Pupils,"3,136",51.2,0.06
+E09000017,Hillingdon,2015/16,All,Asian,751,55.9,0.43
+E09000017,Hillingdon,2015/16,All,Black,327,48.2,0.17
+E09000017,Hillingdon,2015/16,All,Chinese,12,61.8,0.73
+E09000017,Hillingdon,2015/16,All,Mixed,299,52.2,0.1
+E09000017,Hillingdon,2015/16,All,White,"1,479",48.4,-0.23
+E09000017,Hillingdon,2015/16,Boys,All Pupils,"1,637",49.4,-0.05
+E09000017,Hillingdon,2015/16,Boys,Asian,399,54,0.28
+E09000017,Hillingdon,2015/16,Boys,Black,173,45.5,-0.05
+E09000017,Hillingdon,2015/16,Boys,Chinese,6,57.3,1.17
+E09000017,Hillingdon,2015/16,Boys,Mixed,154,49.2,0.02
+E09000017,Hillingdon,2015/16,Boys,White,770,47.1,-0.3
+E09000017,Hillingdon,2015/16,Girls,All Pupils,"1,499",53.2,0.19
+E09000017,Hillingdon,2015/16,Girls,Asian,352,58.2,0.6
+E09000017,Hillingdon,2015/16,Girls,Black,154,51.4,0.44
+E09000017,Hillingdon,2015/16,Girls,Chinese,6,66.3,0.47
+E09000017,Hillingdon,2015/16,Girls,Mixed,145,55.3,0.18
+E09000017,Hillingdon,2015/16,Girls,White,709,49.7,-0.15
+E09000018,Hounslow,2015/16,All,All Pupils,"2,667",51.1,0.29
+E09000018,Hounslow,2015/16,All,Asian,696,56.6,0.62
+E09000018,Hounslow,2015/16,All,Black,344,49.8,0.3
+E09000018,Hounslow,2015/16,All,Chinese,5,51.8,0.91
+E09000018,Hounslow,2015/16,All,Mixed,224,55.9,0.31
+E09000018,Hounslow,2015/16,All,White,951,52.6,0.18
+E09000018,Hounslow,2015/16,Boys,All Pupils,"1,354",48.8,0.15
+E09000018,Hounslow,2015/16,Boys,Asian,361,54.7,0.53
+E09000018,Hounslow,2015/16,Boys,Black,192,47.7,0.08
+E09000018,Hounslow,2015/16,Boys,Chinese,x,x,x
+E09000018,Hounslow,2015/16,Boys,Mixed,101,54.9,0.2
+E09000018,Hounslow,2015/16,Boys,White,448,50.8,0.11
+E09000018,Hounslow,2015/16,Girls,All Pupils,"1,313",53.6,0.43
+E09000018,Hounslow,2015/16,Girls,Asian,335,58.5,0.72
+E09000018,Hounslow,2015/16,Girls,Black,152,52.5,0.58
+E09000018,Hounslow,2015/16,Girls,Chinese,x,x,x
+E09000018,Hounslow,2015/16,Girls,Mixed,123,56.7,0.4
+E09000018,Hounslow,2015/16,Girls,White,503,54.2,0.25
+E13000001,Inner London,2015/16,All,All Pupils,"25,070",51.3,0.17
+E13000001,Inner London,2015/16,All,Asian,"5,133",53.5,0.37
+E13000001,Inner London,2015/16,All,Black,"7,702",48.7,0.11
+E13000001,Inner London,2015/16,All,Chinese,184,63.4,0.69
+E13000001,Inner London,2015/16,All,Mixed,"2,407",51,-0.02
+E13000001,Inner London,2015/16,All,White,"7,494",52.1,0.1
+E13000001,Inner London,2015/16,Boys,All Pupils,"12,529",48.9,0.03
+E13000001,Inner London,2015/16,Boys,Asian,"2,558",51.9,0.26
+E13000001,Inner London,2015/16,Boys,Black,"3,844",45.7,-0.06
+E13000001,Inner London,2015/16,Boys,Chinese,90,62.2,0.65
+E13000001,Inner London,2015/16,Boys,Mixed,"1,236",48.4,-0.15
+E13000001,Inner London,2015/16,Boys,White,"3,722",49.8,-0.04
+E13000001,Inner London,2015/16,Girls,All Pupils,"12,541",53.6,0.31
+E13000001,Inner London,2015/16,Girls,Asian,"2,575",55,0.47
+E13000001,Inner London,2015/16,Girls,Black,"3,858",51.7,0.28
+E13000001,Inner London,2015/16,Girls,Chinese,94,64.6,0.72
+E13000001,Inner London,2015/16,Girls,Mixed,"1,171",53.8,0.12
+E13000001,Inner London,2015/16,Girls,White,"3,772",54.4,0.23
+E09000019,Islington,2015/16,All,All Pupils,"1,397",50.6,0.19
+E09000019,Islington,2015/16,All,Asian,170,54.6,0.51
+E09000019,Islington,2015/16,All,Black,423,49.4,0.22
+E09000019,Islington,2015/16,All,Chinese,x,x,x
+E09000019,Islington,2015/16,All,Mixed,158,49.2,0.04
+E09000019,Islington,2015/16,All,White,506,49.9,0.03
+E09000019,Islington,2015/16,Boys,All Pupils,761,49.7,0.12
+E09000019,Islington,2015/16,Boys,Asian,84,53.8,0.44
+E09000019,Islington,2015/16,Boys,Black,228,48.6,0.19
+E09000019,Islington,2015/16,Boys,Chinese,x,x,x
+E09000019,Islington,2015/16,Boys,Mixed,93,48.7,-0.03
+E09000019,Islington,2015/16,Boys,White,276,48.4,-0.06
+E09000019,Islington,2015/16,Girls,All Pupils,636,51.7,0.28
+E09000019,Islington,2015/16,Girls,Asian,86,55.3,0.58
+E09000019,Islington,2015/16,Girls,Black,195,50.4,0.25
+E09000019,Islington,2015/16,Girls,Chinese,x,x,.
+E09000019,Islington,2015/16,Girls,Mixed,65,50,0.16
+E09000019,Islington,2015/16,Girls,White,230,51.6,0.15
+E09000020,Kensington and Chelsea,2015/16,All,All Pupils,740,56.6,0.34
+E09000020,Kensington and Chelsea,2015/16,All,Asian,26,58.9,0.49
+E09000020,Kensington and Chelsea,2015/16,All,Black,148,52.4,0.32
+E09000020,Kensington and Chelsea,2015/16,All,Chinese,x,x,x
+E09000020,Kensington and Chelsea,2015/16,All,Mixed,113,56.3,0.26
+E09000020,Kensington and Chelsea,2015/16,All,White,297,58.1,0.31
+E09000020,Kensington and Chelsea,2015/16,Boys,All Pupils,430,56.1,0.29
+E09000020,Kensington and Chelsea,2015/16,Boys,Asian,9,58.4,0.53
+E09000020,Kensington and Chelsea,2015/16,Boys,Black,88,50.4,0.19
+E09000020,Kensington and Chelsea,2015/16,Boys,Chinese,0,.,.
+E09000020,Kensington and Chelsea,2015/16,Boys,Mixed,62,55.5,0.25
+E09000020,Kensington and Chelsea,2015/16,Boys,White,189,58.1,0.23
+E09000020,Kensington and Chelsea,2015/16,Girls,All Pupils,310,57.1,0.41
+E09000020,Kensington and Chelsea,2015/16,Girls,Asian,17,59.2,0.47
+E09000020,Kensington and Chelsea,2015/16,Girls,Black,60,55.4,0.5
+E09000020,Kensington and Chelsea,2015/16,Girls,Chinese,x,x,x
+E09000020,Kensington and Chelsea,2015/16,Girls,Mixed,51,57.3,0.28
+E09000020,Kensington and Chelsea,2015/16,Girls,White,108,58.2,0.46
+E09000021,Kingston upon Thames,2015/16,All,All Pupils,"1,515",58.2,0.34
+E09000021,Kingston upon Thames,2015/16,All,Asian,343,63.1,0.58
+E09000021,Kingston upon Thames,2015/16,All,Black,73,52,0.23
+E09000021,Kingston upon Thames,2015/16,All,Chinese,23,70.8,0.62
+E09000021,Kingston upon Thames,2015/16,All,Mixed,115,61.1,0.37
+E09000021,Kingston upon Thames,2015/16,All,White,871,55.8,0.23
+E09000021,Kingston upon Thames,2015/16,Boys,All Pupils,703,56.5,0.26
+E09000021,Kingston upon Thames,2015/16,Boys,Asian,175,62.2,0.54
+E09000021,Kingston upon Thames,2015/16,Boys,Black,43,47.8,0
+E09000021,Kingston upon Thames,2015/16,Boys,Chinese,11,72.8,0.82
+E09000021,Kingston upon Thames,2015/16,Boys,Mixed,41,58.3,0.24
+E09000021,Kingston upon Thames,2015/16,Boys,White,396,54.1,0.15
+E09000021,Kingston upon Thames,2015/16,Girls,All Pupils,812,59.7,0.41
+E09000021,Kingston upon Thames,2015/16,Girls,Asian,168,64.1,0.62
+E09000021,Kingston upon Thames,2015/16,Girls,Black,30,58,0.53
+E09000021,Kingston upon Thames,2015/16,Girls,Chinese,12,68.9,0.49
+E09000021,Kingston upon Thames,2015/16,Girls,Mixed,74,62.6,0.45
+E09000021,Kingston upon Thames,2015/16,Girls,White,475,57.2,0.3
+E09000022,Lambeth,2015/16,All,All Pupils,"1,887",49.7,0.06
+E09000022,Lambeth,2015/16,All,Asian,79,54.5,0.32
+E09000022,Lambeth,2015/16,All,Black,945,47.9,-0.02
+E09000022,Lambeth,2015/16,All,Chinese,15,63.6,0.25
+E09000022,Lambeth,2015/16,All,Mixed,228,48.6,-0.05
+E09000022,Lambeth,2015/16,All,White,491,52.5,0.2
+E09000022,Lambeth,2015/16,Boys,All Pupils,970,47.2,-0.09
+E09000022,Lambeth,2015/16,Boys,Asian,45,52.1,0.27
+E09000022,Lambeth,2015/16,Boys,Black,459,43.9,-0.2
+E09000022,Lambeth,2015/16,Boys,Chinese,8,63.3,0.09
+E09000022,Lambeth,2015/16,Boys,Mixed,129,47,-0.14
+E09000022,Lambeth,2015/16,Boys,White,263,51.6,0.05
+E09000022,Lambeth,2015/16,Girls,All Pupils,917,52.3,0.22
+E09000022,Lambeth,2015/16,Girls,Asian,34,57.7,0.38
+E09000022,Lambeth,2015/16,Girls,Black,486,51.6,0.16
+E09000022,Lambeth,2015/16,Girls,Chinese,7,63.9,0.4
+E09000022,Lambeth,2015/16,Girls,Mixed,99,50.6,0.08
+E09000022,Lambeth,2015/16,Girls,White,228,53.6,0.39
+E09000023,Lewisham,2015/16,All,All Pupils,"2,334",47.5,-0.14
+E09000023,Lewisham,2015/16,All,Asian,129,52.6,0.41
+E09000023,Lewisham,2015/16,All,Black,"1,041",45.6,-0.19
+E09000023,Lewisham,2015/16,All,Chinese,37,60.8,0.7
+E09000023,Lewisham,2015/16,All,Mixed,286,49.9,-0.21
+E09000023,Lewisham,2015/16,All,White,698,47.2,-0.21
+E09000023,Lewisham,2015/16,Boys,All Pupils,"1,236",44.2,-0.35
+E09000023,Lewisham,2015/16,Boys,Asian,68,49.4,0.23
+E09000023,Lewisham,2015/16,Boys,Black,551,41.9,-0.46
+E09000023,Lewisham,2015/16,Boys,Chinese,14,64.4,0.75
+E09000023,Lewisham,2015/16,Boys,Mixed,150,47.6,-0.32
+E09000023,Lewisham,2015/16,Boys,White,384,44.7,-0.34
+E09000023,Lewisham,2015/16,Girls,All Pupils,"1,098",51.2,0.1
+E09000023,Lewisham,2015/16,Girls,Asian,61,56.2,0.6
+E09000023,Lewisham,2015/16,Girls,Black,490,49.8,0.13
+E09000023,Lewisham,2015/16,Girls,Chinese,23,58.6,0.68
+E09000023,Lewisham,2015/16,Girls,Mixed,136,52.4,-0.09
+E09000023,Lewisham,2015/16,Girls,White,314,50.1,-0.04
+E12000007,London,2015/16,All,All Pupils,"76,596",51.9,0.16
+E12000007,London,2015/16,All,Asian,"14,944",55.8,0.45
+E12000007,London,2015/16,All,Black,"16,595",49.2,0.14
+E12000007,London,2015/16,All,Chinese,554,64.4,0.61
+E12000007,London,2015/16,All,Mixed,"6,486",52,0.03
+E12000007,London,2015/16,All,White,"32,148",51.7,0.04
+E12000007,London,2015/16,Boys,All Pupils,"38,434",49.7,0.02
+E12000007,London,2015/16,Boys,Asian,"7,707",54.2,0.33
+E12000007,London,2015/16,Boys,Black,"8,209",46.2,-0.04
+E12000007,London,2015/16,Boys,Chinese,273,62.5,0.49
+E12000007,London,2015/16,Boys,Mixed,"3,206",49.4,-0.13
+E12000007,London,2015/16,Boys,White,"16,044",49.6,-0.09
+E12000007,London,2015/16,Girls,All Pupils,"38,162",54.1,0.3
+E12000007,London,2015/16,Girls,Asian,"7,237",57.4,0.57
+E12000007,London,2015/16,Girls,Black,"8,386",52.1,0.33
+E12000007,London,2015/16,Girls,Chinese,281,66.1,0.73
+E12000007,London,2015/16,Girls,Mixed,"3,280",54.5,0.18
+E12000007,London,2015/16,Girls,White,"16,104",53.8,0.17
+E09000024,Merton,2015/16,All,All Pupils,"1,440",52.4,0.27
+E09000024,Merton,2015/16,All,Asian,222,54.7,0.54
+E09000024,Merton,2015/16,All,Black,299,50,0.24
+E09000024,Merton,2015/16,All,Chinese,6,64.3,1.45
+E09000024,Merton,2015/16,All,Mixed,155,53.7,0.23
+E09000024,Merton,2015/16,All,White,734,52.2,0.21
+E09000024,Merton,2015/16,Boys,All Pupils,731,50.3,0.1
+E09000024,Merton,2015/16,Boys,Asian,118,54.1,0.48
+E09000024,Merton,2015/16,Boys,Black,149,46,-0.05
+E09000024,Merton,2015/16,Boys,Chinese,x,x,x
+E09000024,Merton,2015/16,Boys,Mixed,73,52.1,0.22
+E09000024,Merton,2015/16,Boys,White,372,50,0.01
+E09000024,Merton,2015/16,Girls,All Pupils,709,54.6,0.45
+E09000024,Merton,2015/16,Girls,Asian,104,55.3,0.61
+E09000024,Merton,2015/16,Girls,Black,150,53.9,0.52
+E09000024,Merton,2015/16,Girls,Chinese,x,x,x
+E09000024,Merton,2015/16,Girls,Mixed,82,55.1,0.24
+E09000024,Merton,2015/16,Girls,White,362,54.5,0.41
+E09000025,Newham,2015/16,All,All Pupils,"3,489",50.9,0.23
+E09000025,Newham,2015/16,All,Asian,"1,601",54.2,0.4
+E09000025,Newham,2015/16,All,Black,917,49.3,0.16
+E09000025,Newham,2015/16,All,Chinese,11,59.6,0.59
+E09000025,Newham,2015/16,All,Mixed,199,48.3,-0.18
+E09000025,Newham,2015/16,All,White,582,45.7,-0.07
+E09000025,Newham,2015/16,Boys,All Pupils,"1,780",48.9,0.1
+E09000025,Newham,2015/16,Boys,Asian,784,52.3,0.28
+E09000025,Newham,2015/16,Boys,Black,479,46.6,0.04
+E09000025,Newham,2015/16,Boys,Chinese,6,56,0.54
+E09000025,Newham,2015/16,Boys,Mixed,103,46.3,-0.42
+E09000025,Newham,2015/16,Boys,White,298,44.2,-0.17
+E09000025,Newham,2015/16,Girls,All Pupils,"1,709",53.1,0.37
+E09000025,Newham,2015/16,Girls,Asian,817,56,0.52
+E09000025,Newham,2015/16,Girls,Black,438,52.1,0.3
+E09000025,Newham,2015/16,Girls,Chinese,5,64,0.65
+E09000025,Newham,2015/16,Girls,Mixed,96,50.5,0.07
+E09000025,Newham,2015/16,Girls,White,284,47.3,0.06
+E12000001,North East,2015/16,All,All Pupils,"26,076",48.7,-0.16
+E12000001,North East,2015/16,All,Asian,878,53.1,0.53
+E12000001,North East,2015/16,All,Black,176,51,0.56
+E12000001,North East,2015/16,All,Chinese,46,61.2,0.85
+E12000001,North East,2015/16,All,Mixed,363,52.3,0.13
+E12000001,North East,2015/16,All,White,"24,295",48.6,-0.19
+E12000001,North East,2015/16,Boys,All Pupils,"13,281",46.8,-0.26
+E12000001,North East,2015/16,Boys,Asian,426,51.3,0.4
+E12000001,North East,2015/16,Boys,Black,88,48.6,0.12
+E12000001,North East,2015/16,Boys,Chinese,23,58,0.73
+E12000001,North East,2015/16,Boys,Mixed,175,50.4,-0.06
+E12000001,North East,2015/16,Boys,White,"12,385",46.6,-0.29
+E12000001,North East,2015/16,Girls,All Pupils,"12,795",50.8,-0.05
+E12000001,North East,2015/16,Girls,Asian,452,54.8,0.66
+E12000001,North East,2015/16,Girls,Black,88,53.4,0.94
+E12000001,North East,2015/16,Girls,Chinese,23,64.4,0.97
+E12000001,North East,2015/16,Girls,Mixed,188,54.1,0.3
+E12000001,North East,2015/16,Girls,White,"11,910",50.7,-0.08
+E12000002,North West,2015/16,All,All Pupils,"74,057",49.4,-0.15
+E12000002,North West,2015/16,All,Asian,"6,339",51.2,0.3
+E12000002,North West,2015/16,All,Black,"1,524",48.6,0.23
+E12000002,North West,2015/16,All,Chinese,297,61.9,0.62
+E12000002,North West,2015/16,All,Mixed,"2,171",49.5,-0.14
+E12000002,North West,2015/16,All,White,"62,415",49.2,-0.2
+E12000002,North West,2015/16,Boys,All Pupils,"37,571",47.1,-0.29
+E12000002,North West,2015/16,Boys,Asian,"3,276",48.7,0.09
+E12000002,North West,2015/16,Boys,Black,787,46.4,0.07
+E12000002,North West,2015/16,Boys,Chinese,155,59.1,0.49
+E12000002,North West,2015/16,Boys,Mixed,"1,078",46.7,-0.27
+E12000002,North West,2015/16,Boys,White,"31,620",46.9,-0.35
+E12000002,North West,2015/16,Girls,All Pupils,"36,486",51.8,0
+E12000002,North West,2015/16,Girls,Asian,"3,063",53.9,0.52
+E12000002,North West,2015/16,Girls,Black,737,50.9,0.4
+E12000002,North West,2015/16,Girls,Chinese,142,65,0.75
+E12000002,North West,2015/16,Girls,Mixed,"1,093",52.4,-0.02
+E12000002,North West,2015/16,Girls,White,"30,795",51.6,-0.06
+E13000002,Outer London,2015/16,All,All Pupils,"51,526",52.3,0.16
+E13000002,Outer London,2015/16,All,Asian,"9,811",57,0.49
+E13000002,Outer London,2015/16,All,Black,"8,893",49.6,0.18
+E13000002,Outer London,2015/16,All,Chinese,370,64.8,0.57
+E13000002,Outer London,2015/16,All,Mixed,"4,079",52.6,0.06
+E13000002,Outer London,2015/16,All,White,"24,654",51.6,0.02
+E13000002,Outer London,2015/16,Boys,All Pupils,"25,905",50.1,0.02
+E13000002,Outer London,2015/16,Boys,Asian,"5,149",55.4,0.37
+E13000002,Outer London,2015/16,Boys,Black,"4,365",46.7,-0.02
+E13000002,Outer London,2015/16,Boys,Chinese,183,62.7,0.41
+E13000002,Outer London,2015/16,Boys,Mixed,"1,970",50,-0.11
+E13000002,Outer London,2015/16,Boys,White,"12,322",49.5,-0.11
+E13000002,Outer London,2015/16,Girls,All Pupils,"25,621",54.4,0.3
+E13000002,Outer London,2015/16,Girls,Asian,"4,662",58.8,0.62
+E13000002,Outer London,2015/16,Girls,Black,"4,528",52.4,0.37
+E13000002,Outer London,2015/16,Girls,Chinese,187,66.9,0.74
+E13000002,Outer London,2015/16,Girls,Mixed,"2,109",54.9,0.22
+E13000002,Outer London,2015/16,Girls,White,"12,332",53.6,0.16
+E09000026,Redbridge,2015/16,All,All Pupils,"3,363",53.9,0.28
+E09000026,Redbridge,2015/16,All,Asian,"1,623",56.6,0.43
+E09000026,Redbridge,2015/16,All,Black,494,49.5,0.21
+E09000026,Redbridge,2015/16,All,Chinese,20,66,0.82
+E09000026,Redbridge,2015/16,All,Mixed,230,51.7,-0.01
+E09000026,Redbridge,2015/16,All,White,903,52,0.14
+E09000026,Redbridge,2015/16,Boys,All Pupils,"1,747",51.5,0.11
+E09000026,Redbridge,2015/16,Boys,Asian,879,54.2,0.28
+E09000026,Redbridge,2015/16,Boys,Black,230,44.9,-0.05
+E09000026,Redbridge,2015/16,Boys,Chinese,11,65.5,0.62
+E09000026,Redbridge,2015/16,Boys,Mixed,113,46.9,-0.39
+E09000026,Redbridge,2015/16,Boys,White,467,50,-0.03
+E09000026,Redbridge,2015/16,Girls,All Pupils,"1,616",56.5,0.47
+E09000026,Redbridge,2015/16,Girls,Asian,744,59.3,0.6
+E09000026,Redbridge,2015/16,Girls,Black,264,53.4,0.44
+E09000026,Redbridge,2015/16,Girls,Chinese,9,66.4,1.16
+E09000026,Redbridge,2015/16,Girls,Mixed,117,56.3,0.36
+E09000026,Redbridge,2015/16,Girls,White,436,54.1,0.31
+E09000027,Richmond upon Thames,2015/16,All,All Pupils,"1,367",54.6,0.1
+E09000027,Richmond upon Thames,2015/16,All,Asian,96,56.1,0.42
+E09000027,Richmond upon Thames,2015/16,All,Black,48,45.2,-0.04
+E09000027,Richmond upon Thames,2015/16,All,Chinese,12,60.5,0.96
+E09000027,Richmond upon Thames,2015/16,All,Mixed,135,52.2,-0.02
+E09000027,Richmond upon Thames,2015/16,All,White,"1,025",55.4,0.08
+E09000027,Richmond upon Thames,2015/16,Boys,All Pupils,638,52.1,-0.07
+E09000027,Richmond upon Thames,2015/16,Boys,Asian,46,54.4,0.21
+E09000027,Richmond upon Thames,2015/16,Boys,Black,24,41.8,-0.31
+E09000027,Richmond upon Thames,2015/16,Boys,Chinese,7,63.8,0.73
+E09000027,Richmond upon Thames,2015/16,Boys,Mixed,67,49.9,-0.33
+E09000027,Richmond upon Thames,2015/16,Boys,White,470,52.9,-0.05
+E09000027,Richmond upon Thames,2015/16,Girls,All Pupils,729,56.8,0.24
+E09000027,Richmond upon Thames,2015/16,Girls,Asian,50,57.6,0.62
+E09000027,Richmond upon Thames,2015/16,Girls,Black,24,48.5,0.25
+E09000027,Richmond upon Thames,2015/16,Girls,Chinese,5,55.8,1.3
+E09000027,Richmond upon Thames,2015/16,Girls,Mixed,68,54.5,0.28
+E09000027,Richmond upon Thames,2015/16,Girls,White,555,57.6,0.2
+E12000008,South East,2015/16,All,All Pupils,"85,618",51,0.02
+E12000008,South East,2015/16,All,Asian,"5,216",55.6,0.41
+E12000008,South East,2015/16,All,Black,"1,984",49.6,0.32
+E12000008,South East,2015/16,All,Chinese,316,64.1,0.7
+E12000008,South East,2015/16,All,Mixed,"3,574",52.1,0.04
+E12000008,South East,2015/16,All,White,"73,163",50.7,-0.02
+E12000008,South East,2015/16,Boys,All Pupils,"43,784",48.7,-0.12
+E12000008,South East,2015/16,Boys,Asian,"2,745",53.5,0.28
+E12000008,South East,2015/16,Boys,Black,"1,008",46.9,0.17
+E12000008,South East,2015/16,Boys,Chinese,175,62.7,0.6
+E12000008,South East,2015/16,Boys,Mixed,"1,817",49.8,-0.08
+E12000008,South East,2015/16,Boys,White,"37,285",48.3,-0.16
+E12000008,South East,2015/16,Girls,All Pupils,"41,834",53.4,0.16
+E12000008,South East,2015/16,Girls,Asian,"2,471",57.9,0.55
+E12000008,South East,2015/16,Girls,Black,976,52.5,0.47
+E12000008,South East,2015/16,Girls,Chinese,141,65.9,0.82
+E12000008,South East,2015/16,Girls,Mixed,"1,757",54.4,0.18
+E12000008,South East,2015/16,Girls,White,"35,878",53,0.13
+E12000009,South West,2015/16,All,All Pupils,"52,421",50.3,-0.05
+E12000009,South West,2015/16,All,Asian,"1,038",54.2,0.49
+E12000009,South West,2015/16,All,Black,599,44.6,0.06
+E12000009,South West,2015/16,All,Chinese,141,62.4,0.77
+E12000009,South West,2015/16,All,Mixed,"1,405",51.3,-0.07
+E12000009,South West,2015/16,All,White,"48,408",50.2,-0.06
+E12000009,South West,2015/16,Boys,All Pupils,"26,725",48.3,-0.18
+E12000009,South West,2015/16,Boys,Asian,561,52.2,0.37
+E12000009,South West,2015/16,Boys,Black,311,42.5,-0.04
+E12000009,South West,2015/16,Boys,Chinese,63,61.2,0.63
+E12000009,South West,2015/16,Boys,Mixed,717,49.6,-0.17
+E12000009,South West,2015/16,Boys,White,"24,663",48.3,-0.19
+E12000009,South West,2015/16,Girls,All Pupils,"25,696",52.3,0.08
+E12000009,South West,2015/16,Girls,Asian,477,56.5,0.62
+E12000009,South West,2015/16,Girls,Black,288,46.7,0.16
+E12000009,South West,2015/16,Girls,Chinese,78,63.3,0.9
+E12000009,South West,2015/16,Girls,Mixed,688,53.2,0.04
+E12000009,South West,2015/16,Girls,White,"23,745",52.3,0.07
+E09000028,Southwark,2015/16,All,All Pupils,"2,386",52.9,0.22
+E09000028,Southwark,2015/16,All,Asian,124,56.1,0.53
+E09000028,Southwark,2015/16,All,Black,"1,094",52.4,0.34
+E09000028,Southwark,2015/16,All,Chinese,34,64.1,0.77
+E09000028,Southwark,2015/16,All,Mixed,255,52.5,0.03
+E09000028,Southwark,2015/16,All,White,685,52.8,-0.01
+E09000028,Southwark,2015/16,Boys,All Pupils,"1,141",51.3,0.15
+E09000028,Southwark,2015/16,Boys,Asian,54,53.1,0.34
+E09000028,Southwark,2015/16,Boys,Black,501,49.6,0.23
+E09000028,Southwark,2015/16,Boys,Chinese,21,62.2,0.67
+E09000028,Southwark,2015/16,Boys,Mixed,137,50.7,-0.03
+E09000028,Southwark,2015/16,Boys,White,328,52.2,-0.09
+E09000028,Southwark,2015/16,Girls,All Pupils,"1,245",54.5,0.3
+E09000028,Southwark,2015/16,Girls,Asian,70,58.4,0.67
+E09000028,Southwark,2015/16,Girls,Black,593,54.7,0.43
+E09000028,Southwark,2015/16,Girls,Chinese,13,67.1,0.94
+E09000028,Southwark,2015/16,Girls,Mixed,118,54.7,0.11
+E09000028,Southwark,2015/16,Girls,White,357,53.4,0.06
+E09000029,Sutton,2015/16,All,All Pupils,"2,667",58.7,0.17
+E09000029,Sutton,2015/16,All,Asian,524,68.4,0.62
+E09000029,Sutton,2015/16,All,Black,212,58.8,0.27
+E09000029,Sutton,2015/16,All,Chinese,41,73.5,0.64
+E09000029,Sutton,2015/16,All,Mixed,201,59.6,0.15
+E09000029,Sutton,2015/16,All,White,"1,623",54.8,0
+E09000029,Sutton,2015/16,Boys,All Pupils,"1,370",57.1,0
+E09000029,Sutton,2015/16,Boys,Asian,258,67.8,0.48
+E09000029,Sutton,2015/16,Boys,Black,102,58.8,0.09
+E09000029,Sutton,2015/16,Boys,Chinese,23,72.9,0.56
+E09000029,Sutton,2015/16,Boys,Mixed,104,57.2,-0.08
+E09000029,Sutton,2015/16,Boys,White,851,53.2,-0.15
+E09000029,Sutton,2015/16,Girls,All Pupils,"1,297",60.3,0.34
+E09000029,Sutton,2015/16,Girls,Asian,266,69.1,0.75
+E09000029,Sutton,2015/16,Girls,Black,110,58.8,0.45
+E09000029,Sutton,2015/16,Girls,Chinese,18,74.3,0.73
+E09000029,Sutton,2015/16,Girls,Mixed,97,62.2,0.39
+E09000029,Sutton,2015/16,Girls,White,772,56.6,0.16
+E09000030,Tower Hamlets,2015/16,All,All Pupils,"2,570",50.2,0.15
+E09000030,Tower Hamlets,2015/16,All,Asian,"1,685",52.4,0.31
+E09000030,Tower Hamlets,2015/16,All,Black,307,49.3,0.17
+E09000030,Tower Hamlets,2015/16,All,Chinese,10,67.8,0.99
+E09000030,Tower Hamlets,2015/16,All,Mixed,129,47.3,-0.45
+E09000030,Tower Hamlets,2015/16,All,White,316,45.6,-0.43
+E09000030,Tower Hamlets,2015/16,Boys,All Pupils,"1,294",48.7,0.04
+E09000030,Tower Hamlets,2015/16,Boys,Asian,845,51,0.21
+E09000030,Tower Hamlets,2015/16,Boys,Black,158,48.1,0.08
+E09000030,Tower Hamlets,2015/16,Boys,Chinese,5,65,0.99
+E09000030,Tower Hamlets,2015/16,Boys,Mixed,64,45.7,-0.48
+E09000030,Tower Hamlets,2015/16,Boys,White,169,44.5,-0.54
+E09000030,Tower Hamlets,2015/16,Girls,All Pupils,"1,276",51.7,0.26
+E09000030,Tower Hamlets,2015/16,Girls,Asian,840,53.9,0.41
+E09000030,Tower Hamlets,2015/16,Girls,Black,149,50.5,0.26
+E09000030,Tower Hamlets,2015/16,Girls,Chinese,5,70.7,1
+E09000030,Tower Hamlets,2015/16,Girls,Mixed,65,49,-0.41
+E09000030,Tower Hamlets,2015/16,Girls,White,147,46.8,-0.3
+E09000031,Waltham Forest,2015/16,All,All Pupils,"2,539",50.4,0.23
+E09000031,Waltham Forest,2015/16,All,Asian,635,53.3,0.44
+E09000031,Waltham Forest,2015/16,All,Black,598,46.7,0.07
+E09000031,Waltham Forest,2015/16,All,Chinese,22,52.6,0.95
+E09000031,Waltham Forest,2015/16,All,Mixed,227,50,0.03
+E09000031,Waltham Forest,2015/16,All,White,969,50.6,0.21
+E09000031,Waltham Forest,2015/16,Boys,All Pupils,"1,259",48,0.06
+E09000031,Waltham Forest,2015/16,Boys,Asian,322,50.7,0.25
+E09000031,Waltham Forest,2015/16,Boys,Black,269,42.9,-0.18
+E09000031,Waltham Forest,2015/16,Boys,Chinese,10,46.9,1.3
+E09000031,Waltham Forest,2015/16,Boys,Mixed,109,48.6,-0.07
+E09000031,Waltham Forest,2015/16,Boys,White,494,48.5,0.07
+E09000031,Waltham Forest,2015/16,Girls,All Pupils,"1,280",52.8,0.39
+E09000031,Waltham Forest,2015/16,Girls,Asian,313,55.9,0.62
+E09000031,Waltham Forest,2015/16,Girls,Black,329,49.8,0.27
+E09000031,Waltham Forest,2015/16,Girls,Chinese,12,57.3,0.68
+E09000031,Waltham Forest,2015/16,Girls,Mixed,118,51.3,0.12
+E09000031,Waltham Forest,2015/16,Girls,White,475,52.9,0.35
+E09000032,Wandsworth,2015/16,All,All Pupils,"1,660",52.1,0.15
+E09000032,Wandsworth,2015/16,All,Asian,333,55,0.49
+E09000032,Wandsworth,2015/16,All,Black,458,48,0.02
+E09000032,Wandsworth,2015/16,All,Chinese,14,66.8,0.54
+E09000032,Wandsworth,2015/16,All,Mixed,188,52.3,-0.04
+E09000032,Wandsworth,2015/16,All,White,571,52.9,0.1
+E09000032,Wandsworth,2015/16,Boys,All Pupils,872,50.7,0.05
+E09000032,Wandsworth,2015/16,Boys,Asian,182,56.6,0.52
+E09000032,Wandsworth,2015/16,Boys,Black,245,45.7,-0.12
+E09000032,Wandsworth,2015/16,Boys,Chinese,6,69.5,0.67
+E09000032,Wandsworth,2015/16,Boys,Mixed,100,49.1,-0.26
+E09000032,Wandsworth,2015/16,Boys,White,287,51.1,-0.01
+E09000032,Wandsworth,2015/16,Girls,All Pupils,788,53.6,0.25
+E09000032,Wandsworth,2015/16,Girls,Asian,151,53.1,0.46
+E09000032,Wandsworth,2015/16,Girls,Black,213,50.7,0.18
+E09000032,Wandsworth,2015/16,Girls,Chinese,8,64.8,0.46
+E09000032,Wandsworth,2015/16,Girls,Mixed,88,56,0.22
+E09000032,Wandsworth,2015/16,Girls,White,284,54.8,0.2
+E12000005,West Midlands,2015/16,All,All Pupils,"60,215",49.2,-0.08
+E12000005,West Midlands,2015/16,All,Asian,"9,009",50.8,0.15
+E12000005,West Midlands,2015/16,All,Black,"2,727",47.5,0.12
+E12000005,West Midlands,2015/16,All,Chinese,153,61.3,0.77
+E12000005,West Midlands,2015/16,All,Mixed,"2,742",48.5,-0.15
+E12000005,West Midlands,2015/16,All,White,"44,335",49,-0.13
+E12000005,West Midlands,2015/16,Boys,All Pupils,"30,996",46.9,-0.22
+E12000005,West Midlands,2015/16,Boys,Asian,"4,685",48.9,0.01
+E12000005,West Midlands,2015/16,Boys,Black,"1,345",43.7,-0.14
+E12000005,West Midlands,2015/16,Boys,Chinese,72,56.5,0.6
+E12000005,West Midlands,2015/16,Boys,Mixed,"1,433",46.5,-0.27
+E12000005,West Midlands,2015/16,Boys,White,"22,804",46.7,-0.28
+E12000005,West Midlands,2015/16,Girls,All Pupils,"29,219",51.6,0.08
+E12000005,West Midlands,2015/16,Girls,Asian,"4,324",52.9,0.3
+E12000005,West Midlands,2015/16,Girls,Black,"1,382",51.2,0.36
+E12000005,West Midlands,2015/16,Girls,Chinese,81,65.5,0.93
+E12000005,West Midlands,2015/16,Girls,Mixed,"1,309",50.7,-0.01
+E12000005,West Midlands,2015/16,Girls,White,"21,531",51.4,0.02
+E09000033,Westminster,2015/16,All,All Pupils,"1,566",54.5,0.32
+E09000033,Westminster,2015/16,All,Asian,199,54.8,0.45
+E09000033,Westminster,2015/16,All,Black,333,50.6,0.1
+E09000033,Westminster,2015/16,All,Chinese,18,66.4,0.72
+E09000033,Westminster,2015/16,All,Mixed,130,54.6,0.24
+E09000033,Westminster,2015/16,All,White,483,58.2,0.3
+E09000033,Westminster,2015/16,Boys,All Pupils,763,51,0.09
+E09000033,Westminster,2015/16,Boys,Asian,106,53.3,0.3
+E09000033,Westminster,2015/16,Boys,Black,189,46.7,-0.16
+E09000033,Westminster,2015/16,Boys,Chinese,9,60.7,0.82
+E09000033,Westminster,2015/16,Boys,Mixed,62,50,0.02
+E09000033,Westminster,2015/16,Boys,White,197,52.8,0
+E09000033,Westminster,2015/16,Girls,All Pupils,803,57.8,0.53
+E09000033,Westminster,2015/16,Girls,Asian,93,56.4,0.61
+E09000033,Westminster,2015/16,Girls,Black,144,55.6,0.45
+E09000033,Westminster,2015/16,Girls,Chinese,9,72.1,0.58
+E09000033,Westminster,2015/16,Girls,Mixed,68,58.8,0.44
+E09000033,Westminster,2015/16,Girls,White,286,61.9,0.49
+E12000003,Yorkshire and the Humber,2015/16,All,All Pupils,"54,562",48.9,-0.03
+E12000003,Yorkshire and the Humber,2015/16,All,Asian,"5,981",47.7,0.09
+E12000003,Yorkshire and the Humber,2015/16,All,Black,"1,081",46.7,0.28
+E12000003,Yorkshire and the Humber,2015/16,All,Chinese,118,63.1,0.83
+E12000003,Yorkshire and the Humber,2015/16,All,Mixed,"1,658",48.1,-0.11
+E12000003,Yorkshire and the Humber,2015/16,All,White,"44,827",49.2,-0.06
+E12000003,Yorkshire and the Humber,2015/16,Boys,All Pupils,"27,760",46.7,-0.17
+E12000003,Yorkshire and the Humber,2015/16,Boys,Asian,"3,043",45,-0.09
+E12000003,Yorkshire and the Humber,2015/16,Boys,Black,551,43.2,0.14
+E12000003,Yorkshire and the Humber,2015/16,Boys,Chinese,54,62,0.67
+E12000003,Yorkshire and the Humber,2015/16,Boys,Mixed,849,45.7,-0.29
+E12000003,Yorkshire and the Humber,2015/16,Boys,White,"22,803",47,-0.18
+E12000003,Yorkshire and the Humber,2015/16,Girls,All Pupils,"26,802",51.2,0.11
+E12000003,Yorkshire and the Humber,2015/16,Girls,Asian,"2,938",50.5,0.28
+E12000003,Yorkshire and the Humber,2015/16,Girls,Black,530,50.4,0.42
+E12000003,Yorkshire and the Humber,2015/16,Girls,Chinese,64,64,0.96
+E12000003,Yorkshire and the Humber,2015/16,Girls,Mixed,809,50.5,0.08
+E12000003,Yorkshire and the Humber,2015/16,Girls,White,"22,024",51.4,0.08
